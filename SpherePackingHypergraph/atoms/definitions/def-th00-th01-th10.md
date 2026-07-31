@@ -30,4 +30,4 @@ formalized: true
 > [!note]- Notes (click to expand)
 > - The name records that these are theta *values* — the classical $\theta(z,\tau)$ at $z = 0$ — so they are functions of the modular variable alone and belong to the same world as the [[def-ek|Eisenstein series]].
 > - They satisfy the Jacobi identity $\theta_{00}^4 = \theta_{01}^4 + \theta_{10}^4$ ([[lemma-jacobi-identity]]), which is what makes the ring they generate small enough to compute in.
-> - [[def-h2-h3-h4|$H_2, H_3, H_4$]] are built from them, and through those they enter the $-1$ eigenfunction; [[def-disc-definition|$\Delta$]] is their product up to a constant.
+> - $H_2, H_3, H_4$ ([[def-h2-h3-h4]]) are built from them, and through those they enter the $-1$ eigenfunction; $\Delta$ ([[def-disc-definition]]) is their product up to a constant.

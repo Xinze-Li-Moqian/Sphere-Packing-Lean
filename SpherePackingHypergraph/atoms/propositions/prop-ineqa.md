@@ -21,7 +21,7 @@ type: proposition
 ## Proof
 
 > [!note]- Proof (click to expand)
-> By [[lemma-ineqabnew-equiv]], the inequality $A(t)<0$ ([[eq-ineqa]]) is equivalent to $F(it)+\frac{18}{\pi^2}G(it)>0$ ([[eq-ineqanew]]) — the change of variables trades the transcendental combination of [[def-phi4-phi2-phi0|$\phi_0$]] and [[def-psii-psit-psis|$\psi_I$]] for the two (quasi)modular forms [[def-fg-definition|$F$ and $G$]].
+> By [[lemma-ineqabnew-equiv]], the inequality $A(t)<0$ ([[eq-ineqa]]) is equivalent to $F(it)+\frac{18}{\pi^2}G(it)>0$ ([[eq-ineqanew]]) — the change of variables trades the transcendental combination of $\phi_0$ ([[def-phi4-phi2-phi0]]) and $\psi_I$ ([[def-psii-psit-psis]]) for the two (quasi)modular forms $F$ and $G$ ([[def-fg-definition]]).
 >
 > And [[eq-ineqanew]] holds by [[cor-ineqanew]]: both $F(it)$ and $G(it)$ are strictly positive on $t>0$ ([[lemma-f-g-pos]]), being — by Ramanujan&#8217;s identity — squares and products of $q$-series with positive coefficients, so the sum is positive term by term.
 >

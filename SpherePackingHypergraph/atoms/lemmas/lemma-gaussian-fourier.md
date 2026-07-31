@@ -25,6 +25,6 @@ type: lemma
 >
 > **Analytic continuation.** Fix $y$. The left side is holomorphic in $z\in\mathfrak{H}$: the integrand $e^{\pi i\|x\|^2 z}$ is dominated by $e^{-\pi\|x\|^2\,\Im z}$, locally uniformly, so differentiation under the integral is justified. The right side is holomorphic on $\mathfrak{H}$ as well — and $z^{-4}$ needs no branch choice, because the exponent is the even integer $d/2=4$: this is where dimension $8$ enters, as $(z/i)^{-d/2}=z^{-4}i^{4}=z^{-4}$ exactly when $d\equiv 0\pmod 8$. Two holomorphic functions agreeing on the ray $i\mathbb{R}_{>0}$ agree on all of $\mathfrak{H}$ by the identity theorem.
 >
-> This is equation (36) of [[ref-via2017]]; the family $z\mapsto e^{\pi i\|x\|^2 z}$ is the bridge on which the [[def-fourier-transform|Fourier transform]] acts by $z\mapsto -1/z$, i.e. by the generator [[def-gamma-generators|$S$]].
+> This is equation (36) of [[ref-via2017]]; the family $z\mapsto e^{\pi i\|x\|^2 z}$ is the bridge on which the [[def-fourier-transform|Fourier transform]] acts by $z\mapsto -1/z$, i.e. by the generator $S$ ([[def-gamma-generators]]).
 
 **Uses**: [[def-fourier-transform]].

@@ -24,5 +24,5 @@ formalized: true
 
 > [!note]- Notes (click to expand)
 > - The normalisation by $1/2\pi i$ makes $D$ act on $q$-expansions as $q\,\mathrm{d}/\mathrm{d}q$: it multiplies the $n$-th coefficient by $n$. That is why [[lemma-der-q-series]] and the coefficient estimates read as cleanly as they do.
-> - $D$ does not preserve [[def-mk|modularity]] — it raises the weight by two and adds a term in [[def-e2|$E_2$]]. The [[def-serre-der|Serre derivative]] is $D$ corrected by exactly that term, and is the derivative this development uses.
+> - $D$ does not preserve [[def-mk|modularity]] — it raises the weight by two and adds a term in $E_2$ ([[def-e2]]). The [[def-serre-der|Serre derivative]] is $D$ corrected by exactly that term, and is the derivative this development uses.
 > - The hypothesis is a *quasimodular* form, which this pool does not define; see the debt row in [[notation]].

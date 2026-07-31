@@ -22,6 +22,6 @@ formalized: true
 ## Notes
 
 > [!note]- Notes (click to expand)
-> - Formally the $k=2$ case of the [[def-ek|Eisenstein series]], but the defining sum is not absolutely convergent there, and the function one gets is not modular: it picks up an extra term under [[def-gamma-generators|$S$]]. It is [[def-derivative|quasimodular]] instead.
+> - Formally the $k=2$ case of the [[def-ek|Eisenstein series]], but the defining sum is not absolutely convergent there, and the function one gets is not modular: it picks up an extra term under $S$ ([[def-gamma-generators]]). It is [[def-derivative|quasimodular]] instead.
 > - That failure is exactly measured, which is what makes it usable: subtracting the right multiple of $E_2$ turns the [[def-derivative|derivative]] — which does not preserve modularity — into the [[def-serre-der|Serre derivative]], which does.
-> - It appears throughout the $-1$ eigenfunction construction for that reason, in [[def-fg-definition|$F$ and $G$]] and in [[def-h2-h3-h4|$H_2, H_3, H_4$]].
+> - It appears throughout the $-1$ eigenfunction construction for that reason, in $F$ and $G$ ([[def-fg-definition]]) and in $H_2, H_3, H_4$ ([[def-h2-h3-h4]]).

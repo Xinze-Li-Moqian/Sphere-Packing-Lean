@@ -25,4 +25,4 @@ formalized: true
 > [!note]- Notes (click to expand)
 > - Defined here for $L^1$, but the object it is used on is the [[def-schwartz-space|Schwartz space]], where it is an automorphism — [[lemma-fourier-transform-is-automorphism]] — and where the inversion formula needs no qualification.
 > - The whole method rests on Poisson summation, which trades a sum of $f$ over a [[iszlattice|lattice]] for a sum of $\widehat f$ over its [[def-dual-lattice|dual]]. That is why the [[thm-cohn-elkies-general|linear programming bound]] constrains $f$ and $\widehat f$ at once, and why self-duality of $\Lambda_8$ is the coincidence the proof turns on.
-> - The two functions the proof finally exhibits are eigenfunctions of this operator: [[def-a-definition|$a_{\mathrm{rad}}$]] with eigenvalue $+1$ and [[def-b-definition|$b_{\mathrm{rad}}$]] with eigenvalue $-1$.
+> - The two functions the proof finally exhibits are eigenfunctions of this operator: $a_{\mathrm{rad}}$ ([[def-a-definition]]) with eigenvalue $+1$ and $b_{\mathrm{rad}}$ ([[def-b-definition]]) with eigenvalue $-1$.
