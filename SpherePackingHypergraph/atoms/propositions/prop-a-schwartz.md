@@ -1,5 +1,5 @@
 ---
-id: b0d82295ee15
+id: fa34f05af136
 type: proposition
 lean:
   - MagicFunction.FourierEigenfunctions.a
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!proposition] prop:a-schwartz
-> $a(x)$ is a Schwartz function.
+> $a(x)$ is a [[def-schwartz-space|Schwartz function]].
 
 ## Proof
 

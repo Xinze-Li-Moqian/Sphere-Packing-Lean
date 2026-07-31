@@ -1,5 +1,5 @@
 ---
-id: 4b4464fa6d79
+id: b505f8a6a0f9
 type: lemma
 lean:
   - SpherePacking.scale_finiteDensity
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!lemma] SpherePacking.scale_finiteDensity
-> Let $\mathcal{P}(X)$ be a sphere packing and $c$ a positive real number. Then, for all $R > 0$,
+> Let $\mathcal{P}(X)$ be a [[spherepackingballs|sphere packing]] and $c$ a positive real number. Then, for all $R > 0$,
 > 
 > $$\Delta_{\mathcal{P}(cX)}(cR) = \Delta_{\mathcal{P}(X)}(R).$$
 

@@ -1,5 +1,5 @@
 ---
-id: 6a5b53847d4e
+id: 7dcc76540a9c
 type: theorem
 lean:
   - periodic_constant_eq_constant
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] thm:periodic-packing-optimal
-> For all $d$, the periodic sphere packing constant in $\mathbb{R}^d$ is equal to the sphere packing constant in $\mathbb{R}^d$.
+> For all $d$, the periodic [[spherepackingconstant|sphere packing constant]] in $\mathbb{R}^d$ is equal to the sphere packing constant in $\mathbb{R}^d$.
 
 ## Proof
 

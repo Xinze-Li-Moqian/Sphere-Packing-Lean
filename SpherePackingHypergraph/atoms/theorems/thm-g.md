@@ -1,5 +1,5 @@
 ---
-id: 6c407f01218e
+id: 4c34b8f1bd46
 type: theorem
 ---
 
@@ -8,7 +8,7 @@ type: theorem
 ## Statement
 
 > [!theorem] thm:g
-> There exists a radial Schwartz function $g:\mathbb{R}^8\to\mathbb{R}$ which satisfies:
+> There exists a radial [[def-schwartz-space|Schwartz function]] $g:\mathbb{R}^8\to\mathbb{R}$ which satisfies:
 > $$
 > \begin{aligned}
 > g(x)&\leq 0\mbox{ for } \|x\|\geq \sqrt{2} \\

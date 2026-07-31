@@ -1,5 +1,5 @@
 ---
-id: ffe4ae9d450f
+id: b02d1c9c4844
 type: theorem
 ---
 
@@ -16,4 +16,4 @@ type: theorem
 > $$
 > f_d : \mathbb{R}^d \to \mathbb{C}, \quad f_d(x) := f(\|x\|^2)
 > $$
-> is a Schwartz function.
+> is a [[def-schwartz-space|Schwartz function]].

@@ -1,5 +1,5 @@
 ---
-id: 260f89988982
+id: 9240553fc555
 type: theorem
 lean:
   - dim_gen_cong_levels
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] thm:dim-mf-general-level
-> Let $\Gamma$ be a congruence subgroup. Then $M_k(\Gamma)$ is finite-dimensional.
+> Let $\Gamma$ be a [[def-congruence-subgroup|congruence subgroup]]. Then $M_k(\Gamma)$ is finite-dimensional.
 
 ## Proof
 

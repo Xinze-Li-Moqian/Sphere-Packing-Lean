@@ -1,5 +1,5 @@
 ---
-id: ee7ed8bc0d75
+id: 50ec22eb38e1
 type: theorem
 ---
 
@@ -8,7 +8,7 @@ type: theorem
 ## Statement
 
 > [!theorem] theorem:CE_Main
-> All *periodic* packing $\mathcal{P} \subseteq \mathbb{R}^8$ has density satisfying $\Delta_{\mathcal{P}} \leq \Delta_{E_8} = \frac{\pi^4}{384}$, the density of the $E_8$ sphere packing (see [[e8packing]]).
+> All *periodic* packing $\mathcal{P} \subseteq \mathbb{R}^8$ has density satisfying $\Delta_{\mathcal{P}} \leq \Delta_{E_8} = \frac{\pi^4}{384}$, the density of the $E_8$ [[spherepackingballs|sphere packing]] (see [[e8packing]]).
 
 ## Proof
 

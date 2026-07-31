@@ -1,5 +1,5 @@
 ---
-id: 239099e8c331
+id: 28e0e034fcff
 type: theorem
 lean:
   - PeriodicSpherePacking.density_eq
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] theorem:psp-density
-> For a periodic sphere packing $\mathcal{P} = \mathcal{P}(X)$ with centers $X$ periodic to the lattice $\Lambda$ and separation $r$,
+> For a periodic [[spherepackingballs|sphere packing]] $\mathcal{P} = \mathcal{P}(X)$ with centers $X$ periodic to the lattice $\Lambda$ and separation $r$,
 > 
 > $$\Delta_{\mathcal{P}} = |X / \Lambda| \cdot \frac{\operatorname{Vol}\!\left(\mathcal{B}_d(r / 2)\right)}{\operatorname{Vol}\!\left(\mathbb{R}^d / \Lambda\right)}$$
 
