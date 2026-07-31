@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > \widehat{f}(x)\geq0\mbox{ for all } x\in\mathbb{R}^d.
 > $$
+
+**In terms of**: [[def-fourier-transform]].

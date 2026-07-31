@@ -15,6 +15,8 @@ from: blueprint
 > $$
 > The integral converges absolutely for all $r\in\mathbb{R}_{\geq 0}$.
 
+**In terms of**: [[def-phi4-phi2-phi0]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -31,3 +33,5 @@ from: blueprint
 > Therefore, the identity [[eq-a-another-integral]] holds for $r>\sqrt{2}$.
 > 
 > On the other hand, from the definition (eqn:a-definition) we see that $a(r)$ is analytic in some neighborhood of $[0,\infty)$. The asymptotic expansion (eqn: phi asymptotic) implies that the right hand side of [[eq-a-another-integral]] is also analytic in some neighborhood of $[0,\infty)$. Hence, the identity [[eq-a-another-integral]] holds on the whole interval $[0,\infty)$. This finishes the proof of the proposition.
+
+**Uses**: [[def-a-definition]], [[def-phi4-phi2-phi0]], [[lemma-phi0-transform]], [[prop-a-double-zeros]].

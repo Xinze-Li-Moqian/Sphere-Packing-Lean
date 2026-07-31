@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > |\phi_{-4}(z)| \le C_{-4} e^{2 \pi \Im z}
 > $$
+
+**Used by**: [[cor-phi0-near-0-infty]].

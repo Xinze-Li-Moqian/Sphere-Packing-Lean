@@ -15,3 +15,5 @@ from: blueprint
 > $$
 > for some $c_{H_4}(n) \in \mathbb{R}$ with $c_{H_4}(0) = 1$ and $c_{H_4}(n) = O(n^k)$ for some $k \in \mathbb{N}$.
 > Especially, $H_4$ is not cuspidal.
+
+**Uses**: [[def-h2-h3-h4]].

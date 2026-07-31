@@ -14,3 +14,5 @@ from: blueprint
 > |\phi_{-2}(z)| \le C_{-2}
 > $$
 > for all $z$ with $\Im z > 1/2$.
+
+**Uses**: [[def-phi4-phi2-phi0]], [[lemma-ek-fourier]], [[lemma-mod-div-disc-bound]].

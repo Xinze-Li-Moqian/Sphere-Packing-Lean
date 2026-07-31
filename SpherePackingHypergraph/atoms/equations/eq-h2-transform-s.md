@@ -14,3 +14,5 @@ from: blueprint
 > H_2 | S &= -H_4
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-h2-h3-h4]].

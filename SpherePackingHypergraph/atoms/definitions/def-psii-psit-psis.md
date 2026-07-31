@@ -17,3 +17,5 @@ from: blueprint
 > \psi_S\,:=\,&\psi_I|_{-2}S. 
 > \end{aligned}
 > $$
+
+**Uses**: [[def-h]].

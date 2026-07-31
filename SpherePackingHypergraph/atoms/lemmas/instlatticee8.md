@@ -18,3 +18,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > The first part is by [[instdiscretee8lattice]], and the second part follows from that $\mathcal{B}_8$ is a basis ([[e8-is-basis]]) and hence linearly independent over $\mathbb{R}$.
+
+**Uses**: [[e8-is-basis]], [[instdiscretee8lattice]].

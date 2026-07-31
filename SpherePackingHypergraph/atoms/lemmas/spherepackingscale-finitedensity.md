@@ -26,3 +26,5 @@ formalized: true
 > = \Delta_{\mathcal{P}(X)}(R)$$
 > 
 > where the second equality follows from applying the fact that scaling a (measurable) set by a factor of $c$ scales its volume by a factor of $c^d$ to the fact that $\mathcal{P}(cX) \cap B_d(0, cR) = c \cdot (\mathcal{P}(X) \cap B_d(0, cR))$.
+
+**Uses**: [[spherepackingfinitedensity]], [[spherepackingscale]].

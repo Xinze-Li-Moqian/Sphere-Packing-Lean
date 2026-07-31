@@ -15,6 +15,8 @@ formalized: true
 > [!lemma] lemma:F-G-pos
 > For all $t > 0$, we have $F(it) > 0$ and $G(it) > 0$.
 
+**Used by**: [[cor-ineqanew]], [[cor-ineqbnew]], [[prop-ineqa]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -23,3 +25,5 @@ formalized: true
 > F(it) = 9E_4'(it)^2 = 9 \left(240\sum_{n \geq 1} n \sigma_3(n) e^{-2 \pi n t} \right)^{2} > 0.
 > $$
 > $G(it) > 0$ follows from positivity of $H_2(it)$ and $H_4(it)$ (Lemma [[cor-theta-pos]]).
+
+**Uses**: [[cor-theta-pos]], [[thm-ramanujan-formula]].

@@ -20,3 +20,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > One possible proof would be by induction on $d$. However, there are numerous nuances involved, particularly in manipulating nested infinite sums. Ideas would be appreciated.
+
+**Uses**: [[def-dual-lattice]], [[def-fourier-transform]], [[def-schwartz-space]], [[lemma-inv-power-summable]], [[lemma-schwartz-summable]].

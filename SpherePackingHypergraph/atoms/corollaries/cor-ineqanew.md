@@ -18,3 +18,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > This directly follows from Lemma [[lemma-f-g-pos]].
+
+**Uses**: [[lemma-f-g-pos]].

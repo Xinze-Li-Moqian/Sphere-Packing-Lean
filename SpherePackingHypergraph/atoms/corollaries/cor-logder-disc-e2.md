@@ -13,6 +13,8 @@ from: blueprint
 > \Delta' = E_2 \Delta.
 > $$
 
+**In terms of**: [[def-disc-definition]], [[def-e2]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -20,3 +22,5 @@ from: blueprint
 > $$
 > \Delta' = \frac{3 E_4^2 E_4' - 2 E_6 E_6'}{1728} = \frac{1}{1728} \left(3 E_4^2 \cdot \frac{E_2 E_4 - E_6}{3} - 2 E_6 \cdot \frac{E_2 E_6 - E_4^2}{2}\right) = \frac{E_2(E_4^3 - E_6^2)}{1728} = E_2\Delta.
 > $$
+
+**Uses**: [[def-disc-definition]], [[thm-ramanujan-formula]].

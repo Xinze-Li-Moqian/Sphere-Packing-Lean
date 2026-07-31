@@ -17,6 +17,8 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-phi4-phi2-phi0]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -26,3 +28,5 @@ from: blueprint
 > \left|\phi_0\left(\frac{i}{t}\right)\right| \le |\phi_0(it)| + \frac{12}{\pi t} |\phi_{-2}(it)| + \frac{36}{\pi^2 t^2} |\phi_{-4}(it)|
 > \le C_0 e^{-2 \pi t} + \frac{12}{\pi t} \cdot C_{-2} + \frac{36}{\pi^2 t^2} \cdot C_{-4} e^{2 \pi t} = O(t^{-2}e^{2 \pi t}).
 > $$
+
+**Uses**: [[cor-phi0-bound]], [[cor-phi2-bound]], [[cor-phi4-bound]], [[lemma-phi0-transform]].

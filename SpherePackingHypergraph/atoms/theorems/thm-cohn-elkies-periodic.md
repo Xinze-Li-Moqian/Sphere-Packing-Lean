@@ -42,3 +42,5 @@ formalized: true
 > $$\Delta(\mathcal{P}_X)=\frac{\sharp (X/\Lambda)}{\mathrm{vol}(\mathbb{R}^d/\Lambda)}\cdot{\mathrm{vol}(B_d(0,1/2))}\leq
 > \frac{f(0)}{\widehat{f}(0)}\cdot \mathrm{vol}(B_d(0,1/2)).$$
 > This finishes the proof of the theorem for periodic packings.
+
+**Uses**: [[def-fourier-transform]], [[spherepackingdensity]].

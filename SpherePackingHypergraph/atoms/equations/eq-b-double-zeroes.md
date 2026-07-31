@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > b(r)=-4\sin(\pi r^2/2)^2\,\int\limits_{0}^{i\infty}\psi_I(z)\,e^{\pi i r^2 \,z}\,dz.
 > $$
+
+**In terms of**: [[def-psii-psit-psis]].

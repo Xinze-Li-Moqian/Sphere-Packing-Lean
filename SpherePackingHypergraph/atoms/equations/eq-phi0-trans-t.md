@@ -14,3 +14,5 @@ from: blueprint
 > \phi_0(z + 1) &= \phi_0(z)
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-phi4-phi2-phi0]].

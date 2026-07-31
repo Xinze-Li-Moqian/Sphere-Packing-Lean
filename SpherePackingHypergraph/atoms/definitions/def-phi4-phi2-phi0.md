@@ -16,3 +16,5 @@ from: blueprint
 > \phi_{0} &:= \frac{(E_2 E_4 - E_6)^2}{\Delta} 
 > \end{aligned}
 > $$
+
+**Uses**: [[def-e2]], [[def-ek]].

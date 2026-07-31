@@ -17,6 +17,8 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-phi4-phi2-phi0]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -31,3 +33,5 @@ from: blueprint
 > &= \phi_0(z) - \frac{12 i}{\pi z} \phi_{-2}(z) - \frac{36}{\pi^2 z^2} \phi_{-4}(z).
 > \end{aligned}
 > $$
+
+**Uses**: [[def-phi4-phi2-phi0]], [[lemma-disc-cuspform]], [[lemma-e2-transform-s]], [[lemma-ek-is-modular-form]].

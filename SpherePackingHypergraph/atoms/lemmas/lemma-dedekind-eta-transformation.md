@@ -22,3 +22,5 @@ lean:
 > Consider the logarithmic derivative of $\eta$, which one can easily see is equal to $\frac{\pi i}{12} E_2$. The result then follows from the transformation of $E_2$.
 > 
 > See [[ref-first-course]].
+
+**Uses**: [[def-dedekind-eta]].

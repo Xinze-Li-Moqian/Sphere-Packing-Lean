@@ -18,3 +18,5 @@ from: blueprint
 > A(t) < 0
 > $$
 > for all $t > 0$.
+
+**Uses**: [[cor-ineqanew]], [[lemma-f-g-phi-psi-identities]], [[lemma-f-g-pos]], [[lemma-ineqabnew-equiv]].

@@ -14,3 +14,5 @@ from: blueprint
 > g(x)&\leq 0\mbox{ for } \|x\|\geq \sqrt{2}
 > \end{aligned}
 > $$
+
+**Used by**: [[thm-g1]].

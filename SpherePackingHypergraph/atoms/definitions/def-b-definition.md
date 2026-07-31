@@ -27,3 +27,5 @@ from: blueprint
 > $$
 > Here all the contours are straight line segments.
 > Then we define $b : \mathbb{R}^8 \to \mathbb{C}$ by $b(x) := b_\mathrm{rad}(\|x\|^2)$.
+
+**Uses**: [[def-psii-psit-psis]].

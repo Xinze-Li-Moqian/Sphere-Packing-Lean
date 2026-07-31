@@ -48,3 +48,5 @@ lean:
 > \end{aligned}
 > $$
 > This finishes the proof of the proposition.
+
+**Uses**: [[def-a-definition]], [[def-e2]], [[lemma-ek-fourier]], [[lemma-gaussian-fourier]], [[prop-a-schwartz]].

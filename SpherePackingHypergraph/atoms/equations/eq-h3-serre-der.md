@@ -14,3 +14,5 @@ from: blueprint
 > \partial_{2} H_{3} &= \frac{1}{6} (H_{2}^{2} - H_{4}^{2})
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-h2-h3-h4]].

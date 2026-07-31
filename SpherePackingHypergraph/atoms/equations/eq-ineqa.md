@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > A(t) < 0
 > $$
+
+**Used by**: [[lemma-ineqabnew-equiv]].

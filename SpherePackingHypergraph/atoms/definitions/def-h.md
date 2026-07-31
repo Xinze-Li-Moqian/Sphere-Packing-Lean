@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > h(z) := 128 \frac{H_3(z) + H_4(z)}{H_2(z)^2}.
 > $$
+
+**Uses**: [[def-h2-h3-h4]].

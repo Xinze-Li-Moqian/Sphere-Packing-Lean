@@ -17,3 +17,5 @@ from: blueprint
 > g(0)&=\widehat{g}(0)=1.
 > \end{aligned}
 > $$
+
+**Uses**: [[thm-g1]].

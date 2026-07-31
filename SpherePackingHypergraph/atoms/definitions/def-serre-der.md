@@ -16,3 +16,5 @@ formalized: true
 > $$
 > \partial_{k}F := F' - \frac{k}{12} E_2 F.
 > $$
+
+**Uses**: [[def-derivative]], [[def-e2]].

@@ -31,3 +31,5 @@ formalized: true
 > $$
 > so $f$ is actually a modular form of level $1$.
 > By considering the limit as $z \to i\infty$, $f$ is a [[def-cusp-form|cusp form]], so we get $f = 0$ from [[eq-dims4]].
+
+**Uses**: [[cor-dim-mf]], [[lemma-theta-modular]].

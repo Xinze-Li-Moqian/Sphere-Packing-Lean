@@ -18,3 +18,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > Immediate from Theorem [[thm-serre-der-equiv-action]] since $F|_k\gamma = F$ for all $\gamma \in \Gamma$.
+
+**Uses**: [[def-mk]], [[def-serre-der]], [[thm-serre-der-equiv-action]].

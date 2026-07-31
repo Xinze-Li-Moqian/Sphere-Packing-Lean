@@ -32,3 +32,5 @@ formalized: true
 > $$
 > Here all the contours are chosen to be straight line segments.
 > Now, define $a(x) := a_{\mathrm{rad}}(\|x\|^2)$ for $x \in \mathbb{R}^8$.
+
+**Uses**: [[def-phi4-phi2-phi0]].

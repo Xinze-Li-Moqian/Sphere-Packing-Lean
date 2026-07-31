@@ -14,7 +14,11 @@ formalized: true
 > [!lemma] E8Packing-covol
 > $\operatorname{Vol}\!\left(\Lambda_8\right) = \mathrm{Covol}(\mathbb{R}^8 / \Lambda_8) = 1$.
 
+**In terms of**: [[e8-set]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > }
+
+**Uses**: [[e8packing]].

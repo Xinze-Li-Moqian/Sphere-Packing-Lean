@@ -14,6 +14,8 @@ lean:
 > [!corollary] cor:theta-pos
 > $H_2(it)$ and $H_4(it)$ are positive for $t > 0$.
 
+**In terms of**: [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -21,3 +23,5 @@ lean:
 > $$
 > \Theta_{2}(it) = \sum_{n \in \mathbb{Z}} e^{- \pi (n + \frac{1}{2})^{2} t} > 0.
 > $$
+
+**Uses**: [[lemma-theta-transform-s-t]].

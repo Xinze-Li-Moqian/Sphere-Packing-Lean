@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > |\phi_0(z)| \le C_0 e^{-2 \pi \Im z}
 > $$
+
+**In terms of**: [[def-phi4-phi2-phi0]].

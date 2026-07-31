@@ -22,3 +22,5 @@ formalized: true
 > $$
 > 
 > Negativity of [[eq-ddg]], i.e. $-640 \Delta(it) H_2(it) < 0$ follows from Corollary [[cor-theta-pos]] and [[cor-disc-pos]].
+
+**Uses**: [[cor-disc-pos]], [[cor-theta-pos]], [[def-e2]], [[lemma-fg-de]].

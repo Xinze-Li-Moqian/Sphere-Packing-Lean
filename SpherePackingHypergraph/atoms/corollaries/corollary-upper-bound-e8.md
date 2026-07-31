@@ -15,3 +15,5 @@ from: blueprint
 
 > [!note]- Proof (click to expand)
 > This is a direct consequence of Theorem [[thm-periodic-packing-optimal]] and [[theorem-ce-main]].
+
+**Uses**: [[theorem-ce-main]], [[thm-periodic-packing-optimal]].

@@ -17,6 +17,8 @@ formalized: true
 > \lim_{t \to 0^+} Q(t) = \frac{18}{\pi^2}.
 > $$
 
+**Used by**: [[cor-ineqbnew]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -41,3 +43,5 @@ formalized: true
 > &= \frac{18}{\pi^2}.
 > \end{aligned}
 > $$
+
+**Uses**: [[lemma-e2-transform-s]], [[lemma-ek-is-modular-form]], [[lemma-theta-transform-s-t]].

@@ -14,6 +14,8 @@ from: blueprint
 > b(r)=-4\sin(\pi r^2/2)^2\,\int\limits_{0}^{i\infty}\psi_I(z)\,e^{\pi i r^2 \,z}\,dz.
 > $$
 
+**In terms of**: [[def-psii-psit-psis]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -59,3 +61,5 @@ from: blueprint
 > =&b(r).\notag
 > \end{aligned}
 > $$
+
+**Uses**: [[cor-disc-nonvanishing]], [[cor-psii-near-0-infty]], [[def-psii-psit-psis]], [[lemma-psii-psit-psis-fourier]].

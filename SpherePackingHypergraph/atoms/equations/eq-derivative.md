@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > F' = DF := \frac{1}{2\pi i} \frac{\mathrm{d}}{\mathrm{d} z} F.
 > $$
+
+**In terms of**: [[def-derivative]], [[def-serre-der]].

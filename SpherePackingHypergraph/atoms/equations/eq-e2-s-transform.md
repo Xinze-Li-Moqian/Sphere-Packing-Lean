@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > z^{-2}\,E_2\left(-\frac{1}{z}\right) = E_2(z) -\frac{6i}{\pi}\, \frac{1}{z}.
 > $$
+
+**In terms of**: [[def-e2]].

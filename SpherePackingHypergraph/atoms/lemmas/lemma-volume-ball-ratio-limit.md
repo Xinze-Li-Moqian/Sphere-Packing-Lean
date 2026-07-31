@@ -16,6 +16,8 @@ formalized: true
 > 
 > $$\lim_{R \to \infty} \frac{\mathrm{Vol}(\mathcal{B}_d(R))}{\mathrm{Vol}(\mathcal{B}_d(R + C))} = 1$$
 
+**Used by**: [[theorem-psp-density]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)

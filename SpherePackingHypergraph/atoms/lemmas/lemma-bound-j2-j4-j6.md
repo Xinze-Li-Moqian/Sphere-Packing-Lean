@@ -16,3 +16,5 @@ from: blueprint
 > |J_6(r)| &\le C_2 \frac{e^{\pi (r + 1)}}{r + 1}
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-b-definition]].

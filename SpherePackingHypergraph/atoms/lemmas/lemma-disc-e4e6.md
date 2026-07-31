@@ -17,9 +17,13 @@ formalized: true
 > \Delta(z) = (E_4^3-E_6^2)/1728.
 > $$
 
+**In terms of**: [[def-disc-definition]], [[def-ek]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > We only need to show its a cuspform, since once we have this, dividing the rhs by $\Delta$ would give a [[def-mk|modular form]] of weight $0$ which is a constant, and so we can determine the constant easily.
 > 
 > To check its a cuspform, we just look at  the $q$-expansions of $E_4$ and $E_6$ and prove directly that the first term vanishes.
+
+**Uses**: [[def-disc-definition]].

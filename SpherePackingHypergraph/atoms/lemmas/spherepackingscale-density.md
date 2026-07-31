@@ -26,3 +26,5 @@ formalized: true
 > $$\limsup_{cR \to \infty} \Delta_{\mathcal{P}(cX)}(cR) = \limsup_{cR \to \infty} \Delta_{\mathcal{P}(X)}(R) = \limsup_{R \to \infty} \Delta_{\mathcal{P}(X)}(R)$$
 > 
 > where the second equality is the result of a similar change of variables to the one done above.
+
+**Uses**: [[spherepackingscale]].

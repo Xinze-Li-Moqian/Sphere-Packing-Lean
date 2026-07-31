@@ -14,3 +14,5 @@ from: blueprint
 > \psi_I\,:=\,&h-h|_{-2}ST
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-psii-psit-psis]].

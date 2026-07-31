@@ -35,14 +35,16 @@ formulas, and a link inside `$…$` renders as brackets.
 | periodic | the same, as an adjective: every standalone use in this pool means this, and `$\Lambda$-periodic` names the lattice | [[periodicspherepacking]] |
 | periodic sphere packing constant | $\Delta_d^{\text{periodic}}$, the supremum over periodic packings | [[def-periodic-sphere-packing-constant]] |
 | $E_8$ sphere packing | separation $\sqrt2$, centres $\Lambda_8$ — the optimal one in dimension eight | [[e8packing]] |
-| $\Lambda_8$ | the $E_8$ lattice | [[e8packing]] |
+| $\Lambda_8$ | the $E_8$ lattice: all-integer or all-half-integer coordinates summing to an even number | [[e8-set]] |
+| $\mathcal{B}_8$ | the eight $E_8$ basis vectors, whose $\mathbb{Z}$-span is $\Lambda_8$ | [[e8-matrix]] |
+| $B_8$ | the same eight vectors, as a matrix | [[e8-matrix]] |
 | $\Delta_d$, $\Delta_P$ | the sphere packing constant; the density of $P$ | [[spherepackingconstant]] |
 
 ## Analysis
 
 | Notation | Meaning | Card |
 |---|---|---|
-| Fourier transform | $\widehat f(y) = \int f(x)\, e^{-2\pi i \langle x, y\rangle}\,dx$ | [[def-fourier-transform]] |
+| Fourier transform, $\widehat f$, $\mathcal{F}$ | $\widehat f(y) = \int f(x)\, e^{-2\pi i \langle x, y\rangle}\,dx$ | [[def-fourier-transform]] |
 | Schwartz function | smooth, with every derivative decaying faster than any power | [[def-schwartz-space]] |
 | Schwartz space | the space of those | [[def-schwartz-space]] |
 | $a_{\mathrm{rad}}$ | the radial function built from the $+1$ eigenfunction | [[def-a-definition]] |
@@ -57,23 +59,23 @@ formulas, and a link inside `$…$` renders as brackets.
 | modular group | $\Gamma_1 = \mathrm{SL}_2(\mathbb{Z})$, acting on the upper half-plane by $z \mapsto \frac{az+b}{cz+d}$ | [[def-gamma-1-action]] |
 | $\Gamma_1$ | the modular group | [[def-gamma-1-action]] |
 | modular form | weight-$k$, level-$\Gamma$ function on $\mathbb{H}$, holomorphic at the cusps | [[def-mk]] |
-| $M_k(\Gamma)$ | the space of them | [[def-mk]] |
+| $M_k(\Gamma)$, $M_k(\Gamma_1)$, $M_k$ | the space of them | [[def-mk]] |
 | congruence subgroup | a subgroup containing some principal congruence subgroup | [[def-congruence-subgroup]] |
 | principal congruence subgroup | $\Gamma(N)$: matrices congruent to the identity mod $N$ | [[def-level-n-princ-cong-subgp]] |
 | $\Gamma(N)$ | the level $N$ principal congruence subgroup | [[def-level-n-princ-cong-subgp]] |
 | $S$, $T$ | $z \mapsto -1/z$ and $z \mapsto z+1$, which generate $\Gamma_1$ | [[def-gamma-generators]] |
 | automorphy factor | the $(cz+d)^k$ by which a form fails to be invariant | [[def-automorphy-factor]] |
-| slash operator | the weight-$k$ action of $\gamma$ on a function | [[def-slash-operator]] |
-| Eisenstein series | $E_k$, the weight-$k$ series summed over the lattice | [[def-ek]] |
+| slash operator, $\vert_k$ | the weight-$k$ action of $\gamma$ on a function | [[def-slash-operator]] |
+| Eisenstein series, $E_k$, $E_4$, $E_6$ | the weight-$k$ series summed over the lattice | [[def-ek]] |
 | $E_2$ | the weight-two series — quasimodular, not modular | [[def-e2]] |
 | cusp form | a modular form vanishing at every cusp | [[def-cusp-form]] |
-| $S_k(\Gamma)$ | the space of them | [[def-cusp-form]] |
-| discriminant form | $\Delta = (E_4^3 - E_6^2)/1728$ | [[def-disc-definition]] |
-| Dedekind eta function | $\eta(z) = q^{1/24}\prod_{n\ge1} (1-q^n)$ | [[def-dedekind-eta]] |
+| $S_k(\Gamma)$, $S_k$, $S_4$, $S_6$, $S_8$, $S_{12}$ | the space of them | [[def-cusp-form]] |
+| discriminant form, $\Delta$ | $(E_4^3 - E_6^2)/1728$ | [[def-disc-definition]] |
+| Dedekind eta function, $\eta$ | $\eta(z) = q^{1/24}\prod_{n\ge1} (1-q^n)$ | [[def-dedekind-eta]] |
 | theta functions | the Thetanullwerte $\theta_{00}, \theta_{01}, \theta_{10}$ | [[def-th00-th01-th10]] |
 | $\theta_{00}, \theta_{01}, \theta_{10}$ | the same three | [[def-th00-th01-th10]] |
 | $H_2$, $H_3$, $H_4$ | the auxiliary forms built from them | [[def-h2-h3-h4]] |
-| Serre derivative | $\partial_k = D - \tfrac{k}{12}E_2$, which preserves modularity | [[def-serre-der]] |
+| Serre derivative, $\partial_k$ | $D - \tfrac{k}{12}E_2$, which preserves modularity | [[def-serre-der]] |
 | $D$, $F'$ | the normalized derivative $\tfrac1{2\pi i}\tfrac{\mathrm{d}}{\mathrm{d}z}$ | [[def-derivative]] |
 | $\varphi_4, \varphi_2, \varphi_0$ | the forms the $+1$ eigenfunction is assembled from | [[def-phi4-phi2-phi0]] |
 | $\psi_I, \psi_T, \psi_S$ | their images under $I$, $T$ and $S$ | [[def-psii-psit-psis]] |
@@ -85,5 +87,4 @@ formulas, and a link inside `$…$` renders as brackets.
 | Notation | Meaning | Card |
 |---|---|---|
 | quasimodular form | modular but for a controlled $E_2$ term; assumed by the Serre derivative and by $F$, $G$ | — |
-| $\mathcal{B}_8$, $B_8$ | the eight vectors spanning $\Lambda_8$; introduced in the section prose, defined by no card | — |
 | $\mathfrak{H}$, $\mathbb{H}$ | the upper half-plane, used from the modular forms section on | — |

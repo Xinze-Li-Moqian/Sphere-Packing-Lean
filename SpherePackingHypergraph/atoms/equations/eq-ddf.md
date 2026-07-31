@@ -14,3 +14,5 @@ from: blueprint
 > \partial_{12}\partial_{10} F - \frac{5}{6} E_{4} F &= 7200 \Delta (-E_{2}')
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-disc-definition]], [[def-ek]], [[def-e2]].

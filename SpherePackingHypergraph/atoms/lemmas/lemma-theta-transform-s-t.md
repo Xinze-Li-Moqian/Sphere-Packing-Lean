@@ -73,3 +73,5 @@ formalized: true
 > \Theta_{4}(\tau) = \theta\left(\frac{1}{2}, \tau\right) = \frac{1}{\sqrt{-i\tau}} e^{- \frac{\pi i }{4 \tau}} \theta\left(\frac{1}{2 \tau}, -\frac{1}{\tau}\right) = \frac{1}{\sqrt{-i\tau}} \Theta_{2}\left(-\frac{1}{\tau}\right)
 > $$
 > and taking 4th power.
+
+**Uses**: [[def-h2-h3-h4]], [[def-th00-th01-th10]].

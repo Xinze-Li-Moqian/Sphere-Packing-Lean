@@ -43,3 +43,5 @@ formalized: true
 > &= \partial_{k} (F|_{k}\gamma)(z).
 > \end{aligned}
 > $$
+
+**Uses**: [[def-e2]], [[def-serre-der]], [[lemma-e2-transform-general]].

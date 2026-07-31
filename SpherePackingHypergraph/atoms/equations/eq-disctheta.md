@@ -14,3 +14,5 @@ from: blueprint
 > \Delta &= \frac{1}{256} (H_{2}H_{3}H_{4})^2.
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-disc-definition]], [[def-h2-h3-h4]].

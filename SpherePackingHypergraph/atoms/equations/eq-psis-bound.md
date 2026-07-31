@@ -14,3 +14,5 @@ from: blueprint
 > |\psi_S(z)| &\le C_S e^{- \pi \Im z}
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-psii-psit-psis]].

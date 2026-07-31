@@ -14,3 +14,5 @@ from: blueprint
 > (cz + d)^{-2} E_2\left(\frac{az + b}{cx + d}\right) = E_2(z) - \frac{6ic}{\pi (cz + d)}, \quad \begin{pmatrix} a & b
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-e2]].

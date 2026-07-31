@@ -15,6 +15,8 @@ from: blueprint
 > $$
 > for all $z$ with $\Im z > 1/2$.
 
+**In terms of**: [[def-phi4-phi2-phi0]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -25,3 +27,5 @@ from: blueprint
 > $$
 > 
 > Then the result follows from Lemma [[lemma-mod-div-disc-bound]] with $f(z) = (E_2 E_4 - E_6)^2$ and $n_0 = 4$.
+
+**Uses**: [[lemma-ek-fourier]], [[lemma-mod-div-disc-bound]], [[lemma-mod-form-poly-growth]], [[thm-ramanujan-formula]].

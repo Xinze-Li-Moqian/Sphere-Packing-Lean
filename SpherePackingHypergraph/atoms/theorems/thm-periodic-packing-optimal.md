@@ -49,3 +49,5 @@ formalized: true
 > \end{aligned}$$
 > 
 > Therefore, the density of $P$ in some hypercube $C \subseteq S$ is at least $\Delta - \frac{2\epsilon}{3}$. If a ball in $P$ (thus of diameter $2r$) is not completely contained in $C$, it cannot intersect the hypercube $C'$ with the same center as $C$ with side length $\ell-4r$, so excluding these balls from $C\cap P$ decreases the density in $C$ by at most $\frac{\left| C \setminus C' \right|}{\left| C \right|} = \frac{\ell^d - (\ell-4r)^d}{\ell^d} < \frac{\epsilon}{3}$, and gives rise to a periodic packing of density $> \Delta - \epsilon$ with $C$ as a fundamental domain.
+
+**Uses**: [[def-periodic-sphere-packing-constant]], [[spherepackingdensity]].

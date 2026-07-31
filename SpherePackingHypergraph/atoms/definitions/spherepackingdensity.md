@@ -15,3 +15,5 @@ formalized: true
 > We define the *density* of a packing $\mathcal{P}$ as the limit superior
 > 
 > $$\Delta_{\mathcal{P}}:=\limsup\limits_{R\to\infty}\Delta_{\mathcal{P}}(R).$$
+
+**Uses**: [[spherepacking]], [[spherepackingfinitedensity]].

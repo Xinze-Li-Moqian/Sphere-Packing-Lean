@@ -19,3 +19,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > 
+
+**Uses**: [[def-automorphy-factor]].

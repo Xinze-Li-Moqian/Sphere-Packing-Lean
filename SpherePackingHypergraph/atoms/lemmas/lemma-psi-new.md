@@ -18,6 +18,8 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-disc-definition]], [[def-psii-psit-psis]], [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)

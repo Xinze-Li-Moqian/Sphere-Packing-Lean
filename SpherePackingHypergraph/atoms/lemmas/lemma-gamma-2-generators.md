@@ -14,7 +14,11 @@ formalized: true
 > [!lemma] lemma:Gamma-2-generators
 > We have $\Gamma(2) = \langle \alpha, \beta, -I \rangle$.
 
+**Used by**: [[lemma-theta-bounded-im-infty]], [[lemma-theta-slash-invariant]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > See [[ref-first-course]].
+
+**Uses**: [[def-gamma-generators]].

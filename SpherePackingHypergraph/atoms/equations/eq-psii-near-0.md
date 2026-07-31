@@ -14,3 +14,5 @@ from: blueprint
 > \psi_I(it) &= O(t^2 e^{\pi/t}) \quad as  t \to 0
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-psii-psit-psis]].

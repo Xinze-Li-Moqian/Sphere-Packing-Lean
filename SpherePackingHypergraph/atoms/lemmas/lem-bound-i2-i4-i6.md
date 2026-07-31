@@ -18,6 +18,8 @@ from: blueprint
 > |I_6(r)| \leq C_2 \frac{e^{-\pi(r + 2)}}{r + 2}
 > $$
 
+**In terms of**: [[def-a-definition]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)

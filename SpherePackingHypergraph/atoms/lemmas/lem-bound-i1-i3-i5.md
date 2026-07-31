@@ -14,6 +14,8 @@ from: blueprint
 > |I_1(r)|, |I_3(r)|, |I_5(r)| \leq C \int_1^{\infty} e^{-2\pi s} \, e^{-\pi r / s} \, \mathrm{d} s.
 > $$
 
+**In terms of**: [[def-a-definition]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)

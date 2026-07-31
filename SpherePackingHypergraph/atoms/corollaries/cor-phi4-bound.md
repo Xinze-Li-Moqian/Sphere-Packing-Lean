@@ -14,3 +14,5 @@ from: blueprint
 > |\phi_{-4}(z)| \le C_{-4} e^{2 \pi \Im z}
 > $$
 > for all $z$ with $\Im z > 1/2$.
+
+**Uses**: [[def-phi4-phi2-phi0]], [[lemma-ek-fourier]], [[lemma-mod-div-disc-bound]].

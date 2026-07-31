@@ -18,3 +18,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > Similar to the proof of [[prop-a-schwartz]].
+
+**Uses**: [[lemma-psi-bound]].

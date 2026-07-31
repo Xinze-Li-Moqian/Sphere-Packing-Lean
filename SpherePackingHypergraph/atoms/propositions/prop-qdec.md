@@ -14,6 +14,8 @@ formalized: true
 > [!proposition] prop:Qdec
 > The function $t \mapsto Q(t)$ is strictly decreasing.
 
+**Used by**: [[cor-ineqbnew]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -47,3 +49,5 @@ formalized: true
 > \end{aligned}
 > $$
 > Hence $\mathcal{L}_{1, 0}(it) > 0$ by Theorem [[thm-anti-serre-der-pos]], and the monotonicity follows.
+
+**Uses**: [[cor-mlde-pos]], [[lemma-log-der-inf]], [[thm-anti-serre-der-pos]], [[thm-ramanujan-formula]], [[thm-serre-der-prod-rule]].

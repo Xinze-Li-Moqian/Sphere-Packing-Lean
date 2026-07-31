@@ -14,6 +14,8 @@ formalized: true
 > [!lemma] lemma:theta-bounded-im-infty
 > For all $\gamma \in \Gamma_1$, $H_{2}|_2 \gamma$, $H_{3}|_2 \gamma$, and $H_{4}|_2 \gamma$ are holomorphic at $i\infty$.
 
+**In terms of**: [[def-gamma-1-action]], [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -31,3 +33,5 @@ formalized: true
 > Where we prove the final term is convergent by noticing that it equals $\exp(-\pi A / 4)\theta(iA / 2, iA)$, which has been shown to converge in `Mathlib`. The proofs for $H_3$ and $H_4$ are similar (actually easier) and have been omitted.
 > 
 > }
+
+**Uses**: [[lemma-gamma-1-generators]], [[lemma-theta-slash-invariant]].

@@ -14,3 +14,5 @@ from: blueprint
 > E_2' &= \frac{E_2^2 - E_4}{12}
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-ek]], [[def-e2]].

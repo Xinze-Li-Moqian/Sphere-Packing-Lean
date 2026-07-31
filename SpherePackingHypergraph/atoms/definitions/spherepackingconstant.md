@@ -15,3 +15,5 @@ formalized: true
 > The *sphere packing constant* is defined as supremum of packing densities over all possible packings:
 > 
 > $$\Delta_d:=\sup\limits_{\substack{\mathcal{P}\subset\mathbb{R}^d\\ \scriptscriptstyle\mathrm{sphere}\;\mathrm{packing}}}\Delta_{\mathcal{P}}.$$
+
+**Uses**: [[spherepackingballs]], [[spherepackingdensity]].

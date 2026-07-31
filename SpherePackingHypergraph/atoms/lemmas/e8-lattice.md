@@ -14,7 +14,11 @@ formalized: true
 > [!lemma] E8-Lattice
 > $\Lambda_8$ is an additive subgroup of $\mathbb{R}^8$.
 
+**In terms of**: [[e8-set]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > Trivially follows from that $\Lambda_8 \subseteq \mathbb{R}^8$ is the $\mathbb{Z}$-span of $\mathcal{B}_8$ and hence an additive group.
+
+**Uses**: [[e8-defs-equivalent]], [[e8-set]].

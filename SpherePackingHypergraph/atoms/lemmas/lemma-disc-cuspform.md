@@ -23,3 +23,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > The fact that it is invariant under translation is clear from the definition, so we only need to check transformation under $S$. Now, note that $\eta^{24} = \Delta$, and from [[lemma-dedekind-eta-transformation]] we have $\eta(-1/z) = \sqrt{-iz} \eta(z)$, so $\Delta(-1/z) = z^{12} \Delta(z)$ as required.
+
+**Uses**: [[def-disc-definition]], [[lemma-dedekind-eta-transformation]].

@@ -24,6 +24,8 @@ formalized: true
 > $$
 > for all $z$ with $\Im z > 1/2$.
 
+**In terms of**: [[def-disc-definition]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)

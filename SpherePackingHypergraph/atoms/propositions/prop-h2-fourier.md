@@ -15,6 +15,8 @@ from: blueprint
 > $$
 > for some $c_{H_2}(n) \in \mathbb{R}_{\ge 0}$, with $c_{H_2}(1) = 16$ and $c_{H_2}(n) = O(n^k)$ for some $k \in \mathbb{N}$.
 
+**In terms of**: [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -30,3 +32,5 @@ from: blueprint
 > &= \sum_{n \ge 1} c_{H_2}(n) e^{\pi i n z}.
 > \end{aligned}
 > $$
+
+**Uses**: [[def-h2-h3-h4]].

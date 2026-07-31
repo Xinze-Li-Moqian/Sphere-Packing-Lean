@@ -21,6 +21,8 @@ formalized: true
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-disc-definition]], [[def-ek]], [[def-e2]], [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -55,3 +57,5 @@ formalized: true
 > $$
 > which proves [[eq-ddf]].
 > Similarly, [[eq-ddg]] can be proved using Proposition [[prop-theta-der]] and Lemma [[lemma-lv1-lv2-identities]].
+
+**Uses**: [[lemma-lv1-lv2-identities]], [[prop-theta-der]], [[thm-ramanujan-formula]], [[thm-serre-der-prod-rule]].

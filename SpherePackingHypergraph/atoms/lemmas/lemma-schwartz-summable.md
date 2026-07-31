@@ -19,3 +19,5 @@ from: blueprint
 > Without loss of generality, assume that $0 \notin X$: if $0 \in X$, then we can add the $f(0)$ term to the sum over nonzero elements of $X$, which, if the sum over the nonzero elements converges absolutely, will be equal to the sum over all of $X$. Now, we know that for all $k \in \mathbb{N}$, there exists some constant $C$ such that $|f(x)| \leq C\left\lVert x \right\rVert^{-k}$ for all $x \in \mathbb{R}^d$. Choosing $k$ to be sufficiently large, we see that
 > 
 > $$\sum_{x \in X} |f(x)| \leq \sum_{x \in X} \frac{C}{\left\lVert x \right\rVert^{k}} = C \sum_{x \in X} \frac{1}{\left\lVert x \right\rVert^k} < \infty.$$
+
+**Uses**: [[def-schwartz-space]].

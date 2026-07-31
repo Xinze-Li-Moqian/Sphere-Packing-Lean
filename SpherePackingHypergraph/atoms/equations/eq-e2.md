@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > E_2(z):= 1-24\sum_{n=1}^\infty \sigma_1(n)\,e^{2\pi i n z}.
 > $$
+
+**In terms of**: [[def-e2]].

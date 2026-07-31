@@ -14,3 +14,5 @@ from: blueprint
 > \psi_I(z)\,=\,&q^{-1} + 144 + O(q^{1/2})
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-psii-psit-psis]].

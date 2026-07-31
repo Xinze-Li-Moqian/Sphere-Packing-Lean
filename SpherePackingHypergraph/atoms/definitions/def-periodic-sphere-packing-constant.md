@@ -14,3 +14,5 @@ formalized: true
 > [!definition] def:Periodic-sphere-packing-constant
 > The periodic sphere packing constant is defined to be
 > $$ \Delta_{d}^{\text{periodic}} := \sup_{\substack{P \subset \mathbb{R}^d \\ \text{periodic packing}}} \Delta_P$$
+
+**Uses**: [[periodicspherepacking]], [[spherepackingdensity]].

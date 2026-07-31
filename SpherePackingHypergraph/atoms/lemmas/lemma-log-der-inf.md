@@ -14,6 +14,8 @@ from: blueprint
 > \lim_{t \to \infty} \frac{F'(it)}{F(it)} = n_0.
 > $$
 
+**Used by**: [[prop-qdec]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -21,3 +23,5 @@ from: blueprint
 > $$
 > \lim_{t \to \infty} \frac{F'(it)}{F(it)} = \lim_{t \to \infty} \frac{\sum_{n \ge n_0} n a_n e^{-2 \pi n t}}{\sum_{n \ge n_0} a_n e^{-2 \pi n t}} = \lim_{t \to \infty} \frac{n_0 a_{n_0} e^{-2 \pi n_0 t} + O(e^{-2 \pi (n_0 + 1) t})}{a_{n_0} e^{-2 \pi n_0 t} + O(e^{-2 \pi (n_0 + 1) t})} = n_0.
 > $$
+
+**Uses**: [[lemma-der-q-series]].

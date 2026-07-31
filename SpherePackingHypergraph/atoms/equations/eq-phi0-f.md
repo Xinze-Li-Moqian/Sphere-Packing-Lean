@@ -14,3 +14,5 @@ from: blueprint
 > \phi_0 &= \frac{F}{\Delta}
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-disc-definition]], [[def-phi4-phi2-phi0]].

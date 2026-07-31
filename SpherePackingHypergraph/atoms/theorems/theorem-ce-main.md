@@ -15,3 +15,5 @@ from: blueprint
 
 > [!note]- Proof (click to expand)
 > Directly follows from [[thm-cohn-elkies-general]] applied to the function $f(x)=g(x/\sqrt{2})$ of [[thm-g]].
+
+**Uses**: [[e8-lattice]], [[e8packing-density]], [[spherepackingconstant]], [[spherepackingdensity]], [[thm-cohn-elkies-general]], [[thm-g]].

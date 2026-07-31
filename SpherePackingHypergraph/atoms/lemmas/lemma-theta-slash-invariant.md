@@ -16,6 +16,8 @@ formalized: true
 > [!lemma] lemma:theta-slash-invariant
 > $H_{2}$, $H_{3}$, and $H_{4}$ are slash invariant under $\Gamma(2)$, i.e. for all $\gamma \in \Gamma(2)$ and $i \in \{2, 3, 4\}$, we have $H_i|\gamma = H_i|\gamma^{-1} = H_i$.
 
+**In terms of**: [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -32,3 +34,5 @@ formalized: true
 > H_2|\beta &= H_2 |(-S\alpha^{-1}S) = H_2 | (S\alpha^{-1}S) =-H_4 |(\alpha^{-1}S) = -H_4 |S  = H_2.
 > \end{aligned}
 > $$
+
+**Uses**: [[lemma-gamma-2-generators]], [[lemma-slash-negi-even-weight]], [[lemma-slash-operator-chain-rule]], [[lemma-theta-transform-s-t]].

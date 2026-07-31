@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > E_k(z):=\frac{1}{2}\sum_{(c,d)\in\mathbb{Z}^2, (c,d)=1}(cz+d)^{-k}.
 > $$
+
+**In terms of**: [[def-ek]].

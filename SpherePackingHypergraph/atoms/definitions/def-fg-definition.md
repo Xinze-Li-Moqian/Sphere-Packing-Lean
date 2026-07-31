@@ -20,3 +20,5 @@ formalized: true
 > G(z) &= H_2(z)^{3} (2 H_{2}(z)^{2} + 5 H_{2}(z) H_{4}(z) + 5 H_{4}(z)^{2}). 
 > \end{aligned}
 > $$
+
+**Uses**: [[def-e2]], [[def-ek]], [[def-h2-h3-h4]].

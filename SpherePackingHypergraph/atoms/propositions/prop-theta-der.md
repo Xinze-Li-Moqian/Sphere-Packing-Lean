@@ -26,6 +26,8 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-e2]], [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -66,3 +68,5 @@ from: blueprint
 > \end{aligned}
 > $$
 > and by considering $q$-series ($E_4$ has an invertible $q$-series), we get $f_2 = 0$.
+
+**Uses**: [[def-serre-der]], [[lemma-jacobi-identity]], [[lemma-theta-transform-s-t]].

@@ -26,3 +26,5 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > 
+
+**Uses**: [[def-ek]].

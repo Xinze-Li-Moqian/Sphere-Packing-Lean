@@ -27,3 +27,5 @@ from: blueprint
 > where $$B(t)=-t^2\phi_0(i/t)+\frac{36}{\pi^2}\,\psi_I(it).$$
 > 
 > Finally, the property [[eq-g3]] readily follows from Proposition [[prop-a0]] and Proposition [[prop-b0]]. This finishes the proof of Theorems [[thm-g1]] and [[thm-g]].
+
+**Uses**: [[prop-a-double-zeros]], [[prop-a-fourier]], [[prop-a0]], [[prop-b-double-zeros]], [[prop-b-fourier]], [[prop-b0]], [[prop-ineqa]], [[prop-ineqb]].

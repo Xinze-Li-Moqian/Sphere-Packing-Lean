@@ -29,3 +29,5 @@ formalized: true
 > &= (\partial_{w_1}F)G + F(\partial_{w_2}G).
 > \end{aligned}
 > $$
+
+**Uses**: [[def-serre-der]].

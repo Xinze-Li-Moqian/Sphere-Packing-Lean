@@ -18,3 +18,5 @@ formalized: true
 > $$
 > H_2 = \Theta_2^4, \quad H_3 = \Theta_3^4, \quad H_4 = \Theta_4^4. 
 > $$
+
+**Uses**: [[def-th00-th01-th10]].

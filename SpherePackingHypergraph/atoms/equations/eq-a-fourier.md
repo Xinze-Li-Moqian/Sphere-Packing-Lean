@@ -14,3 +14,5 @@ from: blueprint
 > \mathcal{F}(a)&=a
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-fourier-transform]].

@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > \mathcal{F}(e^{\pi i \|x\|^2 z})(y)=z^{-4}\,e^{\pi i \|y\|^2 \,(\frac{-1}{z}) }.
 > $$
+
+**In terms of**: [[def-fourier-transform]].

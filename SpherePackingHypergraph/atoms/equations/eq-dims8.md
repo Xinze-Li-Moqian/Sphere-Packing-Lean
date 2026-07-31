@@ -14,3 +14,5 @@ from: blueprint
 > \dim S_8(\mathrm{SL}_{2}(\mathbb{Z})) &= 0.
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-cusp-form]].

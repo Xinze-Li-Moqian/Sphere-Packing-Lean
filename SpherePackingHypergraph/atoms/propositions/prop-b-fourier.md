@@ -55,3 +55,5 @@ formalized: true
 > $$
 > Now from [[eq-b-definition]] we see that
 > $$ \mathcal{F}(b)(x)=-b(x). $$
+
+**Uses**: [[def-b-definition]], [[def-psii-psit-psis]], [[lemma-gaussian-fourier]], [[prop-b-schwartz]].

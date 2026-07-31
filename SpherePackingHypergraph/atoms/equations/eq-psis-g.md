@@ -14,3 +14,5 @@ from: blueprint
 > \psi_S &= -\frac{1}{2} \frac{G}{\Delta}
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-disc-definition]], [[def-psii-psit-psis]].

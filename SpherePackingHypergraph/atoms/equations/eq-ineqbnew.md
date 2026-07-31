@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > F(it) - \frac{18}{\pi^2} G(it) > 0
 > $$
+
+**Used by**: [[cor-ineqbnew]], [[lemma-ineqabnew-equiv]].

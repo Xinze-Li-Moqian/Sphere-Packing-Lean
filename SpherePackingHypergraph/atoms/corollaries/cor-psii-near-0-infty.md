@@ -17,6 +17,8 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-psii-psit-psis]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -26,3 +28,5 @@ from: blueprint
 > $$
 > and combined with [[eq-psis-bound]] we get [[eq-psii-near-0]].
 > [[eq-psii-near-infty]] follows from Lemma [[lemma-psi-bound]].
+
+**Uses**: [[def-psii-psit-psis]], [[lemma-psi-bound]].

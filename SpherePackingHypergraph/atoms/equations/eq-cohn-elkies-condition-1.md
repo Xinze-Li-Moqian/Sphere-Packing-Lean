@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > f(x)\leq 0\mbox{ for } \|x\|\geq 1
 > $$
+
+**Used by**: [[thm-cohn-elkies-general]], [[thm-cohn-elkies-periodic]].

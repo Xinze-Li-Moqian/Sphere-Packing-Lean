@@ -16,3 +16,5 @@ from: blueprint
 > \psi_T(z)\,=\,&q^{-1} + 144 + O(q^{1/2}) 
 > \end{aligned}
 > $$
+
+**Uses**: [[lemma-psi-new]].

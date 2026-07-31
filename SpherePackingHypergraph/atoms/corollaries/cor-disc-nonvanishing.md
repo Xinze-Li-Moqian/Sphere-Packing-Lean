@@ -14,7 +14,11 @@ formalized: true
 > [!corollary] cor:disc-nonvanishing
 > $\Delta(z) \neq 0$ for all $z \in \mathfrak{H}$.
 
+**In terms of**: [[def-disc-definition]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > This follows from the product formula.
+
+**Uses**: [[def-disc-definition]].

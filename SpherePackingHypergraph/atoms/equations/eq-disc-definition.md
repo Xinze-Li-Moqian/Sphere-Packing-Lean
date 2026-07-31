@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > \Delta(z) = e^{2 \pi i z} \prod_{n \ge 1} (1 - e^{2 \pi i n z})^{24}.
 > $$
+
+**In terms of**: [[def-disc-definition]].

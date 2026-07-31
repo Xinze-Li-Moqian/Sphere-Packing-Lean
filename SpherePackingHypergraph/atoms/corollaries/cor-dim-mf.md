@@ -23,7 +23,11 @@ formalized: true
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-cusp-form]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > 
+
+**Uses**: [[def-mk]], [[thm-lvl1-dims]].

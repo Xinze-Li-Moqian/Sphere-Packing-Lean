@@ -16,6 +16,8 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**Used by**: [[prop-a-schwartz]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)

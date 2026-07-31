@@ -14,3 +14,5 @@ from: blueprint
 > \widehat{g}(x)&\geq0\mbox{ for all } x\in\mathbb{R}^8
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-fourier-transform]].

@@ -31,3 +31,5 @@ from: blueprint
 > $$
 > for $t > 0$, which is equivalent to [[eq-ineqanew]] by Corollary [[cor-disc-pos]].
 > Equivalences of [[eq-ineqb]] and [[eq-ineqbnew]] follows similarly; just change the sign.
+
+**Uses**: [[cor-disc-pos]], [[def-psii-psit-psis]], [[lemma-f-g-phi-psi-identities]].

@@ -26,6 +26,8 @@ formalized: true
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-ek]], [[def-e2]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -48,3 +50,5 @@ formalized: true
 > $$
 > Hence, [[eq-de2]]$-\frac{1}{12}$(eqn:E2sq-transform) is a [[def-mk|modular form]] of weight 4.
 > By [[cor-dim-mf]], they should be multiples of $E_4, E_6, E_4^2$, and the proportionality constants can be determined by observing the constant terms of $q$-expansions.
+
+**Uses**: [[cor-dim-mf]], [[def-serre-der]], [[lemma-e2-transform-general]], [[thm-serre-der-modularity]].

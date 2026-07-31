@@ -12,3 +12,5 @@ from: blueprint
 > $$
 > E_k \left(-\frac{1}{z}\right) = z^k E_k(z).
 > $$
+
+**In terms of**: [[def-ek]].

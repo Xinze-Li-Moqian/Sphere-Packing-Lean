@@ -14,6 +14,8 @@ formalized: true
 > [!corollary] cor:disc-pos
 > $\Delta(it) > 0$ for all $t > 0$.
 
+**In terms of**: [[def-disc-definition]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -21,3 +23,5 @@ formalized: true
 > $$
 > \Delta(it) = e^{-2 \pi t} \prod_{n \ge 1} (1 - e^{-2 \pi n t})^{24} > 0.
 > $$
+
+**Uses**: [[def-disc-definition]].

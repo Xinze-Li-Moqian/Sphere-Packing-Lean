@@ -13,6 +13,8 @@ from: blueprint
 > $$b(r)=4i\,\sin(\pi r^2/2)^2\,\left(\frac{144}{\pi\,r^2}+\frac{1}{\pi\,(r^2-2)}+\int\limits_0^\infty\,\left(\psi_I(it)-144-e^{2\pi t}\right)\,e^{-\pi r^2 t}\,dt\right).$$
 > The integral converges absolutely for all $r\in\mathbb{R}_{\geq 0}$.
 
+**In terms of**: [[def-psii-psit-psis]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
@@ -30,3 +32,5 @@ from: blueprint
 > Therefore, the identity [[eq-b-another-integral]] holds for $r>\sqrt{2}$.
 > 
 > On the other hand, from the definition [[eq-b-definition]] we see that $b(r)$ is analytic in some neighborhood of $[0,\infty)$. The asymptotic expansion (eqn: psi asymptotic) implies that the right hand side of [[eq-b-another-integral]] is also analytic in some neighborhood of $[0,\infty)$. Hence, the identity [[eq-b-another-integral]] holds on the whole interval $[0,\infty)$. This finishes the proof of the proposition.
+
+**Uses**: [[def-b-definition]], [[lemma-psii-psit-psis-fourier]], [[prop-b-double-zeros]].

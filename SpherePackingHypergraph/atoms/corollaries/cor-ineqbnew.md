@@ -20,3 +20,5 @@ lean:
 > \frac{F(it)}{G(it)} = Q(t) < \lim_{u \to 0^+} Q(u) = \frac{18}{\pi^2}
 > $$
 > and by Lemma [[lemma-f-g-pos]], [[eq-ineqbnew]] follows.
+
+**Uses**: [[lemma-f-g-pos]], [[lemma-qlim]], [[prop-qdec]].

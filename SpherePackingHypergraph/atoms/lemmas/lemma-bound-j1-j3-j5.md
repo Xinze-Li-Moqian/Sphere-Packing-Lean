@@ -15,3 +15,5 @@ from: blueprint
 > |J_1(r)|, |J_3(r)|, |J_5(r)| &\le C \int_1^{\infty} e^{-\pi s} e^{\pi r / s}\, \mathrm{d} s.
 > \end{aligned}
 > $$
+
+**In terms of**: [[def-b-definition]].

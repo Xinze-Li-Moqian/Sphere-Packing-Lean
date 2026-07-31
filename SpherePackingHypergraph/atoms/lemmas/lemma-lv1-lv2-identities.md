@@ -18,7 +18,11 @@ from: blueprint
 > \end{aligned}
 > $$
 
+**In terms of**: [[def-disc-definition]], [[def-ek]], [[def-h2-h3-h4]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > We can prove these similarly as Lemma [[lemma-jacobi-identity]]. Right hand sides of [[eq-e4theta]], [[eq-e6theta]], and [[eq-disctheta]] are all [[def-mk|modular forms]] of level $\Gamma_1$ and desired weights, where [[eq-disctheta]] is a [[def-cusp-form|cusp form]] since $H_2$ is. Now the identities follow from the dimension calculations $\dim M_4(\Gamma_1) = \dim M_6(\Gamma_1) = \dim S_{12}(\Gamma_1) = 1$ and comparing the first nonzero $q$-coefficients.
+
+**Uses**: [[lemma-disc-cuspform]], [[lemma-theta-modular]], [[lemma-theta-transform-s-t]].

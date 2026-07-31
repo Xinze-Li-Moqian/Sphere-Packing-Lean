@@ -17,7 +17,11 @@ formalized: true
 > z^{-2}\,E_2\left(-\frac{1}{z}\right) = E_2(z) -\frac{6i}{\pi}\, \frac{1}{z}.
 > $$
 
+**In terms of**: [[def-e2]].
+
 ## Proof
 
 > [!note]- Proof (click to expand)
 > This is exercise 1.2.8 of [[ref-first-course]].
+
+**Uses**: [[def-e2]].
