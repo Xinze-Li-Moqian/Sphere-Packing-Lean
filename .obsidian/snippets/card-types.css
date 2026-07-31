@@ -1,18 +1,26 @@
 /* One colour per kind of statement — the callout type equals the card's
- * `type:` frontmatter, so a colour cannot lie about what it is over.
- *
- * Chosen for what they group rather than for variety. Definitions are cool and
- * quiet, being read once and referred to; results are warm, theorem strongest;
- * lemmas green because they are the bulk of a pool and should not shout; the
- * doubtful kinds are desaturated, which is the honest signal. An equation is
- * not a claim at all, so it is the quietest thing that still has a colour.
- */
+ * `type:` frontmatter. Single file on purpose: this vault used to carry a
+ * second snippet defining the SAME callout types with different colours, and
+ * whichever loaded last won — which is how every statement went grey. */
 
-.callout[data-callout="definition"] { --callout-color: 116, 152, 186; --callout-icon: lucide-book-marked; }
-.callout[data-callout="theorem"]    { --callout-color: 208, 162,  74; --callout-icon: lucide-award; }
-.callout[data-callout="proposition"]{ --callout-color: 196, 134,  86; --callout-icon: lucide-milestone; }
-.callout[data-callout="lemma"]      { --callout-color: 120, 168, 124; --callout-icon: lucide-wrench; }
-.callout[data-callout="corollary"]  { --callout-color: 110, 170, 168; --callout-icon: lucide-corner-down-right; }
-.callout[data-callout="claim"]      { --callout-color: 150, 132, 180; --callout-icon: lucide-help-circle; }
-.callout[data-callout="remark"]     { --callout-color: 140, 140, 146; --callout-icon: lucide-message-square; }
+.callout[data-callout="definition"] { --callout-color: 62, 124, 180;  --callout-icon: lucide-book-marked; }
+.callout[data-callout="theorem"]    { --callout-color: 158, 87, 231;  --callout-icon: lucide-award; }
+.callout[data-callout="proposition"]{ --callout-color: 232, 148, 36;  --callout-icon: lucide-box; }
+.callout[data-callout="lemma"]      { --callout-color: 20, 165, 160;  --callout-icon: lucide-puzzle; }
+.callout[data-callout="corollary"]  { --callout-color: 219, 82, 132;  --callout-icon: lucide-git-branch; }
+.callout[data-callout="claim"]      { --callout-color: 128, 128, 220; --callout-icon: lucide-flag; }
+.callout[data-callout="remark"]     { --callout-color: 140, 140, 146; --callout-icon: lucide-message-circle; }
 .callout[data-callout="equation"]   { --callout-color: 130, 150, 148; --callout-icon: lucide-equal; }
+
+/* Visible in BOTH themes: a solid bar and a real tint, not the 10% wash. */
+.callout[data-callout="definition"],
+.callout[data-callout="theorem"],
+.callout[data-callout="proposition"],
+.callout[data-callout="lemma"],
+.callout[data-callout="corollary"],
+.callout[data-callout="claim"],
+.callout[data-callout="remark"],
+.callout[data-callout="equation"] {
+  border-left: 3px solid rgb(var(--callout-color));
+  background-color: rgba(var(--callout-color), 0.12);
+}

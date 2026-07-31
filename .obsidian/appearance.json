@@ -1,6 +1,5 @@
 {
   "enabledCssSnippets": [
-    "card-types",
-    "math-callouts"
+    "card-types"
   ]
 }
