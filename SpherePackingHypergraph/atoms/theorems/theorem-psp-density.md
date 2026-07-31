@@ -18,7 +18,7 @@ formalized: true
 ## Proof
 
 > [!note]- Proof (click to expand)
-> Fix any fundamental domain $\mathcal{D}$ (induced by any basis) of the lattice $\Lambda$. Combining [[lemma-sp-finite-density-bound]], [[lemma-lattice-points-bound]] and [[lemma-periodic-points-bounds]], we get the following inequality for the *finite* density:
+> Fix any fundamental domain $\mathcal{D}$ (induced by any basis) of the lattice $\Lambda$. Combining [[lemma-sp-finite-density-bound]], [[lemma-lattice-points-bound]] and [[lemma-periodic-points-bounds]], we get the following inequality for the *finite* [[spherepackingdensity|density]]:
 > 
 > $$|X / \Lambda| \cdot \frac{\operatorname{Vol}\!\left(\mathcal{B}_d(r / 2)\right)}{\operatorname{Vol}\!\left(\mathbb{R}^d / \Lambda\right)} \cdot \frac{\operatorname{Vol}\!\left(\mathcal{B}_d(R - r / 2 - 2L)\right)}{\operatorname{Vol}\!\left(\mathcal{B}_d(R)\right)}
 > \leq \Delta_{\mathcal{P}}(R)

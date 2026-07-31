@@ -27,6 +27,6 @@ formalized: true
 > 
 > Consider the (finite) cardinality on both sides and noting that $|(x + \mathcal{D}) \cap X| = |X / \Lambda|$ for all $x$, we see that $|\Lambda \cap \mathcal{B}_d(R - L)||X / \Lambda| \leq |X \cap \mathcal{B}_d(R)|$, as desired.
 > 
-> The proof of the second inequality is similar. We again observe that $\mathcal{B}_d(R) \subseteq \bigcup_{x \in \Lambda \cap \mathcal{B}_d(R + L)} (x + \mathcal{D})$, which follows from the tiling property of fundamental domain (i.e. every point can be translated by a $\Lambda$ lattice point into $\mathcal{D}$). Intersecting both sides with $X$ and considering cardinality of both sides concludes the proof.
+> The proof of the second inequality is similar. We again observe that $\mathcal{B}_d(R) \subseteq \bigcup_{x \in \Lambda \cap \mathcal{B}_d(R + L)} (x + \mathcal{D})$, which follows from the tiling property of fundamental domain (i.e. every point can be translated by a $\Lambda$ [[iszlattice|lattice]] point into $\mathcal{D}$). Intersecting both sides with $X$ and considering cardinality of both sides concludes the proof.
 > 
 > There are several technicalities when formalising in Lean, such as having to prove $|\Lambda \cap \mathcal{B}_d(R)|$ is countable and finite. Those are handled at `aux3`.

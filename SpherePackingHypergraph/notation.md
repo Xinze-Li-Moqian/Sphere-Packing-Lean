@@ -45,12 +45,16 @@ formulas, and a link inside `$…$` renders as brackets.
 | Schwartz function | smooth, with every derivative decaying faster than any power | [[def-schwartz-space]] |
 | Schwartz space | the space of those | [[def-schwartz-space]] |
 | $a_{\mathrm{rad}}$ | the radial function built from the $+1$ eigenfunction | [[def-a-definition]] |
+| $I_1$, $I_2$, $I_3$, $I_4$, $I_5$, $I_6$ | the six contour integrals summing to $a_{\mathrm{rad}}$ | [[def-a-definition]] |
 | $b_{\mathrm{rad}}$ | the radial function built from the $-1$ eigenfunction | [[def-b-definition]] |
+| $J_1$, $J_2$, $J_3$, $J_4$, $J_5$, $J_6$ | the six contour integrals summing to $b_{\mathrm{rad}}$ | [[def-b-definition]] |
 
 ## Modular forms
 
 | Notation | Meaning | Card |
 |---|---|---|
+| modular group | $\Gamma_1 = \mathrm{SL}_2(\mathbb{Z})$, acting on the upper half-plane by $z \mapsto \frac{az+b}{cz+d}$ | [[def-gamma-1-action]] |
+| $\Gamma_1$ | the modular group | [[def-gamma-1-action]] |
 | modular form | weight-$k$, level-$\Gamma$ function on $\mathbb{H}$, holomorphic at the cusps | [[def-mk]] |
 | $M_k(\Gamma)$ | the space of them | [[def-mk]] |
 | congruence subgroup | a subgroup containing some principal congruence subgroup | [[def-congruence-subgroup]] |
@@ -78,3 +82,5 @@ formulas, and a link inside `$…$` renders as brackets.
 | Notation | Meaning | Card |
 |---|---|---|
 | quasimodular form | modular but for a controlled $E_2$ term; assumed by the Serre derivative and by $F$, $G$ | — |
+| $\mathcal{B}_8$, $B_8$ | the eight vectors spanning $\Lambda_8$; introduced in the section prose, defined by no card | — |
+| $\mathfrak{H}$, $\mathbb{H}$ | the upper half-plane, used from the modular forms section on | — |

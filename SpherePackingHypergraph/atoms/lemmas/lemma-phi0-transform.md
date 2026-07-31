@@ -19,7 +19,7 @@ type: lemma
 ## Proof
 
 > [!note]- Proof (click to expand)
-> [[eq-phi0-trans-t]] easily follows from periodicity of Eisenstein series and $\Delta(z)$.
+> [[eq-phi0-trans-t]] easily follows from periodicity of [[def-ek|Eisenstein series]] and $\Delta(z)$.
 > For [[eq-phi0-trans-s]],
 > $$
 > \begin{aligned}

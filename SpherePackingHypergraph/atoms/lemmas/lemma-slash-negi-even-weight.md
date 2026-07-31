@@ -16,4 +16,4 @@ formalized: true
 ## Proof
 
 > [!note]- Proof (click to expand)
-> Follows from the definition of the slash operator: $(F|_{k}(-I))(z) = (-1)^{-k}F((-I)z) = F(z)$.
+> Follows from the definition of the [[def-slash-operator|slash operator]]: $(F|_{k}(-I))(z) = (-1)^{-k}F((-I)z) = F(z)$.

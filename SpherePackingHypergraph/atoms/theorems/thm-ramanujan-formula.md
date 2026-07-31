@@ -28,7 +28,7 @@ formalized: true
 ## Proof
 
 > [!note]- Proof (click to expand)
-> In terms of Serre derivatives, these are equivalent to
+> In terms of [[def-serre-der|Serre derivatives]], these are equivalent to
 > $$
 > \begin{aligned}
 > \partial_{1}E_2 &= -\frac{1}{12} E_4  \\
@@ -45,5 +45,5 @@ formalized: true
 > E_2^2|_{4}\gamma &= E_2^2 - \frac{12ic}{\pi(cz + d)} E_2 - \frac{36c^2}{\pi^2 (cz + d)^2} 
 > \end{aligned}
 > $$
-> Hence, [[eq-de2]]$-\frac{1}{12}$(eqn:E2sq-transform) is a modular form of weight 4.
+> Hence, [[eq-de2]]$-\frac{1}{12}$(eqn:E2sq-transform) is a [[def-mk|modular form]] of weight 4.
 > By [[cor-dim-mf]], they should be multiples of $E_4, E_6, E_4^2$, and the proportionality constants can be determined by observing the constant terms of $q$-expansions.

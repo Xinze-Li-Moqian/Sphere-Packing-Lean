@@ -20,4 +20,4 @@ lean:
 
 > [!note]- Proof (click to expand)
 > This follows from the fact that the sum converges absolutely.
-> Now apply slash operator with $\gamma = \left(\begin{smallmatrix} 0 & -1 \\ 1 & 0 \end{smallmatrix}\right)$ gives [[eq-ek-trans-s]].
+> Now apply [[def-slash-operator|slash operator]] with $\gamma = \left(\begin{smallmatrix} 0 & -1 \\ 1 & 0 \end{smallmatrix}\right)$ gives [[eq-ek-trans-s]].

@@ -24,7 +24,7 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > Both can be shown by direct computations.
-> By Ramanujan's identities (Theorem [[thm-ramanujan-formula]]) and the product rule of Serre derivatives (Theorem [[thm-serre-der-prod-rule]]), we have
+> By Ramanujan's identities (Theorem [[thm-ramanujan-formula]]) and the product rule of [[def-serre-der|Serre derivatives]] (Theorem [[thm-serre-der-prod-rule]]), we have
 > $$
 > \begin{aligned}
 > \partial_{5} (E_2 E_4 - E_6) &= (E_2 E_4 - E_6)' - \frac{5}{12} E_2 (E_2 E_4 - E_6) \\

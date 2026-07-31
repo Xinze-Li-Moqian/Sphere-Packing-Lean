@@ -38,7 +38,7 @@ formalized: true
 > \end{aligned}
 > $$
 > so $\mathcal{L}_{1, 0}(it) > 0$ for sufficiently large $t$.
-> Its Serre derivative $\partial_{22} \mathcal{L}_{1, 0}$ is positive by Corollary [[cor-mlde-pos]]:
+> Its [[def-serre-der|Serre derivative]] $\partial_{22} \mathcal{L}_{1, 0}$ is positive by Corollary [[cor-mlde-pos]]:
 > $$
 > \begin{aligned}
 > \partial_{22} \mathcal{L}_{1, 0} = (\partial_{12} \partial_{10} F) G - F (\partial_{12}\partial_{10} G)

@@ -15,7 +15,7 @@ lean:
 ## Proof
 
 > [!note]- Proof (click to expand)
-> We recall that the Fourier transform of a Gaussian function is
+> We recall that the [[def-fourier-transform|Fourier transform]] of a Gaussian function is
 > $$
 > \mathcal{F}(e^{\pi i \|x\|^2 z})(y)=z^{-4}\,e^{\pi i \|y\|^2 \,(\frac{-1}{z}) }.
 > $$

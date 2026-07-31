@@ -23,7 +23,7 @@ formalized: true
 > $$
 > \lim_{t \to 0^+} Q(t) = \lim_{t \to 0^+} \frac{F(it)}{G(it)} = \lim_{t \to \infty} \frac{F(i/t)}{G(i/t)}.
 > $$
-> By using the transformation laws of Eisenstein series [[eq-e2-s-transform]], [[eq-ek-trans-s]] (for $k = 4, 6$) and the thetanull functions, [[eq-h2-transform-s]], [[eq-h4-transform-s]], we get
+> By using the transformation laws of [[def-ek|Eisenstein series]] [[eq-e2-s-transform]], [[eq-ek-trans-s]] (for $k = 4, 6$) and the thetanull functions, [[eq-h2-transform-s]], [[eq-h4-transform-s]], we get
 > $$
 > \begin{aligned}
 > F\left(\frac{i}{t}\right) &= t^{12} F(it) - \frac{12t^{11}}{\pi} (E_2(it)E_4(it) - E_6(it))E_4(it) + \frac{36t^{10}}{\pi^2}E_4(it)^2, \\

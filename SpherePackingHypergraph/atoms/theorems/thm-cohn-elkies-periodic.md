@@ -37,7 +37,7 @@ formalized: true
 > $$
 > Comparing inequalities (eqn: sharp X 1) and (eqn: sharp X 2) we arrive at
 > $$\frac{\sharp (X/\Lambda)}{\mathrm{vol}(\mathbb{R}^d/\Lambda)}\leq \frac{f(0)}{\widehat{f}(0)}.$$
-> Now we see that the density of the periodic packing $\mathcal{P}_X$ with balls of radius $1/2$ is bounded by
+> Now we see that the density of the [[periodicspherepacking|periodic packing]] $\mathcal{P}_X$ with balls of radius $1/2$ is bounded by
 > $$\Delta(\mathcal{P}_X)=\frac{\sharp (X/\Lambda)}{\mathrm{vol}(\mathbb{R}^d/\Lambda)}\cdot{\mathrm{vol}(B_d(0,1/2))}\leq
 > \frac{f(0)}{\widehat{f}(0)}\cdot \mathrm{vol}(B_d(0,1/2)).$$
 > This finishes the proof of the theorem for periodic packings.

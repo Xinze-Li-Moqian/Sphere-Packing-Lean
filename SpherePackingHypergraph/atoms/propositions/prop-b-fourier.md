@@ -17,7 +17,7 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > Here, we repeat the arguments used in the proof of Proposition [[prop-a-fourier]].
-> We use identity [[eq-gaussian-fourier]] and change contour integration in $z$ and Fourier transform in $x$. Thus we obtain
+> We use identity [[eq-gaussian-fourier]] and change contour integration in $z$ and [[def-fourier-transform|Fourier transform]] in $x$. Thus we obtain
 > $$
 > \begin{aligned}
 > \mathcal{F}(b)(x)= & \int\limits_{-1}^{i}\psi_T(z)\,z^{-4}\,e^{\pi i \|x\|^2 (\frac{-1}{z})}\,dz

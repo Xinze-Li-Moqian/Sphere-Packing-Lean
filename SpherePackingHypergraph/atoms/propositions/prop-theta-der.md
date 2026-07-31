@@ -28,7 +28,7 @@ type: proposition
 ## Proof
 
 > [!note]- Proof (click to expand)
-> Equivalences are obvious from the definition of the Serre derivative.
+> Equivalences are obvious from the definition of the [[def-serre-der|Serre derivative]].
 > Define $f_{2}, f_{3}, f_{4}$ be the differences of the left and right hand sides of [[eq-h2-serre-der]], [[eq-h3-serre-der]], [[eq-h4-serre-der]].
 > $$
 > \begin{aligned}
@@ -37,7 +37,7 @@ type: proposition
 > f_{4} &:= \partial_{2} H_{4} + \frac{1}{6} H_{4}(2H_{2} + H_{4}).
 > \end{aligned}
 > $$
-> Then these are a priori modular forms of weight $4$ and level $\Gamma(2)$, and our goal is to prove that they are actually zeros.
+> Then these are a priori [[def-mk|modular forms]] of weight $4$ and level $\Gamma(2)$, and our goal is to prove that they are actually zeros.
 > By Jacobi's identity [[eq-jacobi-identity]], we have $f_{2} + f_{4} = f_{3}$.
 > Also, the transformation rules of $H_2, H_3, H_4$ give
 > $$

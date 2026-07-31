@@ -20,7 +20,7 @@ formalized: true
 
 > [!note]- Proof (click to expand)
 > Let $f = (H_2 + H_4 - H_3)^{2}$.
-> Obviously, $f$ is a modular form of weight $4$ and level $\Gamma(2)$.
+> Obviously, $f$ is a [[def-mk|modular form]] of weight $4$ and level $\Gamma(2)$.
 > However, by using the transformation rules of $H_2, H_3, H_4$, one have
 > $$
 > \begin{aligned}
