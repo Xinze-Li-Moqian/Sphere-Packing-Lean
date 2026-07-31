@@ -1,0 +1,15 @@
+---
+id: fed6a8f3ea48
+type: equation
+---
+
+# Equation — eqn:psiS-define
+
+## Statement
+
+> [!equation] eqn:psiS-define
+> $$
+> \begin{aligned}
+> \psi_S\,:=\,&\psi_I|_{-2}S.
+> \end{aligned}
+> $$

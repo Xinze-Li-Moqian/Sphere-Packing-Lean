@@ -1,0 +1,27 @@
+/* One colour per kind of statement.
+ *
+ * The vault filed every definition under [!info] and every theorem, lemma and
+ * proposition under [!theorem], so a reader scrolling a topic saw one colour
+ * and had to read the header to learn what kind of claim was in front of them.
+ * Obsidian also has no built-in `theorem`, so that half fell back to the
+ * default styling and matched `info` anyway.
+ *
+ * The callout type now equals the card's `type:` frontmatter — enforced by
+ * tools/render_lint.py, because a colour that lies is worse than no colour.
+ * Neither the id nor the export sees this: assign_ids.py and vault-export.mjs
+ * both drop the callout header by pattern.
+ *
+ * Colours are chosen for what they group rather than for variety. Definitions
+ * are cool and quiet because they are read once and referred to; results are
+ * warm, with theorem the strongest; lemmas green because they are the bulk of
+ * the pool and should not shout; the doubtful kinds — claim and remark — are
+ * desaturated, which is the honest signal.
+ */
+
+.callout[data-callout="definition"] { --callout-color: 116, 152, 186; --callout-icon: lucide-book-marked; }
+.callout[data-callout="theorem"]    { --callout-color: 208, 162,  74; --callout-icon: lucide-award; }
+.callout[data-callout="proposition"]{ --callout-color: 196, 134,  86; --callout-icon: lucide-milestone; }
+.callout[data-callout="lemma"]      { --callout-color: 120, 168, 124; --callout-icon: lucide-wrench; }
+.callout[data-callout="corollary"]  { --callout-color: 110, 170, 168; --callout-icon: lucide-corner-down-right; }
+.callout[data-callout="claim"]      { --callout-color: 150, 132, 180; --callout-icon: lucide-help-circle; }
+.callout[data-callout="remark"]     { --callout-color: 140, 140, 146; --callout-icon: lucide-message-square; }

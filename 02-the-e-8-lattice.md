@@ -1,0 +1,62 @@
+---
+topic: sphere-packing-lean
+type: topic
+section: "2"
+---
+
+# The $E_8$ lattice
+
+$E_8$ is the arrangement the theorem is about, so it is worth seeing what it is before seeing that nothing beats it.
+
+## The lattice
+
+Take the points in $\mathbb{R}^8$ whose coordinates are either all integers or all half-integers, and keep those whose coordinates sum to an even number. That is $E_8$. The description is short and the object is not: it is the unique even unimodular lattice in dimension $8$, and dimension $8$ is the smallest where such a thing exists.
+
+Two properties do all the work later.
+
+**It is self-dual.** The dual lattice — the vectors having integer inner
+product with everything in $E_8$ — is $E_8$ again. Poisson summation converts
+a sum over a lattice into a sum over its dual, so for a self-dual lattice both
+sides of that identity talk about the same set of points. The argument in the
+last section is built on this coincidence.
+
+**Its vectors have lengths $\sqrt{2n}$.** Every nonzero vector has squared
+length an even integer, and every even integer occurs. So the distances at
+which $E_8$ places its points are exactly $\sqrt 2, \sqrt 4, \sqrt 6, \dots$ —
+a discrete list, which is what makes it possible to ask for a function
+vanishing at all of them at once.
+
+## The density
+
+Minimum distance $\sqrt 2$ means balls of radius $\sqrt2/2$ fit, and the lattice has covolume $1$. Dividing gives $\pi^4/384$. Everything from here is the proof that this number cannot be beaten.
+
+
+## Definitions of $E_8$ lattice
+
+
+There are several equivalent definitions of the $E_8$ lattice. Below, we formalise two of them, and prove they are equivalent.
+
+![[e8-defs-equivalent]]
+
+## Basic Properties of $E_8$ lattice
+
+
+In this section, we establish basic properties of the $E_8$ lattice and the $\mathcal{B}_8$ vectors.
+
+![[e8-is-basis]]
+
+![[e8-lattice]]
+
+![[e8-vector-norms]]
+
+![[instdiscretee8lattice]]
+
+![[instlatticee8]]
+
+## The $E_8$ sphere packing
+
+![[e8packing]]
+
+![[e8packing-covol]]
+
+![[e8packing-density]]

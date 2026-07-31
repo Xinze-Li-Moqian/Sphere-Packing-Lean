@@ -1,0 +1,27 @@
+/* PoincareHypergraph — one color per statement type */
+
+.callout[data-callout="theorem"] {
+  --callout-color: 158, 87, 231;   /* violet */
+  --callout-icon: lucide-award;
+}
+.callout[data-callout="lemma"] {
+  --callout-color: 20, 165, 160;   /* teal */
+  --callout-icon: lucide-puzzle;
+}
+.callout[data-callout="proposition"] {
+  --callout-color: 232, 148, 36;   /* amber */
+  --callout-icon: lucide-box;
+}
+.callout[data-callout="corollary"] {
+  --callout-color: 219, 82, 132;   /* pink */
+  --callout-icon: lucide-git-branch;
+}
+.callout[data-callout="claim"] {
+  --callout-color: 128, 128, 220;  /* periwinkle */
+  --callout-icon: lucide-flag;
+}
+.callout[data-callout="remark"] {
+  --callout-color: 140, 140, 140;  /* grey */
+  --callout-icon: lucide-message-circle;
+}
+/* definitions keep the built-in [!info] blue */

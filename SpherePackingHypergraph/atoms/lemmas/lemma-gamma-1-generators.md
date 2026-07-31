@@ -1,0 +1,19 @@
+---
+id: c58121f9ece8
+type: lemma
+lean:
+  - SL2Z_generate
+formalized: true
+---
+
+# Lemma — lemma:Gamma-1-generators
+
+## Statement
+
+> [!lemma] lemma:Gamma-1-generators
+> We have $\Gamma(1) = \langle S, T, -I \rangle$.
+
+## Proof
+
+> [!note]- Proof (click to expand)
+> See~[[ref-first-course]].
