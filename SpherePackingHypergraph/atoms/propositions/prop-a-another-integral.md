@@ -17,7 +17,7 @@ type: proposition
 ## Proof
 
 > [!note]- Proof (click to expand)
-> Suppose that $r>\sqrt{2}$. Then by Proposition~[[prop-a-double-zeros]]
+> Suppose that $r>\sqrt{2}$. Then by Proposition [[prop-a-double-zeros]]
 > $$a(r)=4i\,\sin(\pi r^2/2)^2\,\int\limits_{0}^{\infty}\phi_0(i/t)\,t^2\,e^{-\pi r^2 t}\,dt. $$
 > From [[eq-phi0-trans-s]] we obtain
 > $$
@@ -29,4 +29,4 @@ type: proposition
 > =\frac{36}{\pi^3\,(r^2-2)}-\frac{8640}{\pi^3\,r^4}+\frac{18144}{\pi^3\,r^2}.$$
 > Therefore, the identity [[eq-a-another-integral]] holds for $r>\sqrt{2}$.
 > 
-> On the other hand, from the definition~(eqn:a-definition) we see that $a(r)$ is analytic in some neighborhood of $[0,\infty)$. The asymptotic expansion~(eqn: phi asymptotic) implies that the right hand side of [[eq-a-another-integral]] is also analytic in some neighborhood of $[0,\infty)$. Hence, the identity [[eq-a-another-integral]] holds on the whole interval $[0,\infty)$. This finishes the proof of the proposition.
+> On the other hand, from the definition (eqn:a-definition) we see that $a(r)$ is analytic in some neighborhood of $[0,\infty)$. The asymptotic expansion (eqn: phi asymptotic) implies that the right hand side of [[eq-a-another-integral]] is also analytic in some neighborhood of $[0,\infty)$. Hence, the identity [[eq-a-another-integral]] holds on the whole interval $[0,\infty)$. This finishes the proof of the proposition.

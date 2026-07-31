@@ -22,9 +22,7 @@ Integrate a modular form against the Gaussian family: $$a(x) \;=\; \int \varphi(
 
 Three things then happen, and each is a section of the mathematics below.
 
-**The eigenfunction property comes from modularity.** Applying the Fourier
-transform sends the Gaussian's parameter $z$ to $-1/z$; deforming the contour
-back and using how $\varphi$ transforms under $z \mapsto -1/z$ returns the
+**The eigenfunction property comes from modularity.** Applying the Fourier transform sends the Gaussian's parameter $z$ to $-1/z$; deforming the contour back and using how $\varphi$ transforms under $z \mapsto -1/z$ returns the
 same integral, up to the sign that decides which eigenfunction it is. This is
 the step the whole apparatus of the previous section exists to license.
 
@@ -100,7 +98,7 @@ $$
 
 ![[lem-bound-i1-i3-i5]]
 
-Combined with Lemma~[[lem-integral-bound]], this shows that the integrals $I_1$, $I_3$, and $I_5$ decay faster than any polynomial as $r \to \infty$. For the integrals $I_2$, $I_4$, and $I_6$, it is easier to see this since the contours are not touching the real axis.
+Combined with Lemma [[lem-integral-bound]], this shows that the integrals $I_1$, $I_3$, and $I_5$ decay faster than any polynomial as $r \to \infty$. For the integrals $I_2$, $I_4$, and $I_6$, it is easier to see this since the contours are not touching the real axis.
 
 ![[lem-bound-i2-i4-i6]]
 
@@ -120,7 +118,7 @@ Finally, we find another convenient integral representation for $a$ and compute 
 
 ![[prop-a-another-integral]]
 
-From the identity~[[eq-a-another-integral]] we see that the values $a(r)$ are in $i\mathbb{R}$ for all $r\in\mathbb{R}_{\geq0}$.
+From the identity [[eq-a-another-integral]] we see that the values $a(r)$ are in $i\mathbb{R}$ for all $r\in\mathbb{R}_{\geq0}$.
 
 ![[prop-a0]]
 

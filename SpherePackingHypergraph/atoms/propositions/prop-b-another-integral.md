@@ -15,8 +15,8 @@ type: proposition
 ## Proof
 
 > [!note]- Proof (click to expand)
-> The proof is analogous to the proof of Proposition~[[prop-a-another-integral]].
-> First, suppose that $r>\sqrt{2}$. Then by Proposition~[[prop-b-double-zeros]]
+> The proof is analogous to the proof of Proposition [[prop-a-another-integral]].
+> First, suppose that $r>\sqrt{2}$. Then by Proposition [[prop-b-double-zeros]]
 > $$b(r)=4i\,\sin(\pi r^2/2)^2\,\int\limits_{0}^{\infty}\psi_I(it)\,e^{-\pi r^2 t}\,dt. $$
 > From [[eq-psi-fourier-i]] we obtain
 > $$

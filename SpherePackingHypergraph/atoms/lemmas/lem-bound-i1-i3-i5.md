@@ -29,7 +29,7 @@ type: lemma
 > $$
 > |I_1(r)| \leq \int_1^{\infty} |\phi_0(i s)| \cdot s^{-4} \cdot |e^{-\pi i r}| \cdot e^{-\pi r / s} \, \mathrm{d} s \le \int_1^{\infty} |\phi_0(is)| \cdot e^{-\pi r / s} \, \mathrm{d} s.
 > $$
-> Now, Corollary~[[cor-phi0-bound]] shows
+> Now, Corollary [[cor-phi0-bound]] shows
 > $$
 > |I_1(r)| \leq C_0 \int_1^{\infty} e^{-2\pi s} \, e^{-\pi r / s} \, \mathrm{d} s.
 > $$

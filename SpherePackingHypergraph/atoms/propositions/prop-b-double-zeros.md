@@ -16,12 +16,12 @@ type: proposition
 ## Proof
 
 > [!note]- Proof (click to expand)
-> We denote the right hand side of~[[eq-b-double-zeroes]] by $c(r)$.
-> By Corollary [[cor-psii-near-0-infty]], the integral in~[[eq-b-double-zeroes]] converges for $r>\sqrt{2}$.
+> We denote the right hand side of [[eq-b-double-zeroes]] by $c(r)$.
+> By Corollary [[cor-psii-near-0-infty]], the integral in [[eq-b-double-zeroes]] converges for $r>\sqrt{2}$.
 > Then we rewrite it in the following way:
 > $$c(r)=\int\limits_{-1}^{i\infty-1}\psi_I(z+1)\,e^{\pi i r^2 \,z}\,dz-2\int\limits_{0}^{i\infty}\psi_I(z)\,e^{\pi i r^2 \,z}\,dz+
 > \int\limits_{1}^{i\infty+1}\psi_I(z-1)\,e^{\pi i r^2 \,z}\,dz.$$
-> From the Fourier expansion~[[eq-psi-fourier-i]] we know that $\psi_I(z)=e^{-2\pi i z}+O(1)$ as $\Im(z)\to\infty$.
+> From the Fourier expansion [[eq-psi-fourier-i]] we know that $\psi_I(z)=e^{-2\pi i z}+O(1)$ as $\Im(z)\to\infty$.
 > By assumption $r^2>2$, hence we can deform the path of integration and write
 > $$
 > \begin{aligned}

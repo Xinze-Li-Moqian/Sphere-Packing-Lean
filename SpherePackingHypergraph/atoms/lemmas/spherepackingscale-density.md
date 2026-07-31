@@ -20,7 +20,7 @@ formalized: true
 > 
 > $$\limsup_{R \to \infty} \Delta_{\mathcal{P}(cX)}(R) = \limsup_{cR \to \infty} \Delta_{\mathcal{P}(cX)}(cR)$$
 > 
-> Lemma~[[spherepackingscale-finitedensity]] tells us that $\Delta_{\mathcal{P}(cX)}(cR) = \Delta_{\mathcal{P}(X)}(R)$ for every $R > 0$. Therefore,
+> Lemma [[spherepackingscale-finitedensity]] tells us that $\Delta_{\mathcal{P}(cX)}(cR) = \Delta_{\mathcal{P}(X)}(R)$ for every $R > 0$. Therefore,
 > 
 > $$\limsup_{cR \to \infty} \Delta_{\mathcal{P}(cX)}(cR) = \limsup_{cR \to \infty} \Delta_{\mathcal{P}(X)}(R) = \limsup_{R \to \infty} \Delta_{\mathcal{P}(X)}(R)$$
 > 

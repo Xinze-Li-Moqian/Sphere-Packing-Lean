@@ -17,7 +17,7 @@ type: proposition
 
 > [!note]- Proof (click to expand)
 > We denote the right hand side of [[eq-a-double-zeroes]] by $d(r)$.
-> Convergence of the integral for $r > \sqrt{2}$ follows from Corollary~[[cor-phi0-near-0-infty]].
+> Convergence of the integral for $r > \sqrt{2}$ follows from Corollary [[cor-phi0-near-0-infty]].
 > We can write 
 > $$
 > \begin{aligned}

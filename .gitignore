@@ -16,3 +16,11 @@ blueprint/src/print.out
 blueprint/src/print.toc
 blueprint/src/print.pdf
 blueprint/src/print.synctex.gz
+
+# Obsidian writes these when the vault is opened — one reader's screen,
+# not part of the network.
+.obsidian/workspace.json
+.obsidian/workspace.json.bak
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/cache/

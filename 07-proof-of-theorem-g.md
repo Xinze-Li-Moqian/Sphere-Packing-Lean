@@ -21,7 +21,7 @@ Some of them are settled by writing the form as a product of things already know
 The two inequalities, and with them the theorem. Cohn and Elkies gave the bound in 2003 and could not produce a function; the function is this one, and the number it yields is exactly the density of $E_8$.
 
 
-Our proof of the Theorem~[[thm-g]] relies on the following two inequalities for modular objects.
+Our proof of the Theorem [[thm-g]] relies on the following two inequalities for modular objects.
 
 ![[prop-ineqa]]
 
@@ -62,6 +62,6 @@ as a function on $(0, \infty)$.
 
 ![[cor-ineqbnew]]
 
-Finally, we are ready to prove Theorem~[[thm-g]].
+Finally, we are ready to prove Theorem [[thm-g]].
 
 ![[thm-g1]]

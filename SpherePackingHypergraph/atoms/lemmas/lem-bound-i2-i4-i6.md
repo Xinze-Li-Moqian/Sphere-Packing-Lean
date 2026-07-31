@@ -34,7 +34,7 @@ type: lemma
 > $$
 > I_6(r) = 2 i \int_1^{\infty} \phi_0(i t) e^{-\pi r t} \, \mathrm{d} t
 > $$
-> and the absolute value can be bounded as (using Corollary~[[cor-phi0-bound]])
+> and the absolute value can be bounded as (using Corollary [[cor-phi0-bound]])
 > $$
 > |I_6(r)| \leq 2 \int_1^{\infty} |\phi_0(i t)| e^{-\pi r t} \, \mathrm{d} t \leq \frac{2C_0}{\pi} \int_1^{\infty} e^{-2\pi t} e^{-\pi r t} \, \mathrm{d} t = \frac{2C_0}{\pi} \frac{e^{-\pi (r + 2)}}{r + 2}.
 > $$

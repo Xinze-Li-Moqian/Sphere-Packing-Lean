@@ -16,4 +16,4 @@ formalized: true
 ## Proof
 
 > [!note]- Proof (click to expand)
-> See~[[ref-first-course]].
+> See [[ref-first-course]].

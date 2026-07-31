@@ -16,4 +16,4 @@ formalized: true
 ## Proof
 
 > [!note]- Proof (click to expand)
-> The result follows immediately from Theorem~[[thm-periodic-packing-optimal]] and [[thm-cohn-elkies-periodic]].
+> The result follows immediately from Theorem [[thm-periodic-packing-optimal]] and [[thm-cohn-elkies-periodic]].

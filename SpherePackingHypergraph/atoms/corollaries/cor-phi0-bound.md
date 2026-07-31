@@ -23,4 +23,4 @@ type: corollary
 > (E_2(z) E_4(z) - E_6(z))^{2} = 720^{2} e^{4 \pi i z} + O(e^{5 \pi i z}).
 > $$
 > 
-> Then the result follows from Lemma~[[lemma-mod-div-disc-bound]] with $f(z) = (E_2 E_4 - E_6)^2$ and $n_0 = 4$.
+> Then the result follows from Lemma [[lemma-mod-div-disc-bound]] with $f(z) = (E_2 E_4 - E_6)^2$ and $n_0 = 4$.
