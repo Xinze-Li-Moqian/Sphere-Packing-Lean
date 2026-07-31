@@ -1,5 +1,5 @@
 ---
-id: e5e8f003ab77
+id: d74373d1d1c0
 type: lemma
 lean:
   - PeriodicSpherePacking.aux2_ge'
@@ -12,7 +12,7 @@ formalized: true
 ## Statement
 
 > [!lemma] lemma:lattice-points-bound
-> For all $R$, we have the following inequality relating the number of lattice points from $\Lambda$ in a ball with the volume of the ball and the fundamental region $\mathcal{D}$:
+> For all $R$, we have the following inequality relating the number of [[iszlattice|lattice]] points from $\Lambda$ in a ball with the volume of the ball and the fundamental region $\mathcal{D}$:
 > 
 > $$\frac{\mathrm{Vol}(\mathcal{B}_d(R - L))}{\mathrm{Vol}(\mathcal{D})}
 > \leq \left|\Lambda \cap \mathcal{B}_d(R)\right|

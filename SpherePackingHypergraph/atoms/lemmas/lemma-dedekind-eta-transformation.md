@@ -1,5 +1,5 @@
 ---
-id: 47e74291ff7d
+id: 3f6f90eb274b
 type: lemma
 lean:
   - ModularForm.eta_comp_eq_csqrt_I_inv
@@ -10,7 +10,7 @@ lean:
 ## Statement
 
 > [!lemma] lemma:dedekind_eta_transformation
-> The Dedekind eta function transforms as
+> The [[def-dedekind-eta|Dedekind eta function]] transforms as
 > $$
 > \eta\left(-\frac{1}{z}\right) = \sqrt{-iz} \eta(z).
 > $$

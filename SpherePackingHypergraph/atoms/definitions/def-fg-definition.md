@@ -1,5 +1,5 @@
 ---
-id: 17dcce57916f
+id: bf9e08879e5e
 type: definition
 lean:
   - F
@@ -12,7 +12,7 @@ formalized: true
 ## Statement
 
 > [!definition] def:FG-definition
-> Define two (quasi) modular forms as
+> Define two (quasi) [[def-mk|modular forms]] as
 > $$
 > \begin{aligned}
 > F(z) &= (E_2(z) E_4(z) - E_6(z))^2  \\

@@ -1,5 +1,5 @@
 ---
-id: 523dc06084c3
+id: 13ee00716c8d
 type: theorem
 lean:
   - serre_D_slash_equivariant
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] thm:serre-der-equiv-action
-> Serre derivative $\partial_{k}$ is equivariant with the slash action of $\mathrm{SL}_{2}(\mathbb{Z})$ in the following sense:
+> [[def-serre-der|Serre derivative]] $\partial_{k}$ is equivariant with the slash action of $\mathrm{SL}_{2}(\mathbb{Z})$ in the following sense:
 > $$
 > \partial_{k} (F|_{k}\gamma) = (\partial_{k} F)|_{k+2}\gamma, \quad \forall \gamma \in \mathrm{SL}_{2}(\mathbb{Z}).
 > $$

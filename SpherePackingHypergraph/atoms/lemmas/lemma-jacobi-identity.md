@@ -1,5 +1,5 @@
 ---
-id: 98f0ece0befb
+id: 34537e3c3a08
 type: lemma
 lean:
   - jacobi_identity
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!lemma] lemma:jacobi-identity
-> These three theta functions satisfy the *Jacobi identity*
+> These three [[def-th00-th01-th10|theta functions]] satisfy the *Jacobi identity*
 > $$
 > H_{2} + H_{4} = H_{3} \Leftrightarrow \Theta_{2}^4 + \Theta_{4}^4 = \Theta_{3}^4.
 > $$

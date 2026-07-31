@@ -1,5 +1,5 @@
 ---
-id: e0b9213b6906
+id: 9a9588d33d6b
 type: theorem
 lean:
   - SchwartzMap.PoissonSummation_Lattices
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] Poisson summation formula
-> Let $\Lambda$ be a lattice in $\mathbb{R}^d$, and let $f:\mathbb{R}^d\to\mathbb{R}$ be a [[def-schwartz-space|Schwartz function]]. Then, for all $v \in \mathbb{R}^d$,
+> Let $\Lambda$ be a [[iszlattice|lattice]] in $\mathbb{R}^d$, and let $f:\mathbb{R}^d\to\mathbb{R}$ be a [[def-schwartz-space|Schwartz function]]. Then, for all $v \in \mathbb{R}^d$,
 > 
 > $$\sum_{\ell\in\Lambda}f(\ell + v) = \frac{1}{\operatorname{Vol}\!\left(\mathbb{R}^d/\Lambda\right)} \sum_{m\in\Lambda^*}\widehat{f}(m) e^{-2\pi i \left\langle v, m \right\rangle}.$$
 

@@ -1,5 +1,5 @@
 ---
-id: 5fc5452ff5b3
+id: 044af3957846
 type: lemma
 lean:
   - E_k_q_expansion
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!lemma] lemma:Ek-Fourier
-> The Eisenstein series possesses the Fourier expansion
+> The [[def-ek|Eisenstein series]] possesses the Fourier expansion
 > $$E_k(z)=1+\frac{2}{\zeta(1-k)}\sum_{n=1}^\infty \sigma_{k-1}(n)\,e^{2\pi i z}, $$
 > where $\sigma_{k-1}(n)\,=\,\sum_{d|n} d^{k-1}$. In particular, we have
 > $$

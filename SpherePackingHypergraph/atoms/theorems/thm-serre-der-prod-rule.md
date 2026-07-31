@@ -1,5 +1,5 @@
 ---
-id: 4004d0d56000
+id: 43d5f1374a54
 type: theorem
 lean:
   - serre_D_mul
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] thm:serre-der-prod-rule
-> The Serre derivative satisfies the following product rule: for any quasimodular forms $F$ and $G$,
+> The [[def-serre-der|Serre derivative]] satisfies the following product rule: for any quasimodular forms $F$ and $G$,
 > $$
 > \partial_{w_1 + w_2} (FG) = (\partial_{w_1}F)G + F (\partial_{w_2}G).
 > $$

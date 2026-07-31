@@ -1,5 +1,5 @@
 ---
-id: 45e33c0536f1
+id: 38c5a782d1df
 type: lemma
 ---
 
@@ -8,7 +8,7 @@ type: lemma
 ## Statement
 
 > [!lemma] lemma:inv-power-summable
-> Let $X \subset \mathbb{R}^d$ be a set of [[spherepackingballs|sphere packing]] centres of separation $1$ that is periodic with some lattice $\Lambda \subset \mathbb{R}^d$. Then, there exists $k \in \mathbb{N}$ sufficiently large such that
+> Let $X \subset \mathbb{R}^d$ be a set of [[spherepackingballs|sphere packing]] centres of separation $1$ that is periodic with some [[iszlattice|lattice]] $\Lambda \subset \mathbb{R}^d$. Then, there exists $k \in \mathbb{N}$ sufficiently large such that
 > 
 > $$\sum_{x \in X} \frac{1}{\left\lVert x \right\rVert^{k}} < \infty.$$
 

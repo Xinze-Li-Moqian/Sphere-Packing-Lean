@@ -1,5 +1,5 @@
 ---
-id: 9ba196c42231
+id: f77a3ff132bb
 type: lemma
 lean:
   - SpherePacking.scale_density
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!lemma] SpherePacking.scale_density
-> Let $\mathcal{P}(X)$ be a [[spherepackingballs|sphere packing]] and $c$ a positive real number. Then, the density of the [[spherepackingscale|scaled packing]] $\mathcal{P}(cX)$ is equal to the density of the original packing $\mathcal{P}(X)$.
+> Let $\mathcal{P}(X)$ be a [[spherepackingballs|sphere packing]] and $c$ a positive real number. Then, the [[spherepackingdensity|density]] of the [[spherepackingscale|scaled packing]] $\mathcal{P}(cX)$ is equal to the density of the original packing $\mathcal{P}(X)$.
 
 ## Proof
 

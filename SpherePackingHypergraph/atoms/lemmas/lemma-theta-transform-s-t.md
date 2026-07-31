@@ -1,5 +1,5 @@
 ---
-id: f266f781c31d
+id: db0009dece77
 type: lemma
 lean:
   - H₂_T_action
@@ -16,7 +16,7 @@ formalized: true
 ## Statement
 
 > [!lemma] lemma:theta-transform-S-T
-> These elements act on the theta functions in the following way
+> These elements act on the [[def-th00-th01-th10|theta functions]] in the following way
 > $$
 > \begin{aligned}
 > H_2 | S &= -H_4  \\

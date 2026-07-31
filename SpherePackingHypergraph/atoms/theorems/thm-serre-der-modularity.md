@@ -1,5 +1,5 @@
 ---
-id: 674ecaa17ccc
+id: b0d10d303b0b
 type: theorem
 lean:
   - serre_D_slash_invariant
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!theorem] thm:serre-der-modularity
-> Let $F$ be a modular form of weight $k$ and level $\Gamma$. Then, $\partial_{k}F$ is a modular form of weight $k + 2$ of the same level.
+> Let $F$ be a [[def-mk|modular form]] of weight $k$ and level $\Gamma$. Then, $\partial_{k}F$ is a modular form of weight $k + 2$ of the same level.
 
 ## Proof
 

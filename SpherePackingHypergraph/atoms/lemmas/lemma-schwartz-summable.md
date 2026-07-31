@@ -1,5 +1,5 @@
 ---
-id: 4b21100bd390
+id: 559aaf43f25c
 type: lemma
 ---
 
@@ -8,7 +8,7 @@ type: lemma
 ## Statement
 
 > [!lemma] lemma:Schwartz-summable
-> Let $f : \mathbb{R}^d \to \mathbb{C}$ be a [[def-schwartz-space|Schwartz function]] and let $X \subset \mathbb{R}^d$ be periodic with respect to some lattice $\Lambda \subset \mathbb{R}^d$. Then,
+> Let $f : \mathbb{R}^d \to \mathbb{C}$ be a [[def-schwartz-space|Schwartz function]] and let $X \subset \mathbb{R}^d$ be periodic with respect to some [[iszlattice|lattice]] $\Lambda \subset \mathbb{R}^d$. Then,
 > 
 > $$\sum_{x \in X} |f(x)| < \infty.$$
 

@@ -1,5 +1,5 @@
 ---
-id: aae1ca3b39c7
+id: 97c2182a4de4
 type: lemma
 lean:
   - SchwartzMap.fourierTransformCLM
@@ -11,7 +11,7 @@ formalized: true
 ## Statement
 
 > [!lemma] lemma:Fourier-transform-is-automorphism
-> The Fourier transform is a continuous, linear automorphism of the space of [[def-schwartz-space|Schwartz functions]].
+> The [[def-fourier-transform|Fourier transform]] is a continuous, linear automorphism of the space of [[def-schwartz-space|Schwartz functions]].
 
 ## Proof
 
