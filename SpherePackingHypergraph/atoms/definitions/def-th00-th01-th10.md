@@ -1,6 +1,7 @@
 ---
 id: 07cbf27596d4
 type: definition
+from: blueprint
 lean:
   - Θ₂
   - Θ₃

@@ -1,6 +1,7 @@
 ---
 id: 85952fa10c33
 type: theorem
+from: blueprint
 ---
 
 # Theorem — theorem:CE_Main

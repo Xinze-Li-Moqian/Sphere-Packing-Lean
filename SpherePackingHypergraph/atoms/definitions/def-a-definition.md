@@ -1,6 +1,7 @@
 ---
 id: d76a819acb6e
 type: definition
+from: blueprint
 lean:
   - MagicFunction.a.RealIntegrals.a'
   - MagicFunction.a.RadialFunctions.a

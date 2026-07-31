@@ -1,6 +1,7 @@
 ---
 id: ca0b8b5d74ba
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:phi0-trans-S

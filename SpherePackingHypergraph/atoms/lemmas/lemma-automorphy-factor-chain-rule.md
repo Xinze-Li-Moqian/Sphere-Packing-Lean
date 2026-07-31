@@ -1,6 +1,7 @@
 ---
 id: b636bcf78d6b
 type: lemma
+from: blueprint
 lean:
   - UpperHalfPlane.denom_cocycle
 formalized: true

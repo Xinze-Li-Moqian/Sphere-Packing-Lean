@@ -1,6 +1,7 @@
 ---
 id: a4aa4bb12041
 kind: references
+from: blueprint
 ref:
   - "[[thm-serre-der-equiv-action]]"
   - "[[def-mk]]"

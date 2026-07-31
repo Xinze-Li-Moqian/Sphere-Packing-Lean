@@ -1,6 +1,7 @@
 ---
 id: 67d552205eaa
 kind: references
+from: blueprint
 ref:
   - "[[thm-ramanujan-formula]]"
   - "[[def-e2]]"

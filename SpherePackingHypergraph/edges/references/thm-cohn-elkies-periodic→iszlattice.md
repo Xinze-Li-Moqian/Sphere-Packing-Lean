@@ -1,6 +1,7 @@
 ---
 id: bbc4ef2abb23
 kind: references
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-periodic]]"
   - "[[iszlattice]]"

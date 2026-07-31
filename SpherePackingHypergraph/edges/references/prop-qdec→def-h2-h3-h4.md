@@ -1,6 +1,7 @@
 ---
 id: 081d75e8fc35
 kind: references
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[def-h2-h3-h4]]"

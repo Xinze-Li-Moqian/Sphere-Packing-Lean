@@ -1,6 +1,7 @@
 ---
 id: 69ada129732a
 kind: uses
+from: blueprint
 ref:
   - "[[instlatticee8]]"
   - "[[e8-is-basis]]"

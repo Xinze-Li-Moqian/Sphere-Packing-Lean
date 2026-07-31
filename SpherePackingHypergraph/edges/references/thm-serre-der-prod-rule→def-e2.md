@@ -1,6 +1,7 @@
 ---
 id: 49b0937395a2
 kind: references
+from: blueprint
 ref:
   - "[[thm-serre-der-prod-rule]]"
   - "[[def-e2]]"

@@ -1,6 +1,7 @@
 ---
 id: bff53b85e524
 type: proposition
+from: blueprint
 lean:
   - MagicFunction.b.SpecialValues.b_zero
 formalized: true

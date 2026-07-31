@@ -1,6 +1,7 @@
 ---
 id: 2c15b79e03cd
 kind: uses
+from: blueprint
 ref:
   - "[[thm-serre-der-modularity]]"
   - "[[def-serre-der]]"

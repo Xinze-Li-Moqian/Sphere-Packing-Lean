@@ -1,6 +1,7 @@
 ---
 id: 3fbf93fdba5d
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-fourier]]"
   - "[[def-e2]]"

@@ -1,6 +1,7 @@
 ---
 id: 8eaa107878a0
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-bounded-im-infty]]"
   - "[[lemma-gamma-1-generators]]"

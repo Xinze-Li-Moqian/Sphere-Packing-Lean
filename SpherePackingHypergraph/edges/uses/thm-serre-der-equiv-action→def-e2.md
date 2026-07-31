@@ -1,6 +1,7 @@
 ---
 id: d08757c2855b
 kind: uses
+from: blueprint
 ref:
   - "[[thm-serre-der-equiv-action]]"
   - "[[def-e2]]"

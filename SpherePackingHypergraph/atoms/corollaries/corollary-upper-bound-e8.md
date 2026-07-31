@@ -1,6 +1,7 @@
 ---
 id: efdced25ca66
 type: corollary
+from: blueprint
 ---
 
 # Corollary — corollary:upper-bound-E8

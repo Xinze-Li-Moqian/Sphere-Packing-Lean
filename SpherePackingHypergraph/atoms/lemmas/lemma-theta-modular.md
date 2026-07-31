@@ -1,6 +1,7 @@
 ---
 id: a5266f5f7342
 type: lemma
+from: blueprint
 lean:
   - H₂_MF
   - H₃_MF

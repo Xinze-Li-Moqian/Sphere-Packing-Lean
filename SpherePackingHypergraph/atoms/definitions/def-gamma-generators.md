@@ -1,6 +1,7 @@
 ---
 id: ff4f79a46d91
 type: definition
+from: blueprint
 lean:
   - ModularGroup.S
   - ModularGroup.T

@@ -1,6 +1,7 @@
 ---
 id: 37abfb4951ef
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiI-near-0

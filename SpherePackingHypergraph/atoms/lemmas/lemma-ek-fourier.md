@@ -1,6 +1,7 @@
 ---
 id: 044af3957846
 type: lemma
+from: blueprint
 lean:
   - E_k_q_expansion
 formalized: true

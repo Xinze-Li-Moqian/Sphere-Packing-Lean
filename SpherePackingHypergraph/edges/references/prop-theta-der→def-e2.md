@@ -1,6 +1,7 @@
 ---
 id: 56801329ce9c
 kind: references
+from: blueprint
 ref:
   - "[[prop-theta-der]]"
   - "[[def-e2]]"

@@ -1,6 +1,7 @@
 ---
 id: 9a5eb249def4
 kind: uses
+from: blueprint
 ref:
   - "[[e8-vector-norms]]"
   - "[[e8-defs-equivalent]]"

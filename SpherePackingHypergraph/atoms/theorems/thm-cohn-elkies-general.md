@@ -1,6 +1,7 @@
 ---
-id: 90fe7e6a49c2
+id: 3978db84c6c5
 type: theorem
+from: blueprint
 lean:
   - LinearProgrammingBound
 formalized: true
@@ -11,7 +12,7 @@ formalized: true
 ## Statement
 
 > [!theorem] Cohn–Elkies [[ref-elkiescohn]]
-> Let $f:\mathbb{R}^d\to\mathbb{R}$ be a [[def-schwartz-space|Schwartz function]] that is not identically zero and satisfies [[eq-cohn-elkies-condition-1]] and [[eq-cohn-elkies-condition-2]]. Then the [[spherepackingdensity|density]] of any $\Lambda$-periodic [[spherepackingballs|sphere packing]] is bounded above by $$\frac{f(0)}{\widehat{f}(0)}\cdot \mathrm{vol}(B_d(0,1/2)).$$
+> Let $f:\mathbb{R}^d\to\mathbb{R}$ be a [[def-schwartz-space|Schwartz function]] that is not identically zero and satisfies [[eq-cohn-elkies-condition-1]] and [[eq-cohn-elkies-condition-2]]. Then the [[spherepackingdensity|density]] of any $\Lambda$-[[periodicspherepacking|periodic]] [[spherepackingballs|sphere packing]] is bounded above by $$\frac{f(0)}{\widehat{f}(0)}\cdot \mathrm{vol}(B_d(0,1/2)).$$
 
 ## Proof
 

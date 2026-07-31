@@ -1,6 +1,7 @@
 ---
 id: 9cc9d3828f0e
 kind: references
+from: blueprint
 ref:
   - "[[thm-periodic-packing-optimal]]"
   - "[[periodicspherepacking]]"

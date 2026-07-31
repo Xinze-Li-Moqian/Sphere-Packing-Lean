@@ -1,6 +1,7 @@
 ---
 id: c4048d0e8e32
 kind: references
+from: blueprint
 ref:
   - "[[thm-nonpos-wt]]"
   - "[[def-gamma-1-action]]"

@@ -1,6 +1,7 @@
 ---
 id: 3547a5e61072
 kind: references
+from: blueprint
 ref:
   - "[[def-gamma-generators]]"
   - "[[def-gamma-1-action]]"

@@ -1,6 +1,7 @@
 ---
 id: 76489046d69c
 kind: references
+from: blueprint
 ref:
   - "[[spherepackingscale-finitedensity]]"
   - "[[spherepackingballs]]"

@@ -1,6 +1,7 @@
 ---
 id: f74ffa0a44c8
 type: corollary
+from: blueprint
 lean:
   - Δ_imag_axis_pos
 formalized: true

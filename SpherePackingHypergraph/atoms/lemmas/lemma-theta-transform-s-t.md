@@ -1,6 +1,7 @@
 ---
 id: db0009dece77
 type: lemma
+from: blueprint
 lean:
   - H₂_T_action
   - H₃_T_action

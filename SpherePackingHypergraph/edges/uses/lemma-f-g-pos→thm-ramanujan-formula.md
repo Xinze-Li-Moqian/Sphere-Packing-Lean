@@ -1,6 +1,7 @@
 ---
 id: 9777663a0d02
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-f-g-pos]]"
   - "[[thm-ramanujan-formula]]"

@@ -1,6 +1,7 @@
 ---
 id: 18c298170f0f
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:H2-fourier

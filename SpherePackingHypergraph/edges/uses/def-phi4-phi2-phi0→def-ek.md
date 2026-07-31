@@ -1,6 +1,7 @@
 ---
 id: c6f2bee194d4
 kind: uses
+from: blueprint
 ref:
   - "[[def-phi4-phi2-phi0]]"
   - "[[def-ek]]"

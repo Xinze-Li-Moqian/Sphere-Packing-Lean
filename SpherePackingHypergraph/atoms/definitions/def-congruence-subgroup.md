@@ -1,6 +1,7 @@
 ---
 id: 3d83c1589979
 type: definition
+from: blueprint
 formalized: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: 25696d84d2b0
 type: lemma
+from: blueprint
 lean:
   - E₂_slash_transform
 formalized: true

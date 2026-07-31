@@ -1,6 +1,7 @@
 ---
 id: eb34389e7972
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:phi0-F

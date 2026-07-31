@@ -1,6 +1,7 @@
 ---
 id: 2afe742a0603
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:disctheta

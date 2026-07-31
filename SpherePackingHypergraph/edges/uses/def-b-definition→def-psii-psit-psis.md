@@ -1,6 +1,7 @@
 ---
 id: 0c353e73e99a
 kind: uses
+from: blueprint
 ref:
   - "[[def-b-definition]]"
   - "[[def-psii-psit-psis]]"

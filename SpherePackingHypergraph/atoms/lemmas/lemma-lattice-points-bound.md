@@ -1,6 +1,7 @@
 ---
 id: d74373d1d1c0
 type: lemma
+from: blueprint
 lean:
   - PeriodicSpherePacking.aux2_ge'
   - PeriodicSpherePacking.aux2_le'

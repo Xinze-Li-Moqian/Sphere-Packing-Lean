@@ -1,6 +1,7 @@
 ---
 id: df7aa3882324
 type: definition
+from: blueprint
 lean:
   - SpherePacking.density
 formalized: true

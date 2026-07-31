@@ -1,6 +1,7 @@
 ---
 id: 458b182cdbe6
 kind: uses
+from: blueprint
 ref:
   - "[[def-serre-der]]"
   - "[[def-e2]]"

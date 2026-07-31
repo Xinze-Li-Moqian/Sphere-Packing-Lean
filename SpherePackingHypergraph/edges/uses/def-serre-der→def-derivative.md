@@ -1,6 +1,7 @@
 ---
 id: 0439bc221740
 kind: uses
+from: blueprint
 ref:
   - "[[def-serre-der]]"
   - "[[def-derivative]]"

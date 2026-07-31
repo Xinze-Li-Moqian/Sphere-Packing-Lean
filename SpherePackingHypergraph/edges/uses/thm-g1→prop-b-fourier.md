@@ -1,6 +1,7 @@
 ---
 id: 048e39bf3b8d
 kind: uses
+from: blueprint
 ref:
   - "[[thm-g1]]"
   - "[[prop-b-fourier]]"

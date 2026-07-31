@@ -1,6 +1,7 @@
 ---
 id: 20edeb97fa87
 kind: references
+from: blueprint
 ref:
   - "[[lemma-lattice-points-bound]]"
   - "[[iszlattice]]"

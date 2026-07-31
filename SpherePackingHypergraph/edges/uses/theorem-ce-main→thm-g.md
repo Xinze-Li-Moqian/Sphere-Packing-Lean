@@ -1,6 +1,7 @@
 ---
 id: 7f9cf8d955c3
 kind: uses
+from: blueprint
 ref:
   - "[[theorem-ce-main]]"
   - "[[thm-g]]"

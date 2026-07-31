@@ -1,6 +1,7 @@
 ---
 id: 1ecba84223f5
 kind: uses
+from: blueprint
 ref:
   - "[[instdiscretee8lattice]]"
   - "[[e8-vector-norms]]"

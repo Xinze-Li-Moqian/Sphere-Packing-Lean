@@ -1,6 +1,7 @@
 ---
 id: a9b102375c5b
 kind: uses
+from: blueprint
 ref:
   - "[[thm-serre-der-modularity]]"
   - "[[def-mk]]"

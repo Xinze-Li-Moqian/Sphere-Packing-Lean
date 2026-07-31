@@ -1,6 +1,7 @@
 ---
 id: 4ea76f56d978
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-phi0-transform]]"
   - "[[def-phi4-phi2-phi0]]"

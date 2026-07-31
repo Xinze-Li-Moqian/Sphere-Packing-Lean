@@ -1,6 +1,7 @@
 ---
 id: 94a90ff97bf1
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-schwartz]]"
   - "[[cor-phi0-bound]]"

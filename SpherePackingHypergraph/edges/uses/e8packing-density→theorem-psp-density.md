@@ -1,6 +1,7 @@
 ---
 id: 75bbd4547197
 kind: uses
+from: blueprint
 ref:
   - "[[e8packing-density]]"
   - "[[theorem-psp-density]]"

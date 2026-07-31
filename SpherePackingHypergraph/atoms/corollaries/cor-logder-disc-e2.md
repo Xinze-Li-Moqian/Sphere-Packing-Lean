@@ -1,6 +1,7 @@
 ---
 id: b49ab36c8a9b
 type: corollary
+from: blueprint
 ---
 
 # Corollary — cor:logder-disc-E2

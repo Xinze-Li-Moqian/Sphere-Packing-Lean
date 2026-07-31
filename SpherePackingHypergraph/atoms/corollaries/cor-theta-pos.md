@@ -1,6 +1,7 @@
 ---
 id: 34a4429087a4
 type: corollary
+from: blueprint
 lean:
   - H₂_imag_axis_pos
   - H₄_imag_axis_pos

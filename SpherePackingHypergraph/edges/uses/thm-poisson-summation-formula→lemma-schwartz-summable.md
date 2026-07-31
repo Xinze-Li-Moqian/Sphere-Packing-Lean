@@ -1,6 +1,7 @@
 ---
 id: 1b2e595ee17e
 kind: uses
+from: blueprint
 ref:
   - "[[thm-poisson-summation-formula]]"
   - "[[lemma-schwartz-summable]]"

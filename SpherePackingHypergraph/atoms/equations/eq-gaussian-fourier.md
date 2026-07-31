@@ -1,6 +1,7 @@
 ---
 id: af30d49d8dcd
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:gaussian Fourier

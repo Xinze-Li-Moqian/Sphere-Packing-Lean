@@ -1,6 +1,7 @@
 ---
 id: 3d5e64c9e9de
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:phi0-transform

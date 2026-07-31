@@ -1,6 +1,7 @@
 ---
 id: 125e878114c1
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi4-bound]]"
   - "[[lemma-mod-div-disc-bound]]"

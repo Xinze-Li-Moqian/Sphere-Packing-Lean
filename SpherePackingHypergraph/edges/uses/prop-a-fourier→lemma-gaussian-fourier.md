@@ -1,6 +1,7 @@
 ---
 id: 719cce16ae46
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-fourier]]"
   - "[[lemma-gaussian-fourier]]"

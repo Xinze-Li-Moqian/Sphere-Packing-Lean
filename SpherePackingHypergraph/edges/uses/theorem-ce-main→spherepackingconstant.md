@@ -1,6 +1,7 @@
 ---
 id: b206607f9f82
 kind: uses
+from: blueprint
 ref:
   - "[[theorem-ce-main]]"
   - "[[spherepackingconstant]]"

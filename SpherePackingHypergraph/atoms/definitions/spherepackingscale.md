@@ -1,6 +1,7 @@
 ---
 id: 63dcb6c6a9b2
 type: definition
+from: blueprint
 lean:
   - SpherePacking.scale
 formalized: true

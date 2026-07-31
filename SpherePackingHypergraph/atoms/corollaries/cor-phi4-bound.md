@@ -1,6 +1,7 @@
 ---
 id: 014223bd98e3
 type: corollary
+from: blueprint
 ---
 
 # Corollary — cor:phi4-bound

@@ -1,6 +1,7 @@
 ---
 id: 54c2c93a4cf7
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-phi0-transform]]"
   - "[[lemma-disc-cuspform]]"

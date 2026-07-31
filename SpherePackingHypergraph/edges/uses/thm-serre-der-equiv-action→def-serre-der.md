@@ -1,6 +1,7 @@
 ---
 id: 0934e841acda
 kind: uses
+from: blueprint
 ref:
   - "[[thm-serre-der-equiv-action]]"
   - "[[def-serre-der]]"

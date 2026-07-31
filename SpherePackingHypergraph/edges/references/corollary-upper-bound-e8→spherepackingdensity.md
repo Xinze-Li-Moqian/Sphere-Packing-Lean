@@ -1,6 +1,7 @@
 ---
 id: 4f63e5a119cb
 kind: references
+from: blueprint
 ref:
   - "[[corollary-upper-bound-e8]]"
   - "[[spherepackingdensity]]"

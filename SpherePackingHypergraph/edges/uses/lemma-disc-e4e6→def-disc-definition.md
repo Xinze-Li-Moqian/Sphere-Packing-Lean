@@ -1,6 +1,7 @@
 ---
 id: 3593fd27e804
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-disc-e4e6]]"
   - "[[def-disc-definition]]"

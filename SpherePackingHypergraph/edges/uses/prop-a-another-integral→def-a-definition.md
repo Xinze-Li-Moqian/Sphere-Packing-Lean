@@ -1,6 +1,7 @@
 ---
 id: 914ae20f4f36
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-another-integral]]"
   - "[[def-a-definition]]"

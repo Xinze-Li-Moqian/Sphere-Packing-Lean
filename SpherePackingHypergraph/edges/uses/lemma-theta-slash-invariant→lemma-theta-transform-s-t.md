@@ -1,6 +1,7 @@
 ---
 id: d225d133c276
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-slash-invariant]]"
   - "[[lemma-theta-transform-s-t]]"

@@ -1,6 +1,7 @@
 ---
 id: 66c5853686c3
 kind: uses
+from: blueprint
 ref:
   - "[[e8packing-density]]"
   - "[[e8packing-covol]]"

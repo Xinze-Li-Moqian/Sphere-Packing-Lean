@@ -1,6 +1,7 @@
 ---
 id: a0ec21acd124
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-slash-operator-chain-rule]]"
   - "[[lemma-automorphy-factor-chain-rule]]"

@@ -1,6 +1,7 @@
 ---
 id: 39210a5a291c
 kind: references
+from: blueprint
 ref:
   - "[[maintheorem]]"
   - "[[e8packing]]"

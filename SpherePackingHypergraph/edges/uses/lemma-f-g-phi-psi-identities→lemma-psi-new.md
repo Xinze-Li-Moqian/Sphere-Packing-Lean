@@ -1,6 +1,7 @@
 ---
 id: 50346d70b185
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-f-g-phi-psi-identities]]"
   - "[[lemma-psi-new]]"

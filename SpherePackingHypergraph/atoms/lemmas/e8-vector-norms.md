@@ -1,6 +1,7 @@
 ---
 id: 44296aa079cf
 type: lemma
+from: blueprint
 lean:
   - E8_norm_eq_sqrt_even
 formalized: true

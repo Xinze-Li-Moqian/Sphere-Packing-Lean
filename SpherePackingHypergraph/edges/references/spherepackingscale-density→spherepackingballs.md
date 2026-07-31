@@ -1,6 +1,7 @@
 ---
 id: ce622cc49f35
 kind: references
+from: blueprint
 ref:
   - "[[spherepackingscale-density]]"
   - "[[spherepackingballs]]"

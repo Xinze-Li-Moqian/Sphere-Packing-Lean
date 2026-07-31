@@ -1,6 +1,7 @@
 ---
 id: 9fced456d90d
 type: definition
+from: blueprint
 lean:
   - H₂
   - H₃

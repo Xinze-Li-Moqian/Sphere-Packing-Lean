@@ -1,6 +1,7 @@
 ---
 id: bb0452844d60
 kind: uses
+from: blueprint
 ref:
   - "[[prop-ineqa]]"
   - "[[lemma-f-g-phi-psi-identities]]"

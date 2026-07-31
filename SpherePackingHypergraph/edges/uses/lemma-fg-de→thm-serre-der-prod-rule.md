@@ -1,6 +1,7 @@
 ---
 id: 12c74b13d03f
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-fg-de]]"
   - "[[thm-serre-der-prod-rule]]"

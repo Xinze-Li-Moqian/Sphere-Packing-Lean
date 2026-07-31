@@ -1,6 +1,7 @@
 ---
 id: 4c185b59e209
 kind: references
+from: blueprint
 ref:
   - "[[lemma-lv1-lv2-identities]]"
   - "[[def-h2-h3-h4]]"

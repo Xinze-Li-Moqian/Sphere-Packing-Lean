@@ -1,6 +1,7 @@
 ---
 id: 194439a84cc9
 kind: references
+from: blueprint
 ref:
   - "[[lemma-phi0-transform]]"
   - "[[def-ek]]"

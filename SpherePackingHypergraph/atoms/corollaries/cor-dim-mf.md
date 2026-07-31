@@ -1,6 +1,7 @@
 ---
 id: 0121928434d9
 type: corollary
+from: blueprint
 formalized: true
 ---
 

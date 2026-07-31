@@ -1,6 +1,7 @@
 ---
 id: 82822e410f02
 kind: uses
+from: blueprint
 ref:
   - "[[spherepackingconstant]]"
   - "[[spherepackingballs]]"

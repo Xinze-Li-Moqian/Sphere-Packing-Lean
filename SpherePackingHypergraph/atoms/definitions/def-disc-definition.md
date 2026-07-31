@@ -1,6 +1,7 @@
 ---
 id: 93ee78aae2e9
 type: definition
+from: blueprint
 lean:
   - ModularForm.discriminant
   - Δ_eq_cexp_prod

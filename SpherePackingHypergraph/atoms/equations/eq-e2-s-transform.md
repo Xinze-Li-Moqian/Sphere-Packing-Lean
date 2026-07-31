@@ -1,6 +1,7 @@
 ---
 id: 8945f9a38a9d
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:E2-S-transform

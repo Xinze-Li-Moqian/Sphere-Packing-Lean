@@ -1,6 +1,7 @@
 ---
 id: 4ac3583cfacc
 kind: uses
+from: blueprint
 ref:
   - "[[cor-psii-near-0-infty]]"
   - "[[lemma-psi-bound]]"

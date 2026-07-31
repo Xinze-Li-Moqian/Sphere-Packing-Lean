@@ -1,6 +1,7 @@
 ---
 id: a727cb65a4fe
 kind: references
+from: blueprint
 ref:
   - "[[prop-b-fourier]]"
   - "[[def-fourier-transform]]"

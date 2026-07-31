@@ -1,6 +1,7 @@
 ---
 id: 875b768df854
 kind: uses
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[thm-ramanujan-formula]]"

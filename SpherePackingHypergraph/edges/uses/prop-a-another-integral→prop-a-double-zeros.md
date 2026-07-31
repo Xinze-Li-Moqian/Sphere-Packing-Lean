@@ -1,6 +1,7 @@
 ---
 id: 79614dc74599
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-another-integral]]"
   - "[[prop-a-double-zeros]]"

@@ -1,6 +1,7 @@
 ---
 id: 3471ca74194b
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:E2-transform-general

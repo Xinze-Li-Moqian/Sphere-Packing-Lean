@@ -1,6 +1,7 @@
 ---
 id: 4ebd61692b17
 kind: uses
+from: blueprint
 ref:
   - "[[cor-disc-pos]]"
   - "[[def-disc-definition]]"

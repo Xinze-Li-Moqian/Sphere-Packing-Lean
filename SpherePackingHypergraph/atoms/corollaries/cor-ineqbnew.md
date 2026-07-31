@@ -1,6 +1,7 @@
 ---
 id: da033e570abf
 type: corollary
+from: blueprint
 lean:
   - FG_inequality_2
 ---

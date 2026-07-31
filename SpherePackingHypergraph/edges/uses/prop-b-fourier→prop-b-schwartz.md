@@ -1,6 +1,7 @@
 ---
 id: 437ddd04e8fa
 kind: uses
+from: blueprint
 ref:
   - "[[prop-b-fourier]]"
   - "[[prop-b-schwartz]]"

@@ -1,6 +1,7 @@
 ---
 id: a43d3d465dfc
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-slash-negi-even-weight]]"
   - "[[def-slash-operator]]"

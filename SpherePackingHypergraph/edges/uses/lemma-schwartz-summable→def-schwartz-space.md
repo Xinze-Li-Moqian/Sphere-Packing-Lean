@@ -1,6 +1,7 @@
 ---
 id: 51c11cfd43fb
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-schwartz-summable]]"
   - "[[def-schwartz-space]]"

@@ -1,6 +1,7 @@
 ---
 id: bec986b8d2c7
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-slash-invariant]]"
   - "[[lemma-slash-negi-even-weight]]"

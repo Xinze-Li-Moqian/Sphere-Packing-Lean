@@ -1,6 +1,7 @@
 ---
 id: d4eedbb48d04
 kind: uses
+from: blueprint
 ref:
   - "[[def-congruence-subgroup]]"
   - "[[def-level-n-princ-cong-subgp]]"

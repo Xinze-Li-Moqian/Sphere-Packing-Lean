@@ -1,6 +1,7 @@
 ---
 id: 8517c40c36c8
 type: lemma
+from: blueprint
 lean:
   - instDiscreteE8Lattice
 formalized: true

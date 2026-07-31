@@ -1,6 +1,7 @@
 ---
 id: bc440815d210
 type: lemma
+from: blueprint
 lean:
   - modular_slash_negI_of_even
 formalized: true

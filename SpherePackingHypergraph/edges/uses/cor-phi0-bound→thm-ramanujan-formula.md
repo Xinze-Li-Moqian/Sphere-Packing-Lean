@@ -1,6 +1,7 @@
 ---
 id: 470a7452db9d
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi0-bound]]"
   - "[[thm-ramanujan-formula]]"

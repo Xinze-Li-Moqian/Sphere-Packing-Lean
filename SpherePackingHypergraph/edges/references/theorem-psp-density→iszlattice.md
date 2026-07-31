@@ -1,6 +1,7 @@
 ---
 id: 047496ee5943
 kind: references
+from: blueprint
 ref:
   - "[[theorem-psp-density]]"
   - "[[iszlattice]]"

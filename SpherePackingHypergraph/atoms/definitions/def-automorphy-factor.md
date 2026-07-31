@@ -1,6 +1,7 @@
 ---
 id: 425210f2bd51
 type: definition
+from: blueprint
 lean:
   - UpperHalfPlane.denom
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: 268780b99d43
 kind: uses
+from: blueprint
 ref:
   - "[[def-disc-definition]]"
   - "[[def-dedekind-eta]]"

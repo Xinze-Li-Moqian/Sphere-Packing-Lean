@@ -1,6 +1,7 @@
 ---
 id: 876b5280b335
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:ineqB

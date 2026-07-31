@@ -1,6 +1,7 @@
 ---
-id: 21b12fed18bc
+id: 163185c6e61b
 type: theorem
+from: blueprint
 lean:
   - LinearProgrammingBound'
 formalized: true
@@ -11,7 +12,7 @@ formalized: true
 ## Statement
 
 > [!theorem] Cohn–Elkies [[ref-elkiescohn]]
-> Let $X\subset\mathbb{R}^d$ be a discrete subset such that $\|x-y\|\geq 1$ for any distinct $x,y\in X$. Suppose that $X$ is $\Lambda$-periodic with respect to some [[iszlattice|lattice]] $\Lambda\subset\mathbb{R}^d$. Let $f:\mathbb{R}^d\to\mathbb{R}$ be a [[def-schwartz-space|Schwartz function]] that is not identically zero and satisfies the following conditions:
+> Let $X\subset\mathbb{R}^d$ be a discrete subset such that $\|x-y\|\geq 1$ for any distinct $x,y\in X$. Suppose that $X$ is $\Lambda$-[[periodicspherepacking|periodic]] with respect to some [[iszlattice|lattice]] $\Lambda\subset\mathbb{R}^d$. Let $f:\mathbb{R}^d\to\mathbb{R}$ be a [[def-schwartz-space|Schwartz function]] that is not identically zero and satisfies the following conditions:
 > $$f(x)\leq 0\mbox{ for } \|x\|\geq 1$$ and
 > $$\widehat{f}(x)\geq0\mbox{ for all } x\in\mathbb{R}^d.$$
 > Then the [[spherepackingdensity|density]] of any $\Lambda$-periodic [[spherepackingballs|sphere packing]] is bounded above by $$\frac{f(0)}{\widehat{f}(0)}\cdot \mathrm{vol}(B_d(0,1/2)).$$

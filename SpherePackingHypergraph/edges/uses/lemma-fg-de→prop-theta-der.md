@@ -1,6 +1,7 @@
 ---
 id: dde43bc419de
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-fg-de]]"
   - "[[prop-theta-der]]"

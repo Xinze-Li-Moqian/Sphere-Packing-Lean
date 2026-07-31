@@ -1,6 +1,7 @@
 ---
 id: 3a401659ad70
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-der-q-series]]"
   - "[[def-derivative]]"

@@ -1,6 +1,7 @@
 ---
 id: 4e143fd3c98e
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lem:integral-bound

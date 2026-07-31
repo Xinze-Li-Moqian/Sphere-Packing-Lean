@@ -1,6 +1,7 @@
 ---
 id: 2c9132fc1318
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:Ek-definition

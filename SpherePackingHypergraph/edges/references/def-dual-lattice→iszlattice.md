@@ -1,6 +1,7 @@
 ---
 id: c64cb7cc84b1
 kind: references
+from: blueprint
 ref:
   - "[[def-dual-lattice]]"
   - "[[iszlattice]]"

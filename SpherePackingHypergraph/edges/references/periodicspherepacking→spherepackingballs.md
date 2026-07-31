@@ -1,6 +1,7 @@
 ---
 id: e6d2da4fb110
 kind: references
+from: blueprint
 ref:
   - "[[periodicspherepacking]]"
   - "[[spherepackingballs]]"

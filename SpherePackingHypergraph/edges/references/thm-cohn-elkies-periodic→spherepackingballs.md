@@ -1,6 +1,7 @@
 ---
 id: 68e431418a55
 kind: references
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-periodic]]"
   - "[[spherepackingballs]]"

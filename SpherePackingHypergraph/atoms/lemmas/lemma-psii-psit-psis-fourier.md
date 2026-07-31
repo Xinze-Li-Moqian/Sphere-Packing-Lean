@@ -1,6 +1,7 @@
 ---
 id: 98c36c6f7f77
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:psiI-psiT-psiS-fourier

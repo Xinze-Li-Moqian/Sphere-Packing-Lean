@@ -1,6 +1,7 @@
 ---
 id: da8be44b7bb3
 type: lemma
+from: blueprint
 lean:
   - D_qexp_tsum_pnat
 formalized: true

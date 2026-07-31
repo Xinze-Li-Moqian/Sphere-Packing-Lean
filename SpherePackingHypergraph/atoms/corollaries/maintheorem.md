@@ -1,6 +1,7 @@
 ---
 id: e933706a08fe
 type: corollary
+from: blueprint
 lean:
   - SpherePacking.MainTheorem
 ---

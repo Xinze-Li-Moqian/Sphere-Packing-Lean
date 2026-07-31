@@ -1,6 +1,7 @@
 ---
 id: 6c4eda959813
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:ineqB

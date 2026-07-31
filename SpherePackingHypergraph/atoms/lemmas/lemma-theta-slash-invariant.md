@@ -1,6 +1,7 @@
 ---
 id: fb60225446d1
 type: lemma
+from: blueprint
 lean:
   - H₂_SIF
   - H₃_SIF

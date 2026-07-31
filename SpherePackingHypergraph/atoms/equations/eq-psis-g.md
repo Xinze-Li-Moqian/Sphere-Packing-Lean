@@ -1,6 +1,7 @@
 ---
 id: 1da5568f9377
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiS-G

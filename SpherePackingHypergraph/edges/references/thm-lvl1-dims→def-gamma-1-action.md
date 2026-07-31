@@ -1,6 +1,7 @@
 ---
 id: 559a30eed1f6
 kind: references
+from: blueprint
 ref:
   - "[[thm-lvl1-dims]]"
   - "[[def-gamma-1-action]]"

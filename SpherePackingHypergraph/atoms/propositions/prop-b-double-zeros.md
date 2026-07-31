@@ -1,6 +1,7 @@
 ---
 id: d3392155fab3
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:b-double-zeros

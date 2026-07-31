@@ -1,6 +1,7 @@
 ---
 id: 9bd25e7a57cc
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:H3-serre-der

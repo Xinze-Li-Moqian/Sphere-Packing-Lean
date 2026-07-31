@@ -1,6 +1,7 @@
 ---
 id: 4fb59570db3a
 kind: references
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[def-serre-der]]"

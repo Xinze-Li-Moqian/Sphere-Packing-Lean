@@ -1,6 +1,7 @@
 ---
 id: cf372a0c6b15
 kind: uses
+from: blueprint
 ref:
   - "[[thm-dim-mf-general-level]]"
   - "[[def-mk]]"

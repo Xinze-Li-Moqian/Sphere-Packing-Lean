@@ -1,6 +1,7 @@
 ---
 id: 35d1b53a15e4
 type: definition
+from: blueprint
 lean:
   - LinearMap.BilinForm.dualSubmodule
 formalized: true

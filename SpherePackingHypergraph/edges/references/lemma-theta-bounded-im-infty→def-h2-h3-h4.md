@@ -1,6 +1,7 @@
 ---
 id: 79be66e7a08a
 kind: references
+from: blueprint
 ref:
   - "[[lemma-theta-bounded-im-infty]]"
   - "[[def-h2-h3-h4]]"

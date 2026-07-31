@@ -1,6 +1,7 @@
 ---
 id: f8e2a4d79eb6
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-another-integral]]"
   - "[[def-phi4-phi2-phi0]]"

@@ -1,6 +1,7 @@
 ---
 id: fce93123113b
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:b-another-integral

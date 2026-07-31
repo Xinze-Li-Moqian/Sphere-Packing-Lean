@@ -1,6 +1,7 @@
 ---
 id: 5d795c92e2a6
 kind: uses
+from: blueprint
 ref:
   - "[[prop-b-fourier]]"
   - "[[def-psii-psit-psis]]"

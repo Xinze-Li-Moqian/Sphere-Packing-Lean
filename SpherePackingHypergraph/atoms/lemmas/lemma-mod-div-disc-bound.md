@@ -1,6 +1,7 @@
 ---
 id: 2c93a9b36cf3
 type: lemma
+from: blueprint
 lean:
   - MagicFunction.PolyFourierCoeffBound.DivDiscBoundOfPolyFourierCoeff
 formalized: true

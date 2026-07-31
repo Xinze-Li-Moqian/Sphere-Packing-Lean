@@ -1,6 +1,7 @@
 ---
 id: 5545407ca679
 type: proposition
+from: blueprint
 lean:
   - MagicFunction.b.Fourier.eig_b
 formalized: true

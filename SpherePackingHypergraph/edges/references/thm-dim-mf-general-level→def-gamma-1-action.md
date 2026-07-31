@@ -1,6 +1,7 @@
 ---
 id: 4add9b1d603a
 kind: references
+from: blueprint
 ref:
   - "[[thm-dim-mf-general-level]]"
   - "[[def-gamma-1-action]]"

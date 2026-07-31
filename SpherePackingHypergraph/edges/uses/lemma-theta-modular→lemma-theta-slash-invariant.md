@@ -1,6 +1,7 @@
 ---
 id: 967651ce691c
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-modular]]"
   - "[[lemma-theta-slash-invariant]]"

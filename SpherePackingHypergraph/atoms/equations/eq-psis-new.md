@@ -1,6 +1,7 @@
 ---
 id: b9183fd0edb6
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiS-new

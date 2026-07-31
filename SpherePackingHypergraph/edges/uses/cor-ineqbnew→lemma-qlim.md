@@ -1,6 +1,7 @@
 ---
 id: 727550f75a6a
 kind: uses
+from: blueprint
 ref:
   - "[[cor-ineqbnew]]"
   - "[[lemma-qlim]]"

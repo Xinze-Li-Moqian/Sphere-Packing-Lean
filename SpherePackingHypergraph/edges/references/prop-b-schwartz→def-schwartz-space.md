@@ -1,6 +1,7 @@
 ---
 id: 9106a311d2ec
 kind: references
+from: blueprint
 ref:
   - "[[prop-b-schwartz]]"
   - "[[def-schwartz-space]]"

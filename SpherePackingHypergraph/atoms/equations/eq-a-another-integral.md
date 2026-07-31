@@ -1,6 +1,7 @@
 ---
 id: db2af2602bfc
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:a-another-integral

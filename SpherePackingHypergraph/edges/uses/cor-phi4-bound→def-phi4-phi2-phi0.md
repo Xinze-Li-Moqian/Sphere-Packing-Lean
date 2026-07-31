@@ -1,6 +1,7 @@
 ---
 id: 84a7db5104c5
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi4-bound]]"
   - "[[def-phi4-phi2-phi0]]"

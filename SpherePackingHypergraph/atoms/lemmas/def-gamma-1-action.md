@@ -1,6 +1,7 @@
 ---
 id: f12bc5e92955
 type: lemma
+from: blueprint
 formalized: true
 ---
 

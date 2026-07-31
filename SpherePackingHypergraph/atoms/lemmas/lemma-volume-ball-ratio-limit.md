@@ -1,6 +1,7 @@
 ---
 id: 01c64a89775e
 type: lemma
+from: blueprint
 lean:
   - volume_ball_ratio_tendsto_nhds_one''
 formalized: true

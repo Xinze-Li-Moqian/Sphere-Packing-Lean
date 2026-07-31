@@ -1,6 +1,7 @@
 ---
-id: a8909e4f8b92
+id: aeabdf8c9de3
 type: lemma
+from: blueprint
 lean:
   - PeriodicSpherePacking.aux_ge
   - PeriodicSpherePacking.aux_le
@@ -12,7 +13,7 @@ formalized: true
 ## Statement
 
 > [!lemma] lemma:periodic-points-bounds
-> For all $R$, we have the following inequality relating the number of points from $X$ (periodic w.r.t. $\Lambda$) in a ball with the number of points from $\Lambda$:
+> For all $R$, we have the following inequality relating the number of points from $X$ ([[periodicspherepacking|periodic]] w.r.t. $\Lambda$) in a ball with the number of points from $\Lambda$:
 > 
 > $$\left|\Lambda \cap \mathcal{B}_d(R - L)\right|\left|X / \Lambda\right|
 > \leq \left|X \cap \mathcal{B}_d(R)\right|

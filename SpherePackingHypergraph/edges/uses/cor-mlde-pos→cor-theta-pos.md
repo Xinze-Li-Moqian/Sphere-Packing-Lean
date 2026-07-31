@@ -1,6 +1,7 @@
 ---
 id: 25a478a88475
 kind: uses
+from: blueprint
 ref:
   - "[[cor-mlde-pos]]"
   - "[[cor-theta-pos]]"

@@ -1,6 +1,7 @@
 ---
 id: fed6a8f3ea48
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiS-define

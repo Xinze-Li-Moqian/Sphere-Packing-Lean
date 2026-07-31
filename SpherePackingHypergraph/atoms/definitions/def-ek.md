@@ -1,6 +1,7 @@
 ---
 id: b5d7a849dfa1
 type: definition
+from: blueprint
 lean:
   - ModularForm.eisensteinSeries_MF
 ---

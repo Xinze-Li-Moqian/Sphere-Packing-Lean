@@ -1,6 +1,7 @@
 ---
 id: dc96d568b258
 type: remark
+from: blueprint
 lean:
   - SpherePacking
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: 7e531b850fff
 kind: uses
+from: blueprint
 ref:
   - "[[thm-periodic-packing-optimal]]"
   - "[[def-periodic-sphere-packing-constant]]"

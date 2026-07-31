@@ -1,6 +1,7 @@
 ---
 id: cf85dd260195
 type: lemma
+from: blueprint
 lean:
   - Γ2_generate
 formalized: true

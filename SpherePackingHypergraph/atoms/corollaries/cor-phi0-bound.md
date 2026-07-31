@@ -1,6 +1,7 @@
 ---
 id: 1e9b1a3eb8a7
 type: corollary
+from: blueprint
 ---
 
 # Corollary — cor:phi0-bound

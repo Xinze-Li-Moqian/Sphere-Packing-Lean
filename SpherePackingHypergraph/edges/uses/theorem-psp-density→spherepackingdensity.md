@@ -1,6 +1,7 @@
 ---
 id: c548e1e3fc61
 kind: uses
+from: blueprint
 ref:
   - "[[theorem-psp-density]]"
   - "[[spherepackingdensity]]"

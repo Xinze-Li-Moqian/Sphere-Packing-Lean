@@ -1,6 +1,7 @@
 ---
 id: 038f375b40c6
 kind: uses
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[lemma-log-der-inf]]"

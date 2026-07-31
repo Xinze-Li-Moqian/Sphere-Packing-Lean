@@ -1,6 +1,7 @@
 ---
 id: dcaf0f671f7b
 kind: references
+from: blueprint
 ref:
   - "[[e8packing-density]]"
   - "[[e8packing]]"

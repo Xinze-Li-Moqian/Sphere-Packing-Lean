@@ -1,6 +1,7 @@
 ---
 id: b3222768230e
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:H4-serre-der

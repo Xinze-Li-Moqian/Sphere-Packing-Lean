@@ -1,6 +1,7 @@
 ---
 id: e321393fbfc6
 kind: uses
+from: blueprint
 ref:
   - "[[prop-ineqb]]"
   - "[[cor-ineqbnew]]"

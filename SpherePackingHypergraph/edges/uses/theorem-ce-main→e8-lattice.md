@@ -1,6 +1,7 @@
 ---
 id: 89c3104b8eb2
 kind: uses
+from: blueprint
 ref:
   - "[[theorem-ce-main]]"
   - "[[e8-lattice]]"

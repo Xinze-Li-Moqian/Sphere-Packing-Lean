@@ -1,6 +1,7 @@
 ---
 id: e70cf8682c51
 type: lemma
+from: blueprint
 lean:
   - FmodG_rightLimitAt_zero
 formalized: true
@@ -30,7 +31,7 @@ formalized: true
 > G\left(\frac{i}{t}\right) &= t^{10} H_{4}(it)^{3}(2H_{4}(it)^{2} + 5 H_{4}(it)H_{2}(it) + 5 H_{2}(it)^{2}).
 > \end{aligned}
 > $$
-> Since $F$, $E_2 E_4 - E_6$ and $H_2$ are cusp forms, we have $\lim_{t \to \infty}t^k A(it) = 0$ when $A(z)$ is one of these forms and $k \geq 0$.
+> Since $F$, $E_2 E_4 - E_6$ and $H_2$ are [[def-cusp-form|cusp forms]], we have $\lim_{t \to \infty}t^k A(it) = 0$ when $A(z)$ is one of these forms and $k \geq 0$.
 > From $\lim_{t \to \infty} E_4(it) = 1 = \lim_{t \to \infty}H_{4}(it)$, we get
 > $$
 > \begin{aligned}

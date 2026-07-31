@@ -1,6 +1,7 @@
 ---
 id: 6f2bff87626a
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:g2

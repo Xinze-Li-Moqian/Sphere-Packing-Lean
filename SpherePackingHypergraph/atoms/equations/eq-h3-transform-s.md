@@ -1,6 +1,7 @@
 ---
 id: 76ccd4f1da42
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:H3-transform-S

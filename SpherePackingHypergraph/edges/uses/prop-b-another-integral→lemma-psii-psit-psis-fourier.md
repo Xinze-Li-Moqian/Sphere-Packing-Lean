@@ -1,6 +1,7 @@
 ---
 id: f62d302dd901
 kind: uses
+from: blueprint
 ref:
   - "[[prop-b-another-integral]]"
   - "[[lemma-psii-psit-psis-fourier]]"

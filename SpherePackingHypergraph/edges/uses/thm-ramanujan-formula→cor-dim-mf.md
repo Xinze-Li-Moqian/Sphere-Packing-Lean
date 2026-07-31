@@ -1,6 +1,7 @@
 ---
 id: 388cb90e5261
 kind: uses
+from: blueprint
 ref:
   - "[[thm-ramanujan-formula]]"
   - "[[cor-dim-mf]]"

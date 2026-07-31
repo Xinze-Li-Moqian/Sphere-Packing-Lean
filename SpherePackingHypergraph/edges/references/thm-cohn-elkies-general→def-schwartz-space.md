@@ -1,6 +1,7 @@
 ---
 id: c9291dd90bd0
 kind: references
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-general]]"
   - "[[def-schwartz-space]]"

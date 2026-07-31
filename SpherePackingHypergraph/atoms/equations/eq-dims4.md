@@ -1,6 +1,7 @@
 ---
 id: 1ccaf7eb23c3
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:dimS4

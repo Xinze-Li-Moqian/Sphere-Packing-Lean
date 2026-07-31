@@ -1,6 +1,7 @@
 ---
 id: 3c002a15a6cb
 kind: uses
+from: blueprint
 ref:
   - "[[cor-dim-mf]]"
   - "[[def-mk]]"

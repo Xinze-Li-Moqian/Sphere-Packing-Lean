@@ -1,6 +1,7 @@
 ---
 id: 6189a735220b
 kind: uses
+from: blueprint
 ref:
   - "[[thm-anti-serre-der-pos]]"
   - "[[cor-logder-disc-e2]]"

@@ -1,6 +1,7 @@
 ---
 id: 918343d875c4
 kind: uses
+from: blueprint
 ref:
   - "[[thm-serre-der-equiv-action]]"
   - "[[lemma-e2-transform-general]]"

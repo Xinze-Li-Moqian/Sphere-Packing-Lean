@@ -1,6 +1,7 @@
 ---
 id: 2579deb22593
 kind: uses
+from: blueprint
 ref:
   - "[[e8-lattice]]"
   - "[[e8-defs-equivalent]]"

@@ -1,6 +1,7 @@
 ---
 id: ba1d5653eb61
 kind: uses
+from: blueprint
 ref:
   - "[[prop-b-double-zeros]]"
   - "[[def-psii-psit-psis]]"

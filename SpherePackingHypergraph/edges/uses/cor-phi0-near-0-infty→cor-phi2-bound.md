@@ -1,6 +1,7 @@
 ---
 id: ca0326f4a4f4
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi0-near-0-infty]]"
   - "[[cor-phi2-bound]]"

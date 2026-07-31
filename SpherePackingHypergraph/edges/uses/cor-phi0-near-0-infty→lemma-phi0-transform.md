@@ -1,6 +1,7 @@
 ---
 id: 60a48e703483
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi0-near-0-infty]]"
   - "[[lemma-phi0-transform]]"

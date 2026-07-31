@@ -1,6 +1,7 @@
 ---
 id: ff57d6ab0476
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-fg-de]]"
   - "[[thm-ramanujan-formula]]"

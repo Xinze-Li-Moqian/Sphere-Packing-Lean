@@ -1,6 +1,7 @@
 ---
 id: cab5ee5f28b9
 kind: references
+from: blueprint
 ref:
   - "[[lemma-f-g-pos]]"
   - "[[def-h2-h3-h4]]"

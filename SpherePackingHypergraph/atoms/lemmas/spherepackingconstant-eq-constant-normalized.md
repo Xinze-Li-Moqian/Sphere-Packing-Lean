@@ -1,6 +1,7 @@
 ---
 id: f7dfadfc1c2b
 type: lemma
+from: blueprint
 lean:
   - SpherePacking.constant_eq_constant_normalized
 formalized: true

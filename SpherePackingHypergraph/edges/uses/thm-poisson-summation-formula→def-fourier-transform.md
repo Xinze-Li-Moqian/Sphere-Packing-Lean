@@ -1,6 +1,7 @@
 ---
 id: 6a671b93efa8
 kind: uses
+from: blueprint
 ref:
   - "[[thm-poisson-summation-formula]]"
   - "[[def-fourier-transform]]"

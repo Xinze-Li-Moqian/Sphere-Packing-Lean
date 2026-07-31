@@ -1,6 +1,7 @@
 ---
 id: a13f38fd0018
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:theta-der
@@ -56,7 +57,7 @@ type: proposition
 > \end{aligned}
 > $$
 > Then one can check that both $g$ and $h$ are invariant under the actions of $S$ and $T$, hence they are modular forms of level $1$.
-> Also, by analyzing the limit of $g$ and $h$ as $z \to i \infty$, one can see that $g$ and $h$ are cusp forms, hence $g = h = 0$ by [[eq-dims6]] and [[eq-dims8]].
+> Also, by analyzing the limit of $g$ and $h$ as $z \to i \infty$, one can see that $g$ and $h$ are [[def-cusp-form|cusp forms]], hence $g = h = 0$ by [[eq-dims6]] and [[eq-dims8]].
 > This implies
 > $$
 > \begin{aligned}

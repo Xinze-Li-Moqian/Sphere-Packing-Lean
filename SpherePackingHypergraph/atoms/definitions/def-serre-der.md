@@ -1,6 +1,7 @@
 ---
 id: ff9c02c2525c
 type: definition
+from: blueprint
 lean:
   - serre_D
 formalized: true

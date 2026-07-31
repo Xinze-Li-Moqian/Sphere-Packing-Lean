@@ -1,6 +1,7 @@
 ---
 id: a362ffe754ae
 kind: references
+from: blueprint
 ref:
   - "[[lemma-disc-cuspform]]"
   - "[[def-gamma-1-action]]"

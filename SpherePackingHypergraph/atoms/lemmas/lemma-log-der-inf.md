@@ -1,6 +1,7 @@
 ---
 id: 65a0e84d04e7
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:log-der-inf

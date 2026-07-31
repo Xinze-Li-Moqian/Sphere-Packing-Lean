@@ -1,6 +1,7 @@
 ---
 id: f072d5eeb4a1
 type: corollary
+from: blueprint
 lean:
   - ModularForm.discriminant_ne_zero
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: 7d3a75b02a2f
 kind: references
+from: blueprint
 ref:
   - "[[lemma-inv-power-summable]]"
   - "[[iszlattice]]"

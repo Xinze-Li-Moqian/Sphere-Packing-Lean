@@ -1,6 +1,7 @@
 ---
 id: 99e5b65246c6
 type: theorem
+from: blueprint
 lean:
   - ramanujan_E₂
   - ramanujan_E₄

@@ -1,6 +1,7 @@
 ---
 id: fa98651d1afe
 kind: references
+from: blueprint
 ref:
   - "[[thm-g]]"
   - "[[def-schwartz-space]]"

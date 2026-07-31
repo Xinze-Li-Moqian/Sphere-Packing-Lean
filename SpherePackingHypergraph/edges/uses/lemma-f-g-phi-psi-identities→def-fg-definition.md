@@ -1,6 +1,7 @@
 ---
 id: 913d3d29d969
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-f-g-phi-psi-identities]]"
   - "[[def-fg-definition]]"

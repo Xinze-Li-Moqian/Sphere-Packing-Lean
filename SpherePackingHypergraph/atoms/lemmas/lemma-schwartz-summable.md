@@ -1,6 +1,7 @@
 ---
-id: 559aaf43f25c
+id: 3b4b07db5a1b
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:Schwartz-summable
@@ -8,7 +9,7 @@ type: lemma
 ## Statement
 
 > [!lemma] lemma:Schwartz-summable
-> Let $f : \mathbb{R}^d \to \mathbb{C}$ be a [[def-schwartz-space|Schwartz function]] and let $X \subset \mathbb{R}^d$ be periodic with respect to some [[iszlattice|lattice]] $\Lambda \subset \mathbb{R}^d$. Then,
+> Let $f : \mathbb{R}^d \to \mathbb{C}$ be a [[def-schwartz-space|Schwartz function]] and let $X \subset \mathbb{R}^d$ be [[periodicspherepacking|periodic]] with respect to some [[iszlattice|lattice]] $\Lambda \subset \mathbb{R}^d$. Then,
 > 
 > $$\sum_{x \in X} |f(x)| < \infty.$$
 

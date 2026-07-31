@@ -1,6 +1,7 @@
 ---
 id: d319b9737708
 kind: references
+from: blueprint
 ref:
   - "[[lemma-ek-is-modular-form]]"
   - "[[def-gamma-1-action]]"

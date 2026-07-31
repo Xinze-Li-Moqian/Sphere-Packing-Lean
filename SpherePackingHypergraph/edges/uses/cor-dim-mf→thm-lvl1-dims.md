@@ -1,6 +1,7 @@
 ---
 id: 32b28a48c658
 kind: uses
+from: blueprint
 ref:
   - "[[cor-dim-mf]]"
   - "[[thm-lvl1-dims]]"

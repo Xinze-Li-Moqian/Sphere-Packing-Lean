@@ -1,6 +1,7 @@
 ---
 id: 19e2a935c137
 kind: references
+from: blueprint
 ref:
   - "[[cor-phi0-bound]]"
   - "[[def-e2]]"

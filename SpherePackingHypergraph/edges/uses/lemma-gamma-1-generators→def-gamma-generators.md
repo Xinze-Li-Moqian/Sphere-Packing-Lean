@@ -1,6 +1,7 @@
 ---
 id: 94af3911188f
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-gamma-1-generators]]"
   - "[[def-gamma-generators]]"

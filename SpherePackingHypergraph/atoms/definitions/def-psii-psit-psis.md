@@ -1,6 +1,7 @@
 ---
 id: 3a669ae1ae28
 type: definition
+from: blueprint
 ---
 
 # Definition — def:psiI-psiT-psiS

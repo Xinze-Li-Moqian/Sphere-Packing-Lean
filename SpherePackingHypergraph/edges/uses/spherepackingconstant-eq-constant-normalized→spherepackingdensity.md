@@ -1,6 +1,7 @@
 ---
 id: c9e809285ee3
 kind: uses
+from: blueprint
 ref:
   - "[[spherepackingconstant-eq-constant-normalized]]"
   - "[[spherepackingdensity]]"

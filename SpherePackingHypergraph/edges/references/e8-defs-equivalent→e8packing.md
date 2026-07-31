@@ -1,6 +1,7 @@
 ---
 id: fc9f7fd72151
 kind: references
+from: blueprint
 ref:
   - "[[e8-defs-equivalent]]"
   - "[[e8packing]]"

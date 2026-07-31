@@ -1,6 +1,7 @@
 ---
 id: fe646ec3227b
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiT-new

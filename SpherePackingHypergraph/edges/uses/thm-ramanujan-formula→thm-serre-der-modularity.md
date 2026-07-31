@@ -1,6 +1,7 @@
 ---
 id: 60c86708b15e
 kind: uses
+from: blueprint
 ref:
   - "[[thm-ramanujan-formula]]"
   - "[[thm-serre-der-modularity]]"

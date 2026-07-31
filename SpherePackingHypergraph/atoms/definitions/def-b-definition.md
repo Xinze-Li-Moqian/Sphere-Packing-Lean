@@ -1,6 +1,7 @@
 ---
 id: 5b7b3dba94c0
 type: definition
+from: blueprint
 ---
 
 # Definition — def:b-definition

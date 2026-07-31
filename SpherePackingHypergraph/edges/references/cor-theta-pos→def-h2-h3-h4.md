@@ -1,6 +1,7 @@
 ---
 id: efbdd0893937
 kind: references
+from: blueprint
 ref:
   - "[[cor-theta-pos]]"
   - "[[def-h2-h3-h4]]"

@@ -1,6 +1,7 @@
 ---
 id: 66738d98d6aa
 kind: uses
+from: blueprint
 ref:
   - "[[prop-ineqa]]"
   - "[[lemma-ineqabnew-equiv]]"

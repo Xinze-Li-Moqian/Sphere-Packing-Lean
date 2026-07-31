@@ -1,6 +1,7 @@
 ---
 id: 7d4ae46b9fa3
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-fg-de]]"
   - "[[lemma-lv1-lv2-identities]]"

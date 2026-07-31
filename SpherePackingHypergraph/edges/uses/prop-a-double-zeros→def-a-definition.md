@@ -1,6 +1,7 @@
 ---
 id: 78b6efbd8add
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-double-zeros]]"
   - "[[def-a-definition]]"

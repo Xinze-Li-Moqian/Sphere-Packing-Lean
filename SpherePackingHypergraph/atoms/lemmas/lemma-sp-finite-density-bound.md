@@ -1,6 +1,7 @@
 ---
 id: 3cc38c337f88
 type: lemma
+from: blueprint
 lean:
   - SpherePacking.finiteDensity_le
   - SpherePacking.finiteDensity_ge

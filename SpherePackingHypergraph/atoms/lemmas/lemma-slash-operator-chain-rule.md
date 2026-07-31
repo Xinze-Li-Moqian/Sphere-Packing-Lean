@@ -1,6 +1,7 @@
 ---
 id: 465aee36eca4
 type: lemma
+from: blueprint
 lean:
   - SlashAction.slash_mul
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: f88ecb03620a
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-jacobi-identity]]"
   - "[[lemma-theta-modular]]"

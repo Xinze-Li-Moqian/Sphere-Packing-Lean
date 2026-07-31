@@ -1,6 +1,7 @@
 ---
 id: eaa03d82d919
 kind: references
+from: blueprint
 ref:
   - "[[lemma-qlim]]"
   - "[[def-e2]]"

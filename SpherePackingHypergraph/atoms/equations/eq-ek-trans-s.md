@@ -1,6 +1,7 @@
 ---
 id: b4185b027741
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:Ek-trans-S

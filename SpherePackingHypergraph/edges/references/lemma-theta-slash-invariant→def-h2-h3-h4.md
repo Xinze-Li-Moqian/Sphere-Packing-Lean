@@ -1,6 +1,7 @@
 ---
 id: 4b84fcea0780
 kind: references
+from: blueprint
 ref:
   - "[[lemma-theta-slash-invariant]]"
   - "[[def-h2-h3-h4]]"

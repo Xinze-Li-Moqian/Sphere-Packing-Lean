@@ -1,6 +1,7 @@
 ---
 id: c80589387075
 type: theorem
+from: blueprint
 lean:
   - ModularFormClass.levelOne_neg_weight_eq_zero
   - ModularForm.levelOne_weight_zero_rank_one

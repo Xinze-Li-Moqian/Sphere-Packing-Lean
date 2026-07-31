@@ -1,6 +1,7 @@
 ---
 id: 461e5d8295a6
 kind: references
+from: blueprint
 ref:
   - "[[lemma-ek-is-modular-form]]"
   - "[[def-slash-operator]]"

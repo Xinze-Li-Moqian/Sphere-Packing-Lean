@@ -1,6 +1,7 @@
 ---
 id: b104f57340de
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn: b double zeroes

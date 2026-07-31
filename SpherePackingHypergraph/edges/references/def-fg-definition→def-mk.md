@@ -1,6 +1,7 @@
 ---
 id: 34a0f51dda3d
 kind: references
+from: blueprint
 ref:
   - "[[def-fg-definition]]"
   - "[[def-mk]]"

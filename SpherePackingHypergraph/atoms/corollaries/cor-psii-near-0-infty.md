@@ -1,6 +1,7 @@
 ---
 id: 3f0a878be4ed
 type: corollary
+from: blueprint
 ---
 
 # Corollary — cor:psiI-near-0-infty

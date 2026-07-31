@@ -1,6 +1,7 @@
 ---
 id: 7b2a1f01651a
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-slash-invariant]]"
   - "[[lemma-gamma-2-generators]]"

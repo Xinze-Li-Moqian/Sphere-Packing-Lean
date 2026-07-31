@@ -1,6 +1,7 @@
 ---
 id: 43d5f1374a54
 type: theorem
+from: blueprint
 lean:
   - serre_D_mul
 formalized: true

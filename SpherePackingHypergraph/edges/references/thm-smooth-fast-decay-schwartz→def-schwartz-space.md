@@ -1,6 +1,7 @@
 ---
 id: ba5facf600d0
 kind: references
+from: blueprint
 ref:
   - "[[thm-smooth-fast-decay-schwartz]]"
   - "[[def-schwartz-space]]"

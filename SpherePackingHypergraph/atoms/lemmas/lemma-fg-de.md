@@ -1,6 +1,7 @@
 ---
 id: b8d6c8d37282
 type: lemma
+from: blueprint
 lean:
   - MLDE_F
   - MLDE_G

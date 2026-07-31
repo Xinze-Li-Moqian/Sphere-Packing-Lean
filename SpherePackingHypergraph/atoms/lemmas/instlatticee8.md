@@ -1,6 +1,7 @@
 ---
-id: 6643e9dec63a
+id: 5aaf2c22cfd5
 type: lemma
+from: blueprint
 lean:
   - instIsZLatticeE8Lattice
 formalized: true
@@ -11,7 +12,7 @@ formalized: true
 ## Statement
 
 > [!lemma] instLatticeE8
-> $c\Lambda_8$ is a $\mathbb{Z}$-lattice, i.e. it is discrete and spans $\mathbb{R}^8$ over $\mathbb{R}$.
+> $c\Lambda_8$ is a $\mathbb{Z}$-[[iszlattice|lattice]], i.e. it is discrete and spans $\mathbb{R}^8$ over $\mathbb{R}$.
 
 ## Proof
 

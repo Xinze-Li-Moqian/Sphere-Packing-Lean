@@ -1,6 +1,7 @@
 ---
 id: 887be8c6b1c6
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:Cohn-Elkies-condition-2

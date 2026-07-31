@@ -1,6 +1,7 @@
 ---
 id: b0d10d303b0b
 type: theorem
+from: blueprint
 lean:
   - serre_D_slash_invariant
 formalized: true

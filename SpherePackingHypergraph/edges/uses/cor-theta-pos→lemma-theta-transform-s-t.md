@@ -1,6 +1,7 @@
 ---
 id: 8a0042586a97
 kind: uses
+from: blueprint
 ref:
   - "[[cor-theta-pos]]"
   - "[[lemma-theta-transform-s-t]]"

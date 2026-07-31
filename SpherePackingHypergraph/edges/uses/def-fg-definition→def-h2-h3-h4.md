@@ -1,6 +1,7 @@
 ---
 id: 2ecab6c6385d
 kind: uses
+from: blueprint
 ref:
   - "[[def-fg-definition]]"
   - "[[def-h2-h3-h4]]"

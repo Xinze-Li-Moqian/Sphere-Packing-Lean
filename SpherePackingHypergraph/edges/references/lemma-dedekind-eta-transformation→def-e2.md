@@ -1,6 +1,7 @@
 ---
 id: 690a5b2c320f
 kind: references
+from: blueprint
 ref:
   - "[[lemma-dedekind-eta-transformation]]"
   - "[[def-e2]]"

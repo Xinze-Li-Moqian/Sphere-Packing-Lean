@@ -1,6 +1,7 @@
 ---
 id: 8b37e4bcec86
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-qlim]]"
   - "[[lemma-theta-transform-s-t]]"

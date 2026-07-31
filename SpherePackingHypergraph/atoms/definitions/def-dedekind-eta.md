@@ -1,6 +1,7 @@
 ---
 id: bd0bac6e3f1e
 type: definition
+from: blueprint
 lean:
   - ModularForm.eta
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: 2c3f6d415593
 kind: uses
+from: blueprint
 ref:
   - "[[thm-poisson-summation-formula]]"
   - "[[def-schwartz-space]]"

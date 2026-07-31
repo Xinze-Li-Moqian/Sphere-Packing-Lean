@@ -1,6 +1,7 @@
 ---
 id: 76a3fa1fbe14
 type: lemma
+from: blueprint
 lean:
   - isBoundedAtImInfty_H_slash
 formalized: true

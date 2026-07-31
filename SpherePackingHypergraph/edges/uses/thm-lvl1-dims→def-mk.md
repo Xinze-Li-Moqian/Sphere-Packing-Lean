@@ -1,6 +1,7 @@
 ---
 id: dd51e721f0d8
 kind: uses
+from: blueprint
 ref:
   - "[[thm-lvl1-dims]]"
   - "[[def-mk]]"

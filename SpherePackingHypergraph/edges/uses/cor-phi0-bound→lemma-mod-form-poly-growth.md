@@ -1,6 +1,7 @@
 ---
 id: a1def73b042f
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi0-bound]]"
   - "[[lemma-mod-form-poly-growth]]"

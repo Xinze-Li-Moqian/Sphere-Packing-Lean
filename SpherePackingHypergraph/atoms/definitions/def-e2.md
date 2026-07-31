@@ -1,6 +1,7 @@
 ---
 id: 0e7b52d79860
 type: definition
+from: blueprint
 lean:
   - E₂_eq
 formalized: true

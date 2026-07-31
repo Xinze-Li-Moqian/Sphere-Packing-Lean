@@ -1,6 +1,7 @@
 ---
 id: 294192eedc27
 kind: uses
+from: blueprint
 ref:
   - "[[def-slash-operator]]"
   - "[[def-automorphy-factor]]"

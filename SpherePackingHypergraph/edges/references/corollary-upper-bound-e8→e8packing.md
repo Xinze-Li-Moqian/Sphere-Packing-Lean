@@ -1,6 +1,7 @@
 ---
 id: 07971c9839c9
 kind: references
+from: blueprint
 ref:
   - "[[corollary-upper-bound-e8]]"
   - "[[e8packing]]"

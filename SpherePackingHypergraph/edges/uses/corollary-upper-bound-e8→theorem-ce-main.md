@@ -1,6 +1,7 @@
 ---
 id: 05bf8341b2b4
 kind: uses
+from: blueprint
 ref:
   - "[[corollary-upper-bound-e8]]"
   - "[[theorem-ce-main]]"

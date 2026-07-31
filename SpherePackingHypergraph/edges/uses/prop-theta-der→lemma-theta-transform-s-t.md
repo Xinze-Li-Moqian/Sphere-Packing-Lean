@@ -1,6 +1,7 @@
 ---
 id: 0aeb78054fc8
 kind: uses
+from: blueprint
 ref:
   - "[[prop-theta-der]]"
   - "[[lemma-theta-transform-s-t]]"

@@ -1,6 +1,7 @@
 ---
 id: e68da0249073
 type: proposition
+from: blueprint
 lean:
   - MagicFunction.a.SpecialValues.a_zero
 formalized: true

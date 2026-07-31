@@ -1,6 +1,7 @@
 ---
 id: a1fd01d39c33
 type: lemma
+from: blueprint
 lean:
   - F_imag_axis_pos
   - G_imag_axis_pos

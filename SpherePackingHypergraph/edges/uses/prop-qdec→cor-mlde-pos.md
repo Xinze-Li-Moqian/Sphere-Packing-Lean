@@ -1,6 +1,7 @@
 ---
 id: 59fc698436b6
 kind: uses
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[cor-mlde-pos]]"

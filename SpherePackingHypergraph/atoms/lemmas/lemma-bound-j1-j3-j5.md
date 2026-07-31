@@ -1,6 +1,7 @@
 ---
 id: 716c68f6b9a6
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:bound-J1-J3-J5

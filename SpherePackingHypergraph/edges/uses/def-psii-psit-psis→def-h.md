@@ -1,6 +1,7 @@
 ---
 id: 6475ca1688fe
 kind: uses
+from: blueprint
 ref:
   - "[[def-psii-psit-psis]]"
   - "[[def-h]]"

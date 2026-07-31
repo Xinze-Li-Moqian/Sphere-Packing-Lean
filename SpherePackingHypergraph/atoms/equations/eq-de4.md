@@ -1,6 +1,7 @@
 ---
 id: 5d7b8361ffd5
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:DE4

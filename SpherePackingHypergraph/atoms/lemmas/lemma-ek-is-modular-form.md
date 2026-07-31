@@ -1,6 +1,7 @@
 ---
 id: 67b2d3673adf
 type: lemma
+from: blueprint
 lean:
   - EisensteinSeries.eisensteinSeries_SIF
 ---

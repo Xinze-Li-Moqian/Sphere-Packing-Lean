@@ -1,6 +1,7 @@
 ---
 id: b3e98b712b07
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:a-fourier

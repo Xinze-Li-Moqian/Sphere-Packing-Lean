@@ -32,6 +32,7 @@ formulas, and a link inside `$…$` renders as brackets.
 | lattice | discrete additive subgroup spanning $\mathbb{R}^d$ | [[iszlattice]] |
 | dual lattice | $\Lambda^* = \{ y : \langle x, y\rangle \in \mathbb{Z} \text{ for all } x \in \Lambda \}$ | [[def-dual-lattice]] |
 | periodic packing | invariant under translation by a lattice | [[periodicspherepacking]] |
+| periodic | the same, as an adjective: every standalone use in this pool means this, and `$\Lambda$-periodic` names the lattice | [[periodicspherepacking]] |
 | periodic sphere packing constant | $\Delta_d^{\text{periodic}}$, the supremum over periodic packings | [[def-periodic-sphere-packing-constant]] |
 | $E_8$ sphere packing | separation $\sqrt2$, centres $\Lambda_8$ — the optimal one in dimension eight | [[e8packing]] |
 | $\Lambda_8$ | the $E_8$ lattice | [[e8packing]] |
@@ -65,6 +66,8 @@ formulas, and a link inside `$…$` renders as brackets.
 | slash operator | the weight-$k$ action of $\gamma$ on a function | [[def-slash-operator]] |
 | Eisenstein series | $E_k$, the weight-$k$ series summed over the lattice | [[def-ek]] |
 | $E_2$ | the weight-two series — quasimodular, not modular | [[def-e2]] |
+| cusp form | a modular form vanishing at every cusp | [[def-cusp-form]] |
+| $S_k(\Gamma)$ | the space of them | [[def-cusp-form]] |
 | discriminant form | $\Delta = (E_4^3 - E_6^2)/1728$ | [[def-disc-definition]] |
 | Dedekind eta function | $\eta(z) = q^{1/24}\prod_{n\ge1} (1-q^n)$ | [[def-dedekind-eta]] |
 | theta functions | the Thetanullwerte $\theta_{00}, \theta_{01}, \theta_{10}$ | [[def-th00-th01-th10]] |

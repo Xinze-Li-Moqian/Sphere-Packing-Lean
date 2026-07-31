@@ -1,6 +1,7 @@
 ---
 id: d03172d70ea0
 kind: uses
+from: blueprint
 ref:
   - "[[cor-psii-near-0-infty]]"
   - "[[def-psii-psit-psis]]"

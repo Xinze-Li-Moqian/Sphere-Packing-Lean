@@ -1,6 +1,7 @@
 ---
 id: a4601ae2a7a9
 type: theorem
+from: blueprint
 lean:
   - E8Packing_density
 formalized: true

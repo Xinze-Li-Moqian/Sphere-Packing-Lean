@@ -1,6 +1,7 @@
 ---
 id: e5e2d5eabf21
 type: lemma
+from: blueprint
 lean:
   - ModularForm.discriminant_eq_E₄_cube_sub_E₆_sq
 formalized: true

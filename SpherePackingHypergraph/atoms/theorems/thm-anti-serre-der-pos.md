@@ -1,6 +1,7 @@
 ---
-id: 7f7809b9f984
+id: 383bd4e1a594
 type: theorem
+from: blueprint
 ---
 
 # Theorem — thm:anti-serre-der-pos
@@ -8,7 +9,7 @@ type: theorem
 ## Statement
 
 > [!theorem] thm:anti-serre-der-pos
-> Let $F$ be a holomorphic quasimodular cusp form with real Fourier coefficients. Assume that there exists $k$ such that $(\partial_{k}F)(it) > 0$ for all $t > 0$. If the first Fourier coefficient of $F$ is positive, then $F(it) > 0$ for all $t > 0$.
+> Let $F$ be a holomorphic quasimodular [[def-cusp-form|cusp form]] with real Fourier coefficients. Assume that there exists $k$ such that $(\partial_{k}F)(it) > 0$ for all $t > 0$. If the first Fourier coefficient of $F$ is positive, then $F(it) > 0$ for all $t > 0$.
 
 ## Proof
 

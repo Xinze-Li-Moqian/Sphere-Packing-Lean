@@ -1,6 +1,7 @@
 ---
 id: 2eefd34d1bcd
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-psii-psit-psis-fourier]]"
   - "[[lemma-psi-new]]"

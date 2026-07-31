@@ -1,6 +1,7 @@
 ---
 id: 9a9588d33d6b
 type: theorem
+from: blueprint
 lean:
   - SchwartzMap.PoissonSummation_Lattices
 formalized: true

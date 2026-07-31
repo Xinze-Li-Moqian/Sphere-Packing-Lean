@@ -1,6 +1,7 @@
 ---
 id: b814c1f8faba
 kind: references
+from: blueprint
 ref:
   - "[[lem-bound-i2-i4-i6]]"
   - "[[def-a-definition]]"

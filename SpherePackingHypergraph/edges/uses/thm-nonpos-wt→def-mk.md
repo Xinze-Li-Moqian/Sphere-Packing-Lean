@@ -1,6 +1,7 @@
 ---
 id: 663ef70d2a71
 kind: uses
+from: blueprint
 ref:
   - "[[thm-nonpos-wt]]"
   - "[[def-mk]]"

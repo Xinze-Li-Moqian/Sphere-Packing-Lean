@@ -1,6 +1,7 @@
 ---
 id: 93c255c70604
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiS-bound

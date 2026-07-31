@@ -1,6 +1,7 @@
 ---
 id: 90043c3928ee
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:phi0-trans-T

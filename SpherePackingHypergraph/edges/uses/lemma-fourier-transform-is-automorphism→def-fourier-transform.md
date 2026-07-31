@@ -1,6 +1,7 @@
 ---
 id: 9b26d3d7d769
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-fourier-transform-is-automorphism]]"
   - "[[def-fourier-transform]]"

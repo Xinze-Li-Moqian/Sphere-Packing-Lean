@@ -1,6 +1,7 @@
 ---
 id: 3d0f1af1630d
 kind: uses
+from: blueprint
 ref:
   - "[[periodicspherepacking]]"
   - "[[iszlattice]]"

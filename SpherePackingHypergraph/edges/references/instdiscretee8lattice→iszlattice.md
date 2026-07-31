@@ -1,6 +1,7 @@
 ---
 id: 461e883cd3ce
 kind: references
+from: blueprint
 ref:
   - "[[instdiscretee8lattice]]"
   - "[[iszlattice]]"

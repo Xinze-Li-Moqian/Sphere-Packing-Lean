@@ -1,6 +1,7 @@
 ---
 id: b6b4541505ce
 kind: references
+from: blueprint
 ref:
   - "[[lemma-psi-new]]"
   - "[[def-h2-h3-h4]]"

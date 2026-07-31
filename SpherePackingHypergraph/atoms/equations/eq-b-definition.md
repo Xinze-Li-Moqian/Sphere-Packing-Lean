@@ -1,6 +1,7 @@
 ---
 id: 8d9df8877982
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:b-definition

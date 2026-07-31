@@ -1,6 +1,7 @@
 ---
 id: 180e34e2a561
 kind: uses
+from: blueprint
 ref:
   - "[[thm-ramanujan-formula]]"
   - "[[def-serre-der]]"

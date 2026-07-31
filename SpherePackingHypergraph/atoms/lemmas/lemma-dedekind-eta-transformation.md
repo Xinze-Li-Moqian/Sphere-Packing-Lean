@@ -1,6 +1,7 @@
 ---
 id: 3f6f90eb274b
 type: lemma
+from: blueprint
 lean:
   - ModularForm.eta_comp_eq_csqrt_I_inv
 ---

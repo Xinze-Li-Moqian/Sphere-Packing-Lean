@@ -1,6 +1,7 @@
 ---
 id: 1550969c08bd
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-ek-is-modular-form]]"
   - "[[def-ek]]"

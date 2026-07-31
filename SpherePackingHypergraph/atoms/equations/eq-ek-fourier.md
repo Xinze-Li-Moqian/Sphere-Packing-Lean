@@ -1,6 +1,7 @@
 ---
 id: ef01902255cf
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:Ek-Fourier

@@ -1,6 +1,7 @@
 ---
 id: b9bc9dba1d8d
 kind: uses
+from: blueprint
 ref:
   - "[[cor-disc-nonvanishing]]"
   - "[[def-disc-definition]]"

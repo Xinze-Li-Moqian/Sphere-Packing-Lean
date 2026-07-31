@@ -1,6 +1,7 @@
 ---
 id: ec17047e66b7
 kind: uses
+from: blueprint
 ref:
   - "[[spherepackingdensity]]"
   - "[[spherepackingfinitedensity]]"

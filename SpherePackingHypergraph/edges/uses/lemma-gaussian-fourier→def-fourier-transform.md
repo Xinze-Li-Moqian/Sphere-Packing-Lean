@@ -1,6 +1,7 @@
 ---
 id: 8c2e3ef466fb
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-gaussian-fourier]]"
   - "[[def-fourier-transform]]"

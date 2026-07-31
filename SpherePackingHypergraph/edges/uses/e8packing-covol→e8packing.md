@@ -1,6 +1,7 @@
 ---
 id: 9ca862906483
 kind: uses
+from: blueprint
 ref:
   - "[[e8packing-covol]]"
   - "[[e8packing]]"

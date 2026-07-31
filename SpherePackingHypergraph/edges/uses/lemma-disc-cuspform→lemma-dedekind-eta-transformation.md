@@ -1,6 +1,7 @@
 ---
 id: a1006e747014
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-disc-cuspform]]"
   - "[[lemma-dedekind-eta-transformation]]"

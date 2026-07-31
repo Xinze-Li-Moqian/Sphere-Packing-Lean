@@ -1,6 +1,7 @@
 ---
 id: 6407a0e4afc1
 kind: references
+from: blueprint
 ref:
   - "[[lemma-jacobi-identity]]"
   - "[[def-h2-h3-h4]]"

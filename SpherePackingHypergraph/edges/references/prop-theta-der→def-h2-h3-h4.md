@@ -1,6 +1,7 @@
 ---
 id: 496557f274c4
 kind: references
+from: blueprint
 ref:
   - "[[prop-theta-der]]"
   - "[[def-h2-h3-h4]]"

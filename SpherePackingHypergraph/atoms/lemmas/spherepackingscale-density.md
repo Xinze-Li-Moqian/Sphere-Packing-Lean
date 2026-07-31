@@ -1,6 +1,7 @@
 ---
 id: f77a3ff132bb
 type: lemma
+from: blueprint
 lean:
   - SpherePacking.scale_density
 formalized: true

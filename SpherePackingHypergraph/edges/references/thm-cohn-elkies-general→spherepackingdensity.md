@@ -1,6 +1,7 @@
 ---
 id: 762abe3dec6b
 kind: references
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-general]]"
   - "[[spherepackingdensity]]"

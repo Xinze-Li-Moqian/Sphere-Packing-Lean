@@ -1,6 +1,7 @@
 ---
 id: e8cb90a0b462
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-sp-finite-density-bound]]"
   - "[[spherepackingfinitedensity]]"

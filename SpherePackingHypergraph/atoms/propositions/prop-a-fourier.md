@@ -1,6 +1,7 @@
 ---
 id: 1216fa6a3448
 type: proposition
+from: blueprint
 lean:
   - MagicFunction.a.Fourier.eig_a
 ---
@@ -36,7 +37,7 @@ lean:
 > -&2\int\limits_{i \infty}^i\phi_0(w)\,e^{\pi i \|y\|^2 \,w}\,dw +2\int\limits_{i}^{0}\phi_0\Big(\frac{-1}{w}\Big)\,w^{2}\,e^{\pi i \|y\|^2 \,w}\,dw.\notag
 > \end{aligned}
 > $$
-> Since $\phi_0$ is $1$-periodic we have
+> Since $\phi_0$ is $1$-[[periodicspherepacking|periodic]] we have
 > $$
 > \begin{aligned}
 > \widehat{a}(y)\,=\,&\int\limits_{1}^i\phi_0\Big(\frac{-1}{z-1}\Big)\,(z-1)^2\,e^{\pi i \|y\|^2 \,z}\,dz

@@ -1,6 +1,7 @@
 ---
 id: 55e426771736
 kind: references
+from: blueprint
 ref:
   - "[[def-serre-der]]"
   - "[[def-mk]]"

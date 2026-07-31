@@ -1,6 +1,7 @@
 ---
 id: 7bdb08c3ec5d
 kind: references
+from: blueprint
 ref:
   - "[[lemma-jacobi-identity]]"
   - "[[def-mk]]"

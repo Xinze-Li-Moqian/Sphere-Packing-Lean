@@ -1,6 +1,7 @@
 ---
 id: 3cf7c8dc0a8a
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:e4theta

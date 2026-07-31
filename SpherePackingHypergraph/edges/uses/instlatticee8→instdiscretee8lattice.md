@@ -1,6 +1,7 @@
 ---
 id: 8206c5c3c427
 kind: uses
+from: blueprint
 ref:
   - "[[instlatticee8]]"
   - "[[instdiscretee8lattice]]"

@@ -1,6 +1,7 @@
 ---
 id: 2147c09cf098
 kind: uses
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[thm-serre-der-prod-rule]]"

@@ -1,6 +1,7 @@
 ---
 id: 687ba76775dc
 type: definition
+from: blueprint
 lean:
   - D
 formalized: true

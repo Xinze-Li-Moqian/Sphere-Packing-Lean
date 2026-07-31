@@ -1,6 +1,7 @@
 ---
 id: f623e6a1bd34
 kind: references
+from: blueprint
 ref:
   - "[[lemma-theta-bounded-im-infty]]"
   - "[[def-gamma-1-action]]"

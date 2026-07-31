@@ -1,6 +1,7 @@
 ---
 id: bac2f60bbd19
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:ineqA

@@ -1,6 +1,7 @@
 ---
 id: 9d35cf33050f
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-lv1-lv2-identities]]"
   - "[[lemma-theta-transform-s-t]]"

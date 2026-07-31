@@ -1,6 +1,7 @@
 ---
 id: f8f98a915430
 kind: uses
+from: blueprint
 ref:
   - "[[def-periodic-sphere-packing-constant]]"
   - "[[periodicspherepacking]]"

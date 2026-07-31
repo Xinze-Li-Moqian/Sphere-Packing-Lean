@@ -1,6 +1,7 @@
 ---
 id: 8fedc5ae048c
 kind: references
+from: blueprint
 ref:
   - "[[lemma-disc-e4e6]]"
   - "[[def-mk]]"

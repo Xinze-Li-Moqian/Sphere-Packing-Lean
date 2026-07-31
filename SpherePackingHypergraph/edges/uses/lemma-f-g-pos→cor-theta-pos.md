@@ -1,6 +1,7 @@
 ---
 id: f35b33e50297
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-f-g-pos]]"
   - "[[cor-theta-pos]]"

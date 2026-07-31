@@ -1,6 +1,7 @@
 ---
 id: f397b2a5f14e
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:jacobi-identity

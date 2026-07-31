@@ -1,6 +1,7 @@
 ---
 id: 6a8cc1c29f3f
 kind: references
+from: blueprint
 ref:
   - "[[e8-vector-norms]]"
   - "[[e8packing]]"

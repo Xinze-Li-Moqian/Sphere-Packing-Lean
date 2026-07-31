@@ -1,6 +1,7 @@
 ---
 id: 1891ef67aab3
 kind: uses
+from: blueprint
 ref:
   - "[[prop-qdec]]"
   - "[[thm-anti-serre-der-pos]]"

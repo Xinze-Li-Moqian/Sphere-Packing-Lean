@@ -1,6 +1,7 @@
 ---
 id: 1761cd3e5780
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:b-another-integral

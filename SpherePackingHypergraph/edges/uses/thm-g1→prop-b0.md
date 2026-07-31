@@ -1,6 +1,7 @@
 ---
 id: 8b4c072c4229
 kind: uses
+from: blueprint
 ref:
   - "[[thm-g1]]"
   - "[[prop-b0]]"

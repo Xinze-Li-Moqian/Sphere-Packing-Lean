@@ -1,6 +1,7 @@
 ---
 id: 8224e6197349
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-bounded-im-infty]]"
   - "[[lemma-theta-slash-invariant]]"

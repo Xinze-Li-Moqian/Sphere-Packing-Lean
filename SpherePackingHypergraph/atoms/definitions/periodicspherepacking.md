@@ -1,6 +1,7 @@
 ---
 id: 8618e6bdb847
 type: definition
+from: blueprint
 lean:
   - PeriodicSpherePacking
 formalized: true

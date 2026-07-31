@@ -1,6 +1,7 @@
 ---
 id: bb019692a9ae
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiI-near-infty

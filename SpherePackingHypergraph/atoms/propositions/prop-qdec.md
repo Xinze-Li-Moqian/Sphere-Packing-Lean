@@ -1,6 +1,7 @@
 ---
 id: 01984b3a8cc6
 type: proposition
+from: blueprint
 lean:
   - FmodG_strictAntiOn
 formalized: true

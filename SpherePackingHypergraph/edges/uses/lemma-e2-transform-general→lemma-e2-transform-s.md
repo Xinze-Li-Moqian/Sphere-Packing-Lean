@@ -1,6 +1,7 @@
 ---
 id: 71bde4ab3767
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-e2-transform-general]]"
   - "[[lemma-e2-transform-s]]"

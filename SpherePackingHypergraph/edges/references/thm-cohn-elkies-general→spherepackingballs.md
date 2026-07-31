@@ -1,6 +1,7 @@
 ---
 id: 0a4adb90a040
 kind: references
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-general]]"
   - "[[spherepackingballs]]"

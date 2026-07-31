@@ -1,6 +1,7 @@
 ---
 id: 0c22586dabf8
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:ineqABnew-equiv

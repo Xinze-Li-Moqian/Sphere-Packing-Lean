@@ -1,6 +1,7 @@
 ---
 id: 324616794076
 kind: uses
+from: blueprint
 ref:
   - "[[prop-ineqa]]"
   - "[[cor-ineqanew]]"

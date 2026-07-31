@@ -1,6 +1,7 @@
 ---
 id: 1590ceabb150
 kind: uses
+from: blueprint
 ref:
   - "[[thm-poisson-summation-formula]]"
   - "[[def-dual-lattice]]"

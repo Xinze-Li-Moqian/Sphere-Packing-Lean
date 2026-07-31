@@ -1,6 +1,7 @@
 ---
 id: d07851691a75
 kind: references
+from: blueprint
 ref:
   - "[[thm-poisson-summation-formula]]"
   - "[[iszlattice]]"

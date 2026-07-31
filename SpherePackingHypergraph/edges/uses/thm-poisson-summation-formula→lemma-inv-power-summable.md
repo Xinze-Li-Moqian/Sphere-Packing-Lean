@@ -1,6 +1,7 @@
 ---
 id: e280ef7c2545
 kind: uses
+from: blueprint
 ref:
   - "[[thm-poisson-summation-formula]]"
   - "[[lemma-inv-power-summable]]"

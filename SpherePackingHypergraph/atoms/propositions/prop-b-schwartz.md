@@ -1,6 +1,7 @@
 ---
 id: 5b7e431882d3
 type: proposition
+from: blueprint
 lean:
   - MagicFunction.FourierEigenfunctions.b
 formalized: true

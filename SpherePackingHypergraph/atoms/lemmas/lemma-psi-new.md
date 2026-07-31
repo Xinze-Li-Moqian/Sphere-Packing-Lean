@@ -1,6 +1,7 @@
 ---
 id: 65f54fa480cb
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:psi-new

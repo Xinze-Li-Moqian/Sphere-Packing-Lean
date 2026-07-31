@@ -1,6 +1,7 @@
 ---
 id: f40ffbc7dcfc
 kind: uses
+from: blueprint
 ref:
   - "[[prop-b0]]"
   - "[[prop-b-another-integral]]"

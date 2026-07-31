@@ -1,6 +1,7 @@
 ---
 id: 8ac9d214b5a9
 type: definition
+from: blueprint
 lean:
   - SpherePacking.balls
 formalized: true

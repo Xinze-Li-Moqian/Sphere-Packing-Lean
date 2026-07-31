@@ -1,6 +1,7 @@
 ---
 id: 52eddcce1217
 kind: uses
+from: blueprint
 ref:
   - "[[cor-mlde-pos]]"
   - "[[lemma-fg-de]]"

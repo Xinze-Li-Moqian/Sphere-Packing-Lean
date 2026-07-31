@@ -1,6 +1,7 @@
 ---
 id: 3762a32a57c5
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:phi2-bound

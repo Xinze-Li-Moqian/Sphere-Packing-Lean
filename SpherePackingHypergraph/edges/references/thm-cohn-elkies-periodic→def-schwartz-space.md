@@ -1,6 +1,7 @@
 ---
 id: d550b69d1bd6
 kind: references
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-periodic]]"
   - "[[def-schwartz-space]]"

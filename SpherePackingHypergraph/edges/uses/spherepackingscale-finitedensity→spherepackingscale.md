@@ -1,6 +1,7 @@
 ---
 id: 39de8e85953b
 kind: uses
+from: blueprint
 ref:
   - "[[spherepackingscale-finitedensity]]"
   - "[[spherepackingscale]]"

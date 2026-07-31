@@ -1,6 +1,7 @@
 ---
 id: 9240553fc555
 type: theorem
+from: blueprint
 lean:
   - dim_gen_cong_levels
 formalized: true

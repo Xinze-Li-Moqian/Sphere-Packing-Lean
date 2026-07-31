@@ -1,6 +1,7 @@
 ---
 id: e54fd3bac7c8
 kind: uses
+from: blueprint
 ref:
   - "[[prop-theta-der]]"
   - "[[lemma-jacobi-identity]]"

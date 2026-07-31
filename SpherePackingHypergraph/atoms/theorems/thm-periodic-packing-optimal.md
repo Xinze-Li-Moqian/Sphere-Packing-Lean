@@ -1,6 +1,7 @@
 ---
 id: 0960ca495dff
 type: theorem
+from: blueprint
 lean:
   - periodic_constant_eq_constant
 formalized: true

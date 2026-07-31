@@ -1,6 +1,7 @@
 ---
 id: 6e2f5ac269b7
 kind: references
+from: blueprint
 ref:
   - "[[lemma-bound-j1-j3-j5]]"
   - "[[def-b-definition]]"

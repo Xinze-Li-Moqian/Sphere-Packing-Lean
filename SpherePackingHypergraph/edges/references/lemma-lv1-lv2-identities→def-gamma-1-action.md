@@ -1,6 +1,7 @@
 ---
 id: c7c8edd685aa
 kind: references
+from: blueprint
 ref:
   - "[[lemma-lv1-lv2-identities]]"
   - "[[def-gamma-1-action]]"

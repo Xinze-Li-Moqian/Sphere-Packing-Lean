@@ -1,6 +1,7 @@
 ---
 id: 5196b60b5c2b
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:F-G-phi-psi-identities

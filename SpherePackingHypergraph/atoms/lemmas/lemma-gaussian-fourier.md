@@ -1,6 +1,7 @@
 ---
 id: aa120795e725
 type: lemma
+from: blueprint
 ---
 
 # Lemma — lemma:Gaussian-Fourier

@@ -1,6 +1,7 @@
 ---
 id: b8318af9fb58
 type: definition
+from: blueprint
 lean:
   - SchwartzMap
 formalized: true

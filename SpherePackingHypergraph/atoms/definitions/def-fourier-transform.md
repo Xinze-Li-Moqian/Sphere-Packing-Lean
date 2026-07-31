@@ -1,6 +1,7 @@
 ---
 id: 26d62c2c1e7c
 type: definition
+from: blueprint
 lean:
   - FourierTransform.fourier
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: c65e7264bb5e
 kind: uses
+from: blueprint
 ref:
   - "[[def-gamma-generators]]"
   - "[[def-level-n-princ-cong-subgp]]"

@@ -1,6 +1,7 @@
 ---
 id: 9612f8723b58
 kind: uses
+from: blueprint
 ref:
   - "[[thm-cohn-elkies-periodic]]"
   - "[[def-fourier-transform]]"

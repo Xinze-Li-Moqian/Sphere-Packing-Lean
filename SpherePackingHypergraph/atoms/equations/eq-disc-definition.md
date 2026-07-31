@@ -1,6 +1,7 @@
 ---
 id: 89e3bcc647c4
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:disc-definition

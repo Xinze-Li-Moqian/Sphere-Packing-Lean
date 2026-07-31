@@ -1,6 +1,7 @@
 ---
 id: fa35f8d5d3e5
 kind: uses
+from: blueprint
 ref:
   - "[[prop-ineqa]]"
   - "[[lemma-f-g-pos]]"

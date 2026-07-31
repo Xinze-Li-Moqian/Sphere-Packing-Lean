@@ -1,6 +1,7 @@
 ---
 id: 9f18c03054ee
 kind: uses
+from: blueprint
 ref:
   - "[[thm-ramanujan-formula]]"
   - "[[lemma-e2-transform-general]]"

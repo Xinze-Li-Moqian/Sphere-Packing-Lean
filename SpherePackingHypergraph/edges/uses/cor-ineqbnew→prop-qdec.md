@@ -1,6 +1,7 @@
 ---
 id: 6ee61febc620
 kind: uses
+from: blueprint
 ref:
   - "[[cor-ineqbnew]]"
   - "[[prop-qdec]]"

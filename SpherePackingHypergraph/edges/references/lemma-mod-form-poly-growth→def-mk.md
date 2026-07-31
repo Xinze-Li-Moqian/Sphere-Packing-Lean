@@ -1,6 +1,7 @@
 ---
 id: a186f950e2f0
 kind: references
+from: blueprint
 ref:
   - "[[lemma-mod-form-poly-growth]]"
   - "[[def-mk]]"

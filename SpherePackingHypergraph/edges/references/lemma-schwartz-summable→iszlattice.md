@@ -1,6 +1,7 @@
 ---
 id: 983e600772b4
 kind: references
+from: blueprint
 ref:
   - "[[lemma-schwartz-summable]]"
   - "[[iszlattice]]"

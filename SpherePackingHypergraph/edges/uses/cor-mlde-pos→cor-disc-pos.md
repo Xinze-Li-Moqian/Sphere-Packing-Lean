@@ -1,6 +1,7 @@
 ---
 id: 6bce9bff3461
 kind: uses
+from: blueprint
 ref:
   - "[[cor-mlde-pos]]"
   - "[[cor-disc-pos]]"

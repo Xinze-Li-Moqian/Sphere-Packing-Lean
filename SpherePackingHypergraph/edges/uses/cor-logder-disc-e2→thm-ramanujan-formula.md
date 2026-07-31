@@ -1,6 +1,7 @@
 ---
 id: 384f2e281082
 kind: uses
+from: blueprint
 ref:
   - "[[cor-logder-disc-e2]]"
   - "[[thm-ramanujan-formula]]"

@@ -1,6 +1,7 @@
 ---
 id: 9b9350c266e9
 kind: references
+from: blueprint
 ref:
   - "[[def-level-n-princ-cong-subgp]]"
   - "[[def-gamma-1-action]]"

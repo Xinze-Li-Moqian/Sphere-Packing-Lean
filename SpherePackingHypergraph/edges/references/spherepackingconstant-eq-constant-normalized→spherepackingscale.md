@@ -1,6 +1,7 @@
 ---
 id: 5b7079de198e
 kind: references
+from: blueprint
 ref:
   - "[[spherepackingconstant-eq-constant-normalized]]"
   - "[[spherepackingscale]]"

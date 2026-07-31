@@ -1,6 +1,7 @@
 ---
 id: d20ca92755be
 type: definition
+from: blueprint
 lean:
   - PeriodicSpherePackingConstant
 formalized: true

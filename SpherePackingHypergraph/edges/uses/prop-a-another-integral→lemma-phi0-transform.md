@@ -1,6 +1,7 @@
 ---
 id: 9e08de47a780
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-another-integral]]"
   - "[[lemma-phi0-transform]]"

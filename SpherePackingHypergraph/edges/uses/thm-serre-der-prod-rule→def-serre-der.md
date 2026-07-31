@@ -1,6 +1,7 @@
 ---
 id: 10e4276d85cf
 kind: uses
+from: blueprint
 ref:
   - "[[thm-serre-der-prod-rule]]"
   - "[[def-serre-der]]"

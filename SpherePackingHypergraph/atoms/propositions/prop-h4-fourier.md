@@ -1,6 +1,7 @@
 ---
 id: ef21dc184690
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:H4-fourier

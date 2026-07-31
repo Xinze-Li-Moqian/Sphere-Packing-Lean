@@ -1,6 +1,7 @@
 ---
 id: cb77022ed8d9
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi0-bound]]"
   - "[[lemma-ek-fourier]]"

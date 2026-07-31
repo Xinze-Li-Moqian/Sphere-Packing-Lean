@@ -1,6 +1,7 @@
 ---
 id: d2128859e80a
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:derivative

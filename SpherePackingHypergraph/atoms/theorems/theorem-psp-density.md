@@ -1,6 +1,7 @@
 ---
-id: 7ad9d222d25f
+id: 56f590582fd5
 type: theorem
+from: blueprint
 lean:
   - PeriodicSpherePacking.density_eq
 formalized: true
@@ -11,7 +12,7 @@ formalized: true
 ## Statement
 
 > [!theorem] theorem:psp-density
-> For a periodic [[spherepackingballs|sphere packing]] $\mathcal{P} = \mathcal{P}(X)$ with centers $X$ periodic to the [[iszlattice|lattice]] $\Lambda$ and separation $r$,
+> For a [[periodicspherepacking|periodic]] [[spherepackingballs|sphere packing]] $\mathcal{P} = \mathcal{P}(X)$ with centers $X$ periodic to the [[iszlattice|lattice]] $\Lambda$ and separation $r$,
 > 
 > $$\Delta_{\mathcal{P}} = |X / \Lambda| \cdot \frac{\operatorname{Vol}\!\left(\mathcal{B}_d(r / 2)\right)}{\operatorname{Vol}\!\left(\mathbb{R}^d / \Lambda\right)}$$
 

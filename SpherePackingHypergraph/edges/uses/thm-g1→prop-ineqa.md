@@ -1,6 +1,7 @@
 ---
 id: 9ab6e68354d2
 kind: uses
+from: blueprint
 ref:
   - "[[thm-g1]]"
   - "[[prop-ineqa]]"

@@ -1,6 +1,7 @@
 ---
 id: 2b7cceb0ad6a
 type: definition
+from: blueprint
 lean:
   - SpherePackingConstant
 formalized: true

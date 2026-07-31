@@ -1,6 +1,7 @@
 ---
 id: f5e3edbc1957
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn: psi fourier I

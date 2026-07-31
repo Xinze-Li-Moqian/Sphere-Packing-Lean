@@ -1,6 +1,7 @@
 ---
 id: 051524045317
 kind: uses
+from: blueprint
 ref:
   - "[[cor-phi0-near-0-infty]]"
   - "[[cor-phi0-bound]]"

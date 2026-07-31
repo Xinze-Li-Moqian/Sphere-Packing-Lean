@@ -1,6 +1,7 @@
 ---
 id: abf82001bf21
 kind: references
+from: blueprint
 ref:
   - "[[lemma-qlim]]"
   - "[[def-h2-h3-h4]]"

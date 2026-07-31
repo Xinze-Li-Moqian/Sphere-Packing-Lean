@@ -1,6 +1,7 @@
 ---
 id: d4e31afb01d2
 kind: references
+from: blueprint
 ref:
   - "[[def-congruence-subgroup]]"
   - "[[def-gamma-1-action]]"

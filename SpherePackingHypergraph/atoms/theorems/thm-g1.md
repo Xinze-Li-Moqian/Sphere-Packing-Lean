@@ -1,6 +1,7 @@
 ---
 id: 7553544e1244
 type: theorem
+from: blueprint
 ---
 
 # Theorem — thm:g1

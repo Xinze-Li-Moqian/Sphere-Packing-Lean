@@ -1,6 +1,7 @@
 ---
 id: c58121f9ece8
 type: lemma
+from: blueprint
 lean:
   - SL2Z_generate
 formalized: true

@@ -1,6 +1,7 @@
 ---
 id: 97c2182a4de4
 type: lemma
+from: blueprint
 lean:
   - SchwartzMap.fourierTransformCLM
 formalized: true

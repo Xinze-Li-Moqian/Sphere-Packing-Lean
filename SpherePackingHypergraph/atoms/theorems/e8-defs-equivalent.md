@@ -1,6 +1,7 @@
 ---
 id: 30b96e609fb7
 type: theorem
+from: blueprint
 lean:
   - span_E8Matrix
 formalized: true

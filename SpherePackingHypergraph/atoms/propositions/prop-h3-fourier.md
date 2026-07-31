@@ -1,6 +1,7 @@
 ---
 id: d125f456fa83
 type: proposition
+from: blueprint
 ---
 
 # Proposition — prop:H3-fourier

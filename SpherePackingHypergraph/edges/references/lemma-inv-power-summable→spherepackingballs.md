@@ -1,6 +1,7 @@
 ---
 id: 71f8bb69b119
 kind: references
+from: blueprint
 ref:
   - "[[lemma-inv-power-summable]]"
   - "[[spherepackingballs]]"

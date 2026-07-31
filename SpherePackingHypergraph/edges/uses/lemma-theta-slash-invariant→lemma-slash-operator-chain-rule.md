@@ -1,6 +1,7 @@
 ---
 id: 0df583d633b2
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-theta-slash-invariant]]"
   - "[[lemma-slash-operator-chain-rule]]"

@@ -1,6 +1,7 @@
 ---
 id: bf9e08879e5e
 type: definition
+from: blueprint
 lean:
   - F
   - G

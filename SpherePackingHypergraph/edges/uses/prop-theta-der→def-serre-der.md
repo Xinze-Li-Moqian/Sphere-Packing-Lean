@@ -1,6 +1,7 @@
 ---
 id: 1fef15c9d169
 kind: uses
+from: blueprint
 ref:
   - "[[prop-theta-der]]"
   - "[[def-serre-der]]"

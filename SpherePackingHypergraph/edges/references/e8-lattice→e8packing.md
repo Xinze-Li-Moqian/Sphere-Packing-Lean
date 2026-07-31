@@ -1,6 +1,7 @@
 ---
 id: d4a429a038bd
 kind: references
+from: blueprint
 ref:
   - "[[e8-lattice]]"
   - "[[e8packing]]"

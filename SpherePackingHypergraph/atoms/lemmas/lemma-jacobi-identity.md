@@ -1,6 +1,7 @@
 ---
 id: 34537e3c3a08
 type: lemma
+from: blueprint
 lean:
   - jacobi_identity
 formalized: true
@@ -29,4 +30,4 @@ formalized: true
 > \end{aligned}
 > $$
 > so $f$ is actually a modular form of level $1$.
-> By considering the limit as $z \to i\infty$, $f$ is a cusp form, so we get $f = 0$ from [[eq-dims4]].
+> By considering the limit as $z \to i\infty$, $f$ is a [[def-cusp-form|cusp form]], so we get $f = 0$ from [[eq-dims4]].

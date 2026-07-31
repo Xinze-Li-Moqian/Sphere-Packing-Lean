@@ -1,6 +1,7 @@
 ---
 id: 529dae53b533
 kind: uses
+from: blueprint
 ref:
   - "[[prop-b-schwartz]]"
   - "[[lemma-psi-bound]]"

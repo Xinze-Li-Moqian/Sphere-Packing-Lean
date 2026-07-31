@@ -1,6 +1,7 @@
 ---
 id: 43d3b9eab06f
 kind: uses
+from: blueprint
 ref:
   - "[[prop-a-double-zeros]]"
   - "[[cor-disc-nonvanishing]]"

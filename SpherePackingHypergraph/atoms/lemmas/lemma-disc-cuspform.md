@@ -1,6 +1,7 @@
 ---
-id: 9cb13326fb7b
+id: 3f8047bd414d
 type: lemma
+from: blueprint
 lean:
   - CuspForm.discriminant
 formalized: true
@@ -16,7 +17,7 @@ formalized: true
 > $$
 > \Delta\left(-\frac{1}{z}\right) = z^{12} \Delta(z).
 > $$
-> Also, it vanishes at the unique cusp, i.e. it is a cusp form of level $\Gamma_1$ and weight $12$.
+> Also, it vanishes at the unique cusp, i.e. it is a [[def-cusp-form|cusp form]] of level $\Gamma_1$ and weight $12$.
 
 ## Proof
 

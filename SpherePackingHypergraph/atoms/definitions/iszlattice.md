@@ -1,6 +1,7 @@
 ---
 id: a928d37bc70f
 type: definition
+from: blueprint
 lean:
   - IsZLattice
 formalized: true

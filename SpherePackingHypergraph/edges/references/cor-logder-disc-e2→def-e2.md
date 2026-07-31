@@ -1,6 +1,7 @@
 ---
 id: d6007e88ed3d
 kind: references
+from: blueprint
 ref:
   - "[[cor-logder-disc-e2]]"
   - "[[def-e2]]"

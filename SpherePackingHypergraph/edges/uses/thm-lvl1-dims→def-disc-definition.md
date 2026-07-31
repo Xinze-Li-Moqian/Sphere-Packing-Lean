@@ -1,6 +1,7 @@
 ---
 id: 4ae9a6d09739
 kind: uses
+from: blueprint
 ref:
   - "[[thm-lvl1-dims]]"
   - "[[def-disc-definition]]"

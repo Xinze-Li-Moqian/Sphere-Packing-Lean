@@ -1,6 +1,7 @@
 ---
 id: e2e5920410cc
 type: lemma
+from: blueprint
 lean:
   - span_E8Matrix_eq_top
 formalized: true

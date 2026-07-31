@@ -1,6 +1,7 @@
 ---
 id: ee82926dea77
 kind: references
+from: blueprint
 ref:
   - "[[lemma-periodic-points-bounds]]"
   - "[[iszlattice]]"

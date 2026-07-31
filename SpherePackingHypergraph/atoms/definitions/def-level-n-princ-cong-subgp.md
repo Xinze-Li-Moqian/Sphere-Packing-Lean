@@ -1,6 +1,7 @@
 ---
 id: 04214437764f
 type: definition
+from: blueprint
 formalized: true
 ---
 

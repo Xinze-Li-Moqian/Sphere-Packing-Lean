@@ -1,6 +1,7 @@
 ---
 id: d2f48edb9514
 kind: uses
+from: blueprint
 ref:
   - "[[theorem-ce-main]]"
   - "[[thm-cohn-elkies-general]]"

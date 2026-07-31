@@ -1,6 +1,7 @@
 ---
 id: 47f00af07063
 type: corollary
+from: blueprint
 lean:
   - FG_inequality_1
 formalized: true

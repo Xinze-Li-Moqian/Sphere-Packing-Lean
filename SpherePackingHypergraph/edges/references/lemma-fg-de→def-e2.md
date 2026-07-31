@@ -1,6 +1,7 @@
 ---
 id: 8c6637148894
 kind: references
+from: blueprint
 ref:
   - "[[lemma-fg-de]]"
   - "[[def-e2]]"

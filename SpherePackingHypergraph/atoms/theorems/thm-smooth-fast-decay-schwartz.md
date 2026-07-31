@@ -1,6 +1,7 @@
 ---
 id: b02d1c9c4844
 type: theorem
+from: blueprint
 ---
 
 # Theorem — thm:smooth-fast-decay-schwartz

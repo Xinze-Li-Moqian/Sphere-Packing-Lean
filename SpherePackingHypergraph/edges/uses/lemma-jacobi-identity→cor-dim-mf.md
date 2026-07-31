@@ -1,6 +1,7 @@
 ---
 id: a9ef0936418c
 kind: uses
+from: blueprint
 ref:
   - "[[lemma-jacobi-identity]]"
   - "[[cor-dim-mf]]"

@@ -1,6 +1,7 @@
 ---
 id: 9e837f0014cd
 type: equation
+from: blueprint
 ---
 
 # Equation — eqn:psiI-define
