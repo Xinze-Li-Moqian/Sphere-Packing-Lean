@@ -3,6 +3,7 @@ topic: sphere-packing-lean
 type: topic
 section: "0"
 date: 2026-07-31
+prose: narrative/00.md
 ---
 
 # Sphere packings

@@ -2,6 +2,7 @@
 topic: sphere-packing-lean
 type: topic
 section: "7"
+prose: narrative/07.md
 ---
 
 # Proof of Theorem g

@@ -2,6 +2,7 @@
 topic: sphere-packing-lean
 type: topic
 section: "1"
+prose: narrative/01.md
 ---
 
 # Density of packings

@@ -16,7 +16,7 @@ formalized: true
 ## Proof
 
 > [!note]- Proof (click to expand)
-> The following proof was written by Junyan Xu in the thread for \href{https://github.com/thefundamentaltheor3m/Sphere-Packing-Lean/issues/80}{Issue \#80} of the repository.
+> The following proof was written by Junyan Xu in the thread for [Issue \#80](https://github.com/thefundamentaltheor3m/Sphere-Packing-Lean/issues/80) of the repository.
 > 
 > Given an arbitrary packing $P$ of upper density $\Delta$ and an arbitrary $\epsilon > 0$, we want to produce a periodic packing with density at least $\Delta - \epsilon$. Given a set $S$ (of nonzero volume), we shall call the quantity $\frac{\left| S \cap P \right|}{\left| S \right|}$ the density of $P$ in $S$, where $\left| S \right|$ denotes the volume of $S$.
 > 

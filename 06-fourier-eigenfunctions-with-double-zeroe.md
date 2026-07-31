@@ -2,6 +2,7 @@
 topic: sphere-packing-lean
 type: topic
 section: "6"
+prose: narrative/06.md
 ---
 
 # Fourier eigenfunctions with double zeroes at lattice points
@@ -22,7 +23,9 @@ Integrate a modular form against the Gaussian family: $$a(x) \;=\; \int \varphi(
 
 Three things then happen, and each is a section of the mathematics below.
 
-**The eigenfunction property comes from modularity.** Applying the Fourier transform sends the Gaussian's parameter $z$ to $-1/z$; deforming the contour back and using how $\varphi$ transforms under $z \mapsto -1/z$ returns the
+**The eigenfunction property comes from modularity.** Applying the Fourier
+transform sends the Gaussian's parameter $z$ to $-1/z$; deforming the contour
+back and using how $\varphi$ transforms under $z \mapsto -1/z$ returns the
 same integral, up to the sign that decides which eigenfunction it is. This is
 the step the whole apparatus of the previous section exists to license.
 

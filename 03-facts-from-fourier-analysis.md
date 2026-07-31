@@ -2,6 +2,7 @@
 topic: sphere-packing-lean
 type: topic
 section: "3"
+prose: narrative/03.md
 ---
 
 # Facts from Fourier analysis

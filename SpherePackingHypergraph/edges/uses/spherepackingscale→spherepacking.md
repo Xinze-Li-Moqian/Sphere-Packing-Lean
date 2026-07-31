@@ -1,0 +1,11 @@
+---
+id: 383372ee9983
+kind: uses
+ref:
+  - "[[spherepackingscale]]"
+  - "[[spherepacking]]"
+---
+
+# `spherepackingscale` → `spherepacking`
+
+**uses**: [[spherepackingscale]] uses [[spherepacking]] — declared by the blueprint's `\uses`.

@@ -2,6 +2,7 @@
 topic: sphere-packing-lean
 type: topic
 section: "2"
+prose: narrative/02.md
 ---
 
 # The $E_8$ lattice

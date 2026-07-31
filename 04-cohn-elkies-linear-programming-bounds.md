@@ -2,6 +2,7 @@
 topic: sphere-packing-lean
 type: topic
 section: "4"
+prose: narrative/04.md
 ---
 
 # Cohn-Elkies linear programming bounds
